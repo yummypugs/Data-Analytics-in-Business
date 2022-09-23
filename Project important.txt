@@ -1,0 +1,2 @@
+good documentation (petfinder) - clear and concise code that is easily readable
+publication: describe in clear way, one graph explaining what is happening (1-2 pages), well written description
