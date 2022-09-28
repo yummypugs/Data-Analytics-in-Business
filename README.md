@@ -1,7 +1,7 @@
 # Data-Analytics-in-Business
 Group for Alexander, Ian, Pedro
 
-
+How is the housing sale price correlated to rising interest rates (bond prices)?
 
 
 https://www.zillow.com/research/data/
