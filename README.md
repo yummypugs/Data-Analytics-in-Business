@@ -12,3 +12,13 @@ https://fred.stlouisfed.org/series/IRLTLT01USM156N
 
 
 https://inflationchart.com/home-in-us10y/?time=50%20years&logarithmic=1
+
+
+From 29.09.2022 talk with Jiawei and Lucas:
+  https://fred.stlouisfed.org/series/OBMMIUSDA30YF
+  https://facebook.github.io/prophet/
+  https://xgboost.readthedocs.io/en/stable/
+  https://data.census.gov/cedsci/
+  https://frankfurtschool.instructure.com/courses/7888/pages/literature
+  https://www.proquest.com/docview/2290106996?accountid=132208
+  https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html
