@@ -1,0 +1,11 @@
+name: HousingProject
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - ca-certificates
+  - certifi
+  - openssl
+  - jupyter
+prefix: C:\Users\Alexander\.conda\envs\HousingProject
