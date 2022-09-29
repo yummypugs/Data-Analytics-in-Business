@@ -15,6 +15,7 @@ https://inflationchart.com/home-in-us10y/?time=50%20years&logarithmic=1
 
 
 From 29.09.2022 talk with Jiawei and Lucas:
+
   https://fred.stlouisfed.org/series/OBMMIUSDA30YF
   
   https://facebook.github.io/prophet/
