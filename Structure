@@ -7,6 +7,7 @@ Research question?
         - ...
     1.2 - Look at counties specifically and compare it to another variable like average schools (middle, elementary, high) in that area
     1.3 - Look at location of fortune 500 companies
+    1.4 - https://data.census.gov/cedsci/table?q=average%20age%20by%20city&tid=ACSDP1Y2021.DP05
     1.4 - Create at correlation values / map for these variables
 2. Predictive model
     2.1 - Train model
