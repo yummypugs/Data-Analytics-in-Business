@@ -6,7 +6,8 @@ Research question?
         - Tax rates
         - ...
     1.2 - Look at counties specifically and compare it to another variable like average schools (middle, elementary, high) in that area
-    1.3 - Create at correlation values / map for these variables
+    1.3 - Look at location of fortune 500 companies
+    1.4 - Create at correlation values / map for these variables
 2. Predictive model
     2.1 - Train model
     2.2 - make a prediction
