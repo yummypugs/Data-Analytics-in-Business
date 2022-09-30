@@ -7,5 +7,5 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-  - jupyter
+  - jupyterlab
 prefix: C:\Users\Alexander\.conda\envs\HousingProject
