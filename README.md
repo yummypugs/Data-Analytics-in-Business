@@ -35,3 +35,7 @@ Fortune 500 companies dataset
 https://github.com/cmusam/fortune500
 
 https://data.world/aurielle/fortune-500-2017
+
+age and population dataset:
+
+https://data.census.gov/cedsci/table?q=average%20age%20by%20city&tid=ACSDP1Y2021.DP05
