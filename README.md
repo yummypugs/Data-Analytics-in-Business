@@ -29,3 +29,9 @@ From 29.09.2022 talk with Jiawei and Lucas:
   https://www.proquest.com/docview/2290106996?accountid=132208
   
   https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html
+
+Fortune 500 companies dataset 
+
+https://github.com/cmusam/fortune500
+
+https://data.world/aurielle/fortune-500-2017
