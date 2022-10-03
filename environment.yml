@@ -8,4 +8,5 @@ dependencies:
   - certifi
   - openssl
   - jupyterlab
+  - altair
 prefix: C:\Users\Alexander\.conda\envs\HousingProject
