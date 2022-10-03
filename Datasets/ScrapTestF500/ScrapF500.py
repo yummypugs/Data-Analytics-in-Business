@@ -20,21 +20,21 @@ req_headers = {
 
 urlDict = [
     {"year": 2022, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=3287962&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
-    {"year": 2021, "url": "test"},
-    {"year": 2020, "url": "test"},
-    {"year": 2019, "url": "test"},
-    {"year": 2018, "url": "test"},
-    {"year": 2017, "url": "test"},
-    {"year": 2016, "url": "test"},
-    {"year": 2015, "url": "test"},
-    {"year": 2014, "url": "test"},
-    {"year": 2013, "url": "test"},
-    {"year": 2012, "url": "test"},
-    {"year": 2011, "url": "test"},
-    {"year": 2010, "url": "test"},
-    {"year": 2009, "url": "test"},
-    {"year": 2008, "url": "test"},
-    {"year": 2007, "url": "test"}
+    {"year": 2021, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=3040727&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2020, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=2814606&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2019, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=2611932&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2018, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=2358051&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2017, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=2013055&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2016, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=1666518&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2015, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=1141696&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2014, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=500629&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2013, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=391746&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2012, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=345184&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2011, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=346195&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2010, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=347212&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2009, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=348231&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2008, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=352816&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="},
+    {"year": 2007, "url": "https://fortune.com/wp-json/irving/v1/data/franchise-search-results?list_id=353857&token=Zm9ydHVuZTpCcHNyZmtNZCN5SndjWkkhNHFqMndEOTM="}
 ]
 
 
