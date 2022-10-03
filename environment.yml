@@ -9,4 +9,5 @@ dependencies:
   - openssl
   - jupyterlab
   - altair
+  - scikit-learn
 prefix: C:\Users\Alexander\.conda\envs\HousingProject
