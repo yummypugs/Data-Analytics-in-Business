@@ -60,8 +60,10 @@ def ScrapF500(data_dic):
     print(f"Year: {data_dic['year']}, Dimensions: {output_df.shape}")
     output_df.to_csv(f"F1000_{data_dic['year']}.csv", index=False)
 
-
-if __name__ == '__main__':
-
+def Scrape_Page():
     for val in urlDict:
         ScrapF500(val)
+
+
+if __name__ == '__main__':
+    #Scrap_Page()
