@@ -47,7 +47,9 @@ https://data.census.gov/cedsci/table?q=average%20age%20by%20city&tid=ACSDP1Y2021
 
 
 map:
+
 https://fortune.com/franchise-list-page/visualize-the-fortune-500-2022/
+
 https://hifld-geoplatform.opendata.arcgis.com/datasets/fortune-500-corporate-headquarters/explore?location=31.700191%2C-113.147529%2C3.88
 
 
