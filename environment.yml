@@ -10,4 +10,7 @@ dependencies:
   - jupyterlab
   - altair
   - scikit-learn
+  - openpyxl
+  - matplotlib=3.5
+  - seaborn
 prefix: C:\Users\Alexander\.conda\envs\HousingProject
