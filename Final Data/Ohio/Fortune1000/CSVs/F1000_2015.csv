@@ -1,0 +1,1001 @@
+company,rank,revenue,sector,city,state
+Acuity Brands,899,2394,Industrials,Atlanta,GA
+Teledyne Technologies,898,2394,Technology,Thousand Oaks,CA
+Trimble Navigation,897,2396,Technology,Sunnyvale,CA
+Boston Properties,896,2397,Financials,Boston,MA
+KB Home,895,2401,Engineering & Construction,Los Angeles,CA
+Ferrellgas Partners,894,2406,Energy,Overland Park,KS
+HealthSouth,893,2406,Health Care,Birmingham,AL
+Post Holdings,892,2411,"Food, Beverages & Tobacco",St. Louis,MO
+Guess,891,2418,Apparel,Los Angeles,CA
+Mutual of America Life Insurance,890,2420,Financials,New York,NY
+Cimarex Energy,889,2424,Energy,Denver,CO
+Denbury Resources,888,2435,Energy,Plano,TX
+CalAtlantic Group,887,2435,Engineering & Construction,Irvine,CA
+Equifax,886,2436,Business Services,Atlanta,GA
+Mednax,885,2439,Health Care,Sunrise,FL
+Equinix,884,2444,Telecommunications,Redwood City,CA
+A. Schulman,883,2448,Chemicals,Fairlawn,OH
+OGE Energy,882,2453,Energy,Oklahoma City,OK
+Maxim Integrated Products,881,2454,Technology,San Jose,CA
+Applied Industrial Technologies,880,2460,Wholesalers,Cleveland,OH
+Boyd Gaming,815,2701,"Hotels, Resturants & Leisure",Las Vegas,NV
+Medical Mutual of Ohio,879,2460,Financials,Cleveland,OH
+ServiceMaster Global Holdings,878,2463,Business Services,Memphis,TN
+Total System Services,877,2463,Business Services,Columbus,GA
+PC Connection,876,2463,Retailing,Merrimack,NH
+Monster Beverage,875,2465,"Food, Beverages & Tobacco",Corona,CA
+EQT,874,2470,Energy,Pittsburgh,PA
+Donaldson,873,2474,Industrials,Minneapolis,MN
+EnerSys,872,2474,Industrials,Reading,PA
+Momentive Performance Materials,871,2476,Chemicals,Waterford,NY
+Tetra Tech,870,2484,Engineering & Construction,Pasadena,CA
+SunEdison,869,2484,Technology,Maryland Heights,MO
+Mettler-Toledo International,868,2486,Technology,Columbus,OH
+Vishay Intertechnology,867,2493,Technology,Malvern,PA
+DSW,866,2496,Retailing,Columbus,OH
+Dynegy,865,2497,Energy,Houston,TX
+Tops Holding,864,2508,Food & Drug Stores,Williamsville,NY
+Affiliated Managers Group,863,2511,Financials,Prides Crossing,MA
+Autodesk,862,2512,Technology,San Rafael,CA
+PriceSmart,861,2518,Retailing,San Diego,CA
+Paychex,860,2519,Business Services,Rochester,NY
+SM Energy,859,2522,Energy,Denver,CO
+AOL,858,2527,Technology,New York,NY
+Panera Bread,857,2529,"Hotels, Resturants & Leisure",St. Louis,MO
+Hologic,856,2531,Health Care,Bedford,MA
+ANN,855,2534,Retailing,New York,NY
+Universal,854,2542,"Food, Beverages & Tobacco",Richmond,VA
+Schnitzer Steel Industries,853,2544,Materials,Portland,OR
+Nortek,852,2546,Industrials,Providence,RI
+E*Trade Financial,1000,2019,Financials,New York,NY
+Global Payments,851,2554,Business Services,Atlanta,GA
+Stericycle,850,2556,Business Services,Lake Forest,IL
+Gartner,999,2021,Technology,Stamford,CT
+Broadridge Financial Solutions,849,2558,Business Services,Lake Success,NY
+Selective Insurance Group,998,2035,Financials,Branchville,NJ
+General Growth Properties,848,2563,Financials,Chicago,IL
+AAR,997,2035,Aerospace & Defense,Wood Dale,IL
+Kirby,847,2566,Transportation,Houston,TX
+Universal American,996,2040,Health Care,White Plains,NY
+Great Plains Energy,846,2568,Energy,Kansas City,MO
+Synopsys,995,2058,Technology,Mountain View,CA
+Nu Skin Enterprises,845,2570,Household Products,Provo,UT
+International Game Technology,994,2058,Industrials,Las Vegas,NV
+Caleres,844,2572,Retailing,St. Louis,MO
+Wendy's,993,2061,"Hotels, Resturants & Leisure",Dublin,OH
+Kansas City Southern,843,2577,Transportation,Kansas City,MO
+Vantiv,842,2577,Business Services,Symmes Township,OH
+Willbros Group,992,2063,Energy,Houston,TX
+Hovnanian Enterprises,991,2063,Engineering & Construction,Red Bank,NJ
+J.Crew Group,841,2580,Retailing,New York,NY
+Harsco,990,2066,Materials,Camp Hill,PA
+"Pep Boys-Manny, Moe &amp; Jack",989,2078,Retailing,Philadelphia,PA
+Waste Connections,988,2079,Business Services,The Woodlands,TX
+Seventy Seven Energy,987,2081,Energy,Oklahoma City,OK
+Rexnord,986,2082,Industrials,Milwaukee,WI
+Energen,985,2082,Energy,Birmingham,AL
+Primoris Services,984,2086,Engineering & Construction,Dallas,TX
+Amica Mutual Insurance,983,2098,Financials,Lincoln,RI
+Columbia Sportswear,982,2101,Apparel,Portland,OR
+Penn National Gaming,840,2591,"Hotels, Resturants & Leisure",Wyomissing,PA
+RCS Capital,981,2102,Financials,New York,NY
+Pinnacle Foods,839,2591,"Food, Beverages & Tobacco",Parsippany,NJ
+Penn Mutual Life Insurance,980,2104,Financials,Horsham,PA
+H.B. Fuller,979,2105,Chemicals,St. Paul,MN
+AptarGroup,838,2598,Materials,Crystal Lake,IL
+National Fuel Gas,978,2113,Energy,Williamsville,NY
+G-III Apparel Group,977,2117,Apparel,New York,NY
+Albemarle,837,2600,Chemicals,Baton Rouge,LA
+Southwest Gas,976,2122,Energy,Las Vegas,NV
+Westar Energy,836,2602,Energy,Topeka,KS
+Tupperware Brands,835,2606,Household Products,Orlando,FL
+SemGroup,975,2123,Energy,Tulsa,OK
+Curtiss-Wright,834,2607,Aerospace & Defense,Charlotte,NC
+Allison Transmission Holdings,974,2127,Motor Vehicles & Parts,Indianaoplis,IN
+Vectren,833,2612,Energy,Evansville,IN
+Intuitive Surgical,973,2132,Health Care,Sunnyvale,CA
+ArcBest,832,2613,Transportation,Fort Smith,AR
+GNC Holdings,831,2613,Food & Drug Stores,Pittsburgh,PA
+Esterline Technologies,972,2133,Aerospace & Defense,Bellevue,WA
+Ryland Group,830,2615,Engineering & Construction,Westlake Village,CA
+Werner Enterprises,971,2139,Transportation,Omaha,NE
+Equity Residential,829,2616,Financials,Chicago,IL
+Popular,970,2143,Financials,Hato Rey,PR
+Comerica,828,2618,Financials,Dallas,TX
+IDEX,969,2148,Industrials,Lake Forest,IL
+Cinemark Holdings,827,2627,Media,Plano,TX
+Nationstar Mortgage Holdings,968,2153,Financials,Coppell,TX
+IMS Health Holdings,826,2641,Health Care,Danbury,CT
+Hain Celestial Group,967,2154,"Food, Beverages & Tobacco",Lake Success,NY
+Moog,825,2648,Aerospace & Defense,East Aurora,NY
+Eastman Kodak,966,2163,Technology,Rochester,NY
+HCC Insurance Holdings,824,2653,Financials,Houston,TX
+Express,965,2166,Retailing,Columbus,OH
+ITT,823,2655,Industrials,White Plains,NY
+Concho Resources,822,2660,Energy,Midland,TX
+American Equity Investment Life Holding,964,2169,Financials,West Des Moines,IA
+Universal Forest Products,821,2660,Materials,Grand Rapids,MI
+Toro,963,2173,Industrials,Bloomington,MN
+Carpenter Technology,962,2173,Materials,Wyomissing,PA
+Cabot Oil &amp; Gas,961,2173,Energy,Houston,TX
+TrueBlue,960,2174,Business Services,Tacoma,WA
+Bio-Rad Laboratories,959,2175,Health Care,Hercules,CA
+MarkWest Energy Partners,958,2176,Energy,Denver,CO
+Meritage Homes,957,2180,Engineering & Construction,Scottsdale,AZ
+Scripps Networks Interactive,820,2666,Media,Knoxville,TN
+Chico's FAS,819,2675,Retailing,Fort Myers,FL
+Tower International,956,2182,Motor Vehicles & Parts,Livonia,MI
+Symetra Financial,955,2182,Financials,Bellevue,WA
+Cracker Barrel Old Country Store,818,2684,"Hotels, Resturants & Leisure",Lebanon,TN
+Armstrong World Industries,817,2691,Materials,Lancaster,PA
+Chemtura,954,2190,Chemicals,Philadelphia,PA
+Covance,816,2700,Health Care,Princeton,NJ
+TriNet Group,953,2194,Business Services,San Leandro,CA
+Public Storage,952,2195,Business Services,Glendale,CA
+Vornado Realty Trust,814,2707,Financials,New York,NY
+Ocwen Financial,951,2197,Financials,Atlanta,GA
+Kemper,950,2197,Financials,Chicago,IL
+Range Resources,813,2712,Energy,Fort Worth,TX
+Metaldyne Performance Group,812,2717,Motor Vehicles & Parts,Plymouth,MI
+AMC Networks,949,2198,Media,New York,NY
+Greenbrier Cos.,948,2204,Transportation,Lake Oswego,OR
+Antero Resources,811,2721,Energy,Denver,CO
+Aaron's,810,2725,Retailing,Atlanta,GA
+Brocade Communications Systems,947,2211,Technology,San Jose,CA
+Teradata,809,2732,Technology,Dayton,OH
+Diplomat Pharmacy,946,2215,Food & Drug Stores,Flint,MI
+Legg Mason,808,2742,Financials,Baltimore,MD
+LinkedIn,945,2219,Technology,Mountain View,CA
+DST Systems,807,2749,Business Services,Kansas City,MO
+HNI,944,2223,Household Products,Muscatine,IA
+Wolverine World Wide,806,2761,Apparel,Rockford,MI
+Oil States International,943,2224,Energy,Houston,TX
+Hyster-Yale Materials Handling,805,2767,Industrials,Cleveland,OH
+IHS,942,2231,Business Services,Englewood,CO
+StanCorp Financial Group,804,2770,Financials,Portland,OR
+Alexion Pharmaceuticals,941,2234,Health Care,Cheshire,CT
+Sanderson Farms,803,2775,"Food, Beverages & Tobacco",Laurel,MS
+PerkinElmer,940,2238,Technology,Waltham,MA
+Weis Markets,802,2777,Food & Drug Stores,Sunbury,PA
+Knights of Columbus,939,2239,Financials,New Haven,CT
+WGL Holdings,801,2781,Energy,Washington,DC
+Olin,938,2241,Chemicals,Clayton,MO
+Pool,937,2247,Wholesalers,Covington,LA
+Stifel Financial,936,2250,Financials,St. Louis,MO
+Pinnacle Entertainment,935,2252,"Hotels, Resturants & Leisure",Las Vegas,NV
+Delta Tucker Holdings,934,2252,Aerospace & Defense,McLean,VA
+Parexel International,933,2266,Health Care,Waltham,MA
+Sigma-Aldrich,800,2785,Chemicals,St. Louis,MO
+HCP,932,2268,Financials,Irvine,CA
+Sentry Insurance Group,799,2786,Financials,Stevens Point,WI
+Party City Holdings,931,2271,Retailing,Elmsford,NY
+Education Management,930,2273,Business Services,Pittsburgh,PA
+MSC Industrial Direct,798,2787,Wholesalers,Melville,NY
+Old Dominion Freight Line,797,2788,Transportation,Thomasville,NC
+Granite Construction,929,2275,Engineering & Construction,Watsonville,CA
+Pall,796,2789,Industrials,Port Washington,NY
+Ciena,928,2288,Technology,Hanover,MD
+Benchmark Electronics,795,2797,Technology,Angleton,TX
+Skyworks Solutions,927,2292,Technology,Woburn,MA
+West,794,2805,Business Services,Omaha,NE
+Alliance Holdings,926,2300,Energy,Tulsa,OK
+Dresser-Rand Group,793,2812,Industrials,Houston,TX
+KapStone Paper &amp; Packaging,925,2301,Materials,Northbrook,IL
+Outerwall,924,2303,Retailing,Bellevue,WA
+Lincoln Electric Holdings,792,2813,Industrials,Cleveland,OH
+Magellan Midstream Partners,923,2304,Energy,Tulsa,OK
+OneMain Holdings,791,2814,Financials,Evansville,IN
+Belden,922,2308,Industrials,St. Louis,MO
+Heartland Payment Systems,921,2311,Business Services,Princeton,NJ
+Regeneron Pharmaceuticals,790,2820,Health Care,Tarrytown,NY
+Team Health Holdings,789,2820,Health Care,Knoxville,TN
+Hawaiian Holdings,920,2315,Transportation,Honolulu,HI
+Bon-Ton Stores,788,2823,Retailing,York,PA
+Triple-S Management,919,2320,Health Care,San Juan,PR
+Amerco,787,2835,Transportation,Reno,NV
+Edwards Lifesciences,918,2323,Health Care,Irvine,CA
+Kennametal,786,2837,Industrials,Latrobe,PA
+Beacon Roofing Supply,917,2327,Wholesalers,Herndon,VA
+WABCO Holdings,785,2851,Motor Vehicles & Parts,Rochester Hills,MI
+NewMarket,916,2335,Chemicals,Richmond,VA
+Exide Technologies,784,2855,Motor Vehicles & Parts,Milton,GA
+RPC,915,2337,Energy,Atlanta,GA
+Convergys,783,2856,Business Services,Cincinnati,OH
+hhgregg,914,2339,Retailing,Indianapolis,IN
+Scotts Miracle-Gro,782,2859,Chemicals,Marysville,OH
+Take-Two Interactive Software,913,2351,Technology,New York,NY
+Genesco,781,2860,Retailing,Nashville,TN
+Alliance One International,912,2355,"Food, Beverages & Tobacco",Morrisville,NC
+A.O. Smith,911,2356,Industrials,Milwaukee,WI
+Sears Hometown &amp; Outlet Stores,910,2356,Retailing,Hoffman Estates,IL
+XPO Logistics,909,2357,Transportation,Greenwich,CT
+Insperity,908,2358,Business Services,Kingwood,TX
+Zions Bancorp.,907,2362,Financials,Salt Lake City,UT
+Analog Devices,780,2865,Technology,Norwood,MA
+Mueller Industries,906,2364,Industrials,Memphis,TN
+Kar Auction Services,905,2365,Wholesalers,Carmel,IN
+Carter's,779,2894,Apparel,Atlanta,GA
+Archrock,778,2900,Energy,Houston,TX
+TransDigm Group,904,2373,Aerospace & Defense,Cleveland,OH
+Newfield Exploration,903,2378,Energy,The Woodlands,TX
+Brinker International,777,2906,"Hotels, Resturants & Leisure",Dallas,TX
+Univision Communications,776,2911,Media,New York,NY
+Plexus,902,2378,Technology,Neenah,WI
+ScanSource,775,2914,Wholesalers,Greenville,SC
+Xilinx,901,2383,Technology,San Jose,CA
+Tribune Media,774,2920,Media,Chicago,IL
+Dentsply Sirona,773,2923,Health Care,York,PA
+BWX Technologies,772,2923,Industrials,Charlotte,NC
+Iasis Healthcare,771,2923,Health Care,Franklin,TN
+Crane,770,2925,Industrials,Stamford,CT
+KLA-Tencor,769,2929,Technology,Milpitas,CA
+Arch Coal,768,2937,Energy,St. Louis,MO
+TreeHouse Foods,767,2946,"Food, Beverages & Tobacco",Oak Brook,IL
+Alere,766,2946,Health Care,Waltham,MA
+Huntington Bancshares,765,2956,Financials,Columbus,OH
+Martin Marietta Materials,764,2958,Materials,Raleigh,NC
+Sabre,763,2960,Technology,Southlake,TX
+Sprouts Farmers Market,762,2967,Food & Drug Stores,Phoenix,AZ
+RS Legacy,761,2977,Retailing,Fort Worth,TX
+MWI Veterinary Supply,760,2981,Wholesalers,Boise,ID
+Steelcase,759,2989,Household Products,Grand Rapids,MI
+Tempur Sealy International,758,2990,Household Products,Lexington,KY
+Regal Entertainment Group,757,2990,Media,Knoxville,TN
+Brown-Forman,756,2991,"Food, Beverages & Tobacco",Louisville,KY
+Vulcan Materials,755,2994,Materials,Birmingham,AL
+Service Corp. International,754,2996,Business Services,Houston,TX
+TECO Energy,753,3010,Energy,Tampa,FL
+Mercury General,752,3012,Financials,Los Angeles,CA
+Skechers U.S.A.,900,2387,Apparel,Manhattan Beach,CA
+H&amp;R Block,751,3024,Financials,Kansas City,MO
+American Water Works,750,3025,Energy,Voorhees,NJ
+Warner Music Group,749,3027,Media,New York,NY
+SunPower,748,3027,Energy,San Jose,CA
+Westinghouse Air Brake Technologies,747,3045,Industrials,Wilmerding,PA
+Apollo Education Group,746,3047,Business Services,Phoenix,AZ
+Varian Medical Systems,745,3050,Health Care,Palo Alto,CA
+American National Insurance,744,3051,Financials,Galveston,TX
+Diebold,743,3051,Technology,North Canton,OH
+Select Medical Holdings,742,3065,Health Care,Mechanicsburg,PA
+NuStar Energy,741,3079,Energy,San Antonio,TX
+Ventas,740,3081,Financials,Chicago,IL
+Under Armour,739,3084,Apparel,Baltimore,MD
+Whiting Petroleum,738,3085,Energy,Denver,CO
+International Flavors &amp; Fragrances,737,3089,Chemicals,New York,NY
+Chiquita Brands International,736,3090,"Food, Beverages & Tobacco",Charlotte,NC
+Taylor Morrison Home,735,3104,Engineering & Construction,Scottsdale,AZ
+Par Pacific Holdings,734,3108,Energy,Houston,TX
+IAC/InterActiveCorp,733,3110,Technology,New York,NY
+CME Group,732,3113,Financials,Chicago,IL
+Puget Energy,731,3113,Energy,Bellevue,WA
+Iron Mountain,730,3118,Business Services,Boston,MA
+Valmont Industries,729,3123,Industrials,Omaha,NE
+Worthington Industries,728,3126,Materials,Columbus,OH
+TD Ameritrade Holding,727,3129,Financials,Omaha,NE
+Amkor Technology,726,3129,Technology,Tempe,AZ
+Citrix Systems,725,3143,Technology,Fort Lauderdale,FL
+SunGard Data Systems,724,3147,Business Services,Wayne,PA
+Rent-A-Center,723,3158,Retailing,Plano,TX
+ON Semiconductor,722,3162,Technology,Phoenix,AZ
+EP Energy,721,3166,Energy,Houston,TX
+Patterson-UTI Energy,720,3182,Energy,Houston,TX
+Landstar System,719,3185,Transportation,Jacksonville,FL
+Groupon,718,3192,Technology,Chicago,IL
+Tesla Motors,717,3198,Motor Vehicles & Parts,Palo Alto,CA
+United Refining,716,3201,Energy,Warren,PA
+Carlisle,715,3204,Materials,Charlotte,NC
+NBTY,714,3206,Health Care,Ronkonkoma,NY
+LVB Acquisition,713,3223,Health Care,Warsaw,IN
+Green Plains,712,3236,Energy,Omaha,NE
+SkyWest,711,3237,Transportation,St. George,UT
+Hawaiian Electric Industries,710,3240,Energy,Honolulu,HI
+Ulta Salon Cosmetics &amp; Fragrance,709,3241,Retailing,Bolingbrook,IL
+W.R. Grace,708,3243,Chemicals,Columbia,MD
+Cooper-Standard Holdings,707,3244,Motor Vehicles & Parts,Novi,MI
+Tailored Brands,706,3253,Retailing,Houston,TX
+Regal Beloit,705,3257,Industrials,Beloit,WI
+Oaktree Capital Group,704,3272,Financials,Los Angeles,CA
+American Eagle Outfitters,703,3283,Retailing,Pittsburgh,PA
+Church &amp; Dwight,702,3298,Household Products,Ewing,NJ
+Urban Outfitters,701,3323,Retailing,Philadelphia,PA
+C.R. Bard,700,3324,Health Care,Murray Hill,NJ
+Moody's,699,3334,Financials,New York,NY
+Welltower,698,3344,Financials,Toledo,OH
+Alliant Energy,697,3350,Energy,Madison,WI
+Unisys,696,3356,Technology,Blue Bell,PA
+Hubbell,695,3359,Industrials,Shelton,CT
+Enable Midstream Partners,694,3367,Energy,Oklahoma City,OK
+Lennox International,693,3367,Industrials,Richardson,TX
+First Solar,692,3392,Energy,Tempe,AZ
+Clean Harbors,691,3402,Business Services,Norwell,MA
+Cerner,690,3403,Health Care,North Kansas City,MO
+ADT,689,3408,Business Services,Boca Raton,FL
+Cooper Tire &amp; Rubber,688,3425,Motor Vehicles & Parts,Findlay,OH
+CUNA Mutual Group,687,3434,Financials,Madison,WI
+WhiteWave Foods,686,3437,"Food, Beverages & Tobacco",Denver,CO
+Systemax,685,3443,Retailing,Port Washington,NY
+EchoStar,684,3446,Technology,Englewood,CO
+Pinnacle West Capital,683,3492,Energy,Phoenix,AZ
+Snap-on,682,3493,Industrials,Kenosha,WI
+Country Financial,681,3498,Financials,Bloomington,IL
+Nasdaq,680,3500,Financials,New York,NY
+Fossil Group,679,3510,Apparel,Richardson,TX
+Big Heart Pet Brands,678,3521,"Food, Beverages & Tobacco",San Francisco,CA
+Smart &amp; Final Stores,677,3534,Food & Drug Stores,Commerce,CA
+Towers Watson,676,3546,Business Services,Arlington,VA
+Roper Technologies,675,3550,Technology,Sarasota,FL
+CACI International,674,3565,Technology,Arlington,VA
+Hub Group,673,3571,Transportation,Oak Brook,IL
+Boise Cascade,672,3574,Wholesalers,Boise,ID
+Electronic Arts,671,3575,Technology,Redwood City,CA
+Graham Holdings,670,3582,Business Services,Arlington,VA
+HSN,669,3588,Retailing,St. Petersburg,FL
+Thor Industries,668,3609,Motor Vehicles & Parts,Elkhart,IN
+QEP Resources,667,3617,Energy,Denver,CO
+Ryerson Holding,666,3622,Materials,Chicago,IL
+DCP Midstream Partners,665,3642,Energy,Denver,CO
+Forest Laboratories,664,3647,Health Care,New York,NY
+Cabela's,663,3648,Retailing,Sidney,NE
+CIT Group,662,3652,Financials,New York,NY
+Cabot,661,3652,Chemicals,Boston,MA
+Oceaneering International,660,3660,Energy,Houston,TX
+Targa Energy,659,3669,Energy,Houston,TX
+Crown Castle International,658,3690,Telecommunications,Houston,TX
+American Axle &amp; Manufacturing,657,3696,Motor Vehicles & Parts,Detroit,MI
+Lexmark International,656,3711,Technology,Lexington,KY
+Helmerich &amp; Payne,655,3720,Energy,Tulsa,OK
+Brink's,654,3722,Business Services,Richmond,VA
+USG,653,3724,Materials,Chicago,IL
+Consol Energy,652,3727,Energy,Canonsburg,PA
+NII Holdings,651,3727,Telecommunications,Reston,VA
+Fastenal,650,3734,Retailing,Winona,MN
+New Jersey Resources,649,3738,Energy,Wall,NJ
+Abercrombie &amp; Fitch,648,3744,Retailing,New Albany,OH
+Flowers Foods,647,3749,"Food, Beverages & Tobacco",Thomasville,GA
+Sally Beauty Holdings,646,3754,Retailing,Denton,TX
+Magellan Health,645,3760,Health Care,Scottsdale,AZ
+Triumph Group,644,3763,Aerospace & Defense,Berwyn,PA
+Unified Grocers,643,3771,Wholesalers,Commerce,CA
+Joy Global,642,3778,Industrials,Milwaukee,WI
+Meritor,641,3795,Motor Vehicles & Parts,Troy,MI
+CommScope Holding,640,3830,Technology,Hickory,NC
+Brookdale Senior Living,639,3832,Health Care,Brentwood,TN
+PolyOne,638,3836,Chemicals,Avon Lake,OH
+Ingles Markets,637,3836,Food & Drug Stores,Black Mountain,NC
+Pitney Bowes,636,3841,Technology,Stamford,CT
+CareFusion,635,3842,Health Care,San Diego,CA
+WPX Energy,634,3845,Energy,Tulsa,OK
+Genesis Energy,633,3846,Energy,Houston,TX
+Timken,632,3862,Industrials,North Canton,OH
+Carlyle Group,631,3880,Financials,Washington,DC
+Science Applications International,630,3885,Technology,McLean,VA
+Manitowoc,629,3887,Industrials,Manitowoc,WI
+Toll Brothers,628,3912,Engineering & Construction,Horsham,PA
+Silgan Holdings,627,3912,Materials,Stamford,CT
+Xylem,626,3916,Industrials,Rye Brook,NY
+Crestwood Equity Partners,625,3931,Energy,Houston,TX
+Watsco,624,3945,Wholesalers,Miami,FL
+Leggett &amp; Platt,623,3950,Household Products,Carthage,MO
+Darling Ingredients,622,3956,"Food, Beverages & Tobacco",Irving,TX
+Torchmark,621,3964,Financials,McKinney,TX
+T. Rowe Price,620,3982,Financials,Baltimore,MD
+Ametek,619,4022,Technology,Berwyn,PA
+Southwestern Energy,618,4038,Energy,Spring,TX
+Patterson,617,4064,Wholesalers,St. Paul,MN
+Brunswick,616,4075,Transportation,Lake Forest,IL
+AmTrust Financial Services,615,4084,Financials,New York,NY
+Hillshire Brands,614,4085,"Food, Beverages & Tobacco",Chicago,IL
+FMC,613,4093,Chemicals,Philadelphia,PA
+American Tower,612,4100,Telecommunications,Boston,MA
+Chipotle Mexican Grill,611,4108,"Hotels, Resturants & Leisure",Denver,CO
+Belk,610,4110,Retailing,Charlotte,NC
+Adams Resources &amp; Energy,609,4133,Energy,Houston,TX
+CNO Financial Group,608,4145,Financials,Carmel,IN
+Roundy's,607,4146,Food & Drug Stores,Milwaukee,WI
+Molson Coors Brewing,606,4146,"Food, Beverages & Tobacco",Denver,CO
+Adobe Systems,605,4147,Technology,San Jose,CA
+Exelis,604,4163,Aerospace & Defense,McLean,VA
+B/E Aerospace,603,4210,Aerospace & Defense,Wellington,FL
+Securian Financial Group,602,4234,Financials,St. Paul,MN
+Allegheny Technologies,601,4238,Materials,Pittsburgh,PA
+Greif,600,4239,Materials,Delaware,OH
+Graphic Packaging Holding,599,4241,Materials,Atlanta,GA
+McCormick,598,4243,"Food, Beverages & Tobacco",Sparks,MD
+Tiffany,597,4250,Retailing,New York,NY
+Resolute Forest Products,596,4258,Materials,Catawba,SC
+Hasbro,595,4277,Household Products,Pawtucket,RI
+Alpha Natural Resources,594,4287,Energy,Bristol,VA
+Swift Transportation,593,4299,Transportation,Phoenix,AZ
+KeyCorp,592,4339,Financials,Cleveland,OH
+LPL Financial Holdings,591,4374,Financials,Boston,MA
+VWR,590,4375,Wholesalers,Radnor,PA
+RPM International,589,4376,Chemicals,Medina,OH
+Fortune Brands Home &amp; Security,588,4383,Household Products,Deerfield,IL
+Envision Healthcare Holdings,587,4398,Health Care,Greenwood Village,CO
+Protective Life,586,4404,Financials,Birmingham,AL
+Activision Blizzard,585,4408,Technology,Santa Monica,CA
+Mead Johnson Nutrition,584,4409,"Food, Beverages & Tobacco",Glenview,IL
+Hyatt Hotels,583,4415,"Hotels, Resturants & Leisure",Chicago,IL
+Westlake Chemical,582,4415,Chemicals,Houston,TX
+Avaya,581,4424,Technology,Santa Clara,CA
+Bloomin' Brands,580,4443,"Hotels, Resturants & Leisure",Tampa,FL
+Edgewell Personal Care,579,4448,Household Products,St. Louis,MO
+Liberty Media,578,4450,Media,Englewood,CO
+NVR,577,4453,Engineering & Construction,Reston,VA
+FM Global,576,4454,Financials,Johnston,RI
+Hospira,575,4464,Health Care,Lake Forest,IL
+Polaris Industries,574,4480,Transportation,Medina,MN
+Tutor Perini,573,4492,Engineering & Construction,Sylmar,CA
+Intuit,572,4507,Technology,Mountain View,CA
+Northern Trust,571,4513,Financials,Chicago,IL
+Valspar,570,4522,Chemicals,Minneapolis,MN
+Andersons,569,4540,"Food, Beverages & Tobacco",Maumee,OH
+CA,568,4547,Technology,Islandia,NY
+Coty,567,4552,Household Products,New York,NY
+Cintas,566,4552,Business Services,Cincinnati,OH
+Intercontinental Exchange,565,4568,Financials,Atlanta,GA
+Axiall,564,4569,Chemicals,Atlanta,GA
+Lam Research,563,4607,Technology,Fremont,CA
+MasTec,562,4615,Engineering & Construction,Coral Gables,FL
+Yahoo,561,4618,Technology,Sunnyvale,CA
+Cliffs Natural Resources,560,4624,Energy,Cleveland,OH
+Colfax,559,4625,Industrials,Annapolis Junction,MD
+Arthur J. Gallagher,558,4627,Financials,Itasca,IL
+Juniper Networks,557,4627,Technology,Sunnyvale,CA
+MDU Resources Group,556,4671,Energy,Bismarck,ND
+Zimmer Biomet Holdings,555,4673,Health Care,Warsaw,IN
+First American Financial,554,4678,Financials,Santa Ana,CA
+Nvidia,553,4682,Technology,Santa Clara,CA
+Robert Half International,552,4695,Business Services,Menlo Park,CA
+Williams-Sonoma,551,4699,Retailing,San Francisco,CA
+Superior Energy Services,550,4702,Energy,Houston,TX
+Keurig Green Mountain,549,4708,"Food, Beverages & Tobacco",Waterbury,VT
+Nexeo Solutions Holdings,548,4710,Wholesalers,The Woodlands,TX
+Aleris,547,4716,Materials,Cleveland,OH
+Rush Enterprises,546,4727,Retailing,New Braunfels,TX
+M&amp;T Bank Corp.,545,4736,Financials,Buffalo,NY
+Michaels Cos.,544,4738,Retailing,Irving,TX
+CF Industries Holdings,543,4743,Chemicals,Deerfield,IL
+SPX,542,4749,Industrials,Charlotte,NC
+Levi Strauss,541,4754,Apparel,San Francisco,CA
+Frontier Communications,540,4773,Telecommunications,Stamford,CT
+Orbital ATK,539,4775,Aerospace & Defense,Dulles,VA
+Zoetis,538,4785,Health Care,Florham Park,NJ
+Ascena Retail Group,537,4791,Retailing,Mahwah,NJ
+Continental Resources,536,4802,Energy,Oklahoma City,OK
+Coach,535,4806,Apparel,New York,NY
+Bemis,534,4824,Materials,Neenah,WI
+Neiman Marcus Group,533,4839,Retailing,Dallas,TX
+Burlington Stores,532,4850,Retailing,Burlington,NJ
+Quad/Graphics,531,4862,Media,Sussex,WI
+Constellation Brands,530,4868,"Food, Beverages & Tobacco",Victor,NY
+Simon Property Group,529,4871,Financials,Indianapolis,IN
+Flowserve,528,4878,Industrials,Irving,TX
+Pepco Holdings,527,4878,Energy,Washington,DC
+Atmos Energy,526,4941,Energy,Dallas,TX
+Cincinnati Financial,525,4945,Financials,Fairfield,OH
+SCANA,523,4951,Energy,Cayce,SC
+Regency Energy Partners,523,4951,Energy,Dallas,TX
+Berry Plastics Group,522,4958,Materials,Evansville,IN
+Raymond James Financial,521,4966,Financials,St. Petersburg,FL
+Linn Energy,520,4983,Energy,Houston,TX
+WEC Energy Group,519,4997,Energy,Milwaukee,WI
+Telephone &amp; Data Systems,518,5009,Telecommunications,Chicago,IL
+Harris,517,5012,Technology,Melbourne,FL
+Sonoco Products,516,5015,Materials,Hartsville,SC
+ABM Industries,515,5033,Business Services,New York,NY
+American Tire Distributors Holdings,514,5038,Wholesalers,Huntersville,NC
+Lorillard,513,5052,"Food, Beverages & Tobacco",Greensboro,NC
+Fiserv,512,5066,Business Services,Brookfield,WI
+Hanover Insurance Group,511,5068,Financials,Worcester,MA
+YRC Worldwide,510,5069,Transportation,Overland Park,KS
+Sprague Resources,509,5070,Wholesalers,Portsmouth,NH
+Airgas,508,5073,Wholesalers,Radnor,PA
+Rockwell Collins,507,5073,Aerospace & Defense,Cedar Rapids,IA
+Leidos Holdings,506,5092,Technology,Reston,VA
+Noble Energy,505,5101,Energy,Houston,TX
+Markel,504,5134,Financials,Glen Allen,VA
+Hexion,503,5137,Chemicals,Columbus,OH
+Northern Tier Energy,502,5160,Energy,Tempe,AZ
+Big Lots,501,5177,Retailing,Columbus,OH
+McGraw Hill Financial,500,5190,Business Services,New York,NY
+Alleghany,499,5232,Financials,New York,NY
+Owens Corning,498,5276,Materials,Toledo,OH
+Wyndham Worldwide,497,5281,"Hotels, Resturants & Leisure",Parsippany,NJ
+Pioneer Natural Resources,496,5293,Energy,Irving,TX
+LifePoint Health,495,5301,Health Care,Brentwood,TN
+Alliance Data Systems,494,5303,Business Services,Plano,TX
+Insight Enterprises,493,5316,Wholesalers,Tempe,AZ
+ARRIS Group,492,5323,Technology,Suwanee,GA
+Kindred Healthcare,491,5325,Health Care,Louisville,KY
+Hanesbrands,490,5325,Apparel,Winston-Salem,NC
+Essendant,489,5327,Wholesalers,Deerfield,IL
+Realogy Holdings,488,5328,Financials,Madison,NJ
+Amphenol,487,5346,Technology,Wallingford,CT
+Harman International Industries,486,5349,Industrials,Stamford,CT
+Host Hotels &amp; Resorts,485,5354,Financials,Bethesda,MD
+Alaska Air Group,484,5368,Transportation,Seattle,WA
+salesforce.com,483,5374,Technology,San Francisco,CA
+Lithia Motors,482,5403,Retailing,Medford,OR
+Western &amp; Southern Financial Group,481,5404,Financials,Cincinnati,OH
+CH2M Hill,480,5414,Engineering & Construction,Englewood,CO
+Regions Financial,479,5428,Financials,Birmingham,AL
+Jones Lang LaSalle,478,5430,Financials,Chicago,IL
+Wynn Resorts,477,5434,"Hotels, Resturants & Leisure",Las Vegas,NV
+Quintiles Transnational Holdings,476,5460,Health Care,Durham,NC
+Booz Allen Hamilton Holding,475,5479,Technology,McLean,VA
+Netflix,474,5505,Retailing,Los Gatos,CA
+Advanced Micro Devices,473,5506,Technology,Sunnyvale,CA
+Old Republic International,472,5531,Financials,Chicago,IL
+Kelly Services,471,5563,Business Services,Troy,MI
+Domtar,470,5563,Materials,Fort Mill,SC
+Clorox,469,5591,Household Products,Oakland,CA
+Western Union,468,5607,Business Services,Englewood,CO
+J.M. Smucker,467,5611,"Food, Beverages & Tobacco",Orrville,OH
+St. Jude Medical,466,5622,Health Care,St. Paul,MN
+AGL Resources,465,5628,Energy,Atlanta,GA
+MeadWestvaco,464,5631,Materials,Richmond,VA
+Navient,463,5637,Financials,Wilmington,DE
+Ingredion,462,5668,"Food, Beverages & Tobacco",Westchester,IL
+United Rentals,461,5685,Business Services,Stamford,CT
+Tractor Supply,460,5712,Retailing,Brentwood,TN
+American Financial Group,459,5713,Financials,Cincinnati,OH
+Expedia,458,5764,Technology,Bellevue,WA
+Calumet Specialty Products Partners,457,5791,Energy,Indianapolis,IN
+Con-way,456,5806,Transportation,Ann Arbor,MI
+Newell Brands,455,5810,Household Products,Atlanta,GA
+JetBlue Airways,454,5817,Transportation,Long Island City,NY
+PulteGroup,453,5822,Engineering & Construction,Atlanta,GA
+Windstream Holdings,452,5830,Telecommunications,Little Rock,AR
+Packaging Corp. of America,451,5853,Materials,Lake Forest,IL
+Asbury Automotive Group,450,5868,Retailing,Duluth,GA
+Spectra Energy,449,5903,Energy,Houston,TX
+MRC Global,448,5933,Energy,Houston,TX
+HRG Group,447,5963,Household Products,New York,NY
+Energy Future Holdings,446,5978,Energy,Dallas,TX
+Graybar Electric,445,5979,Wholesalers,St. Louis,MO
+A-Mark Precious Metals,444,5979,Materials,Santa Monica,CA
+General Cable,443,5980,Industrials,Highland Heights,KY
+Starwood Hotels &amp; Resorts,442,5983,"Hotels, Resturants & Leisure",Stamford,CT
+TEGNA,441,6008,Media,McLean,VA
+Laboratory Corp. of America,440,6012,Health Care,Burlington,NC
+Mattel,439,6024,Household Products,El Segundo,CA
+Ameren,438,6054,Energy,St. Louis,MO
+Dr Pepper Snapple Group,437,6121,"Food, Beverages & Tobacco",Plano,TX
+Erie Insurance Group,436,6124,Financials,Erie,PA
+Charles Schwab,435,6156,Financials,San Francisco,CA
+J.B. Hunt Transport Services,434,6165,Transportation,Lowell,AR
+Trinity Industries,433,6170,Transportation,Dallas,TX
+Sanmina,432,6215,Technology,San Jose,CA
+Harley-Davidson,431,6229,Transportation,Milwaukee,WI
+Discovery Communications,430,6265,Media,Silver Spring,MD
+iHeartMedia,429,6319,Media,San Antonio,TX
+NetApp,428,6325,Technology,Sunnyvale,CA
+Avery Dennison,427,6330,Chemicals,Glendale,CA
+Jones Financial,426,6333,Financials,Des Peres,MO
+Auto-Owners Insurance,425,6337,Financials,Lansing,MI
+KBR,424,6366,Engineering & Construction,Houston,TX
+Barnes &amp; Noble,423,6381,Retailing,New York,NY
+Fidelity National Information Services,422,6417,Business Services,Jacksonville,FL
+EMCOR Group,421,6444,Engineering & Construction,Norwalk,CT
+Anixter International,420,6446,Wholesalers,Glenview,IL
+Cablevision Systems,419,6461,Telecommunications,Bethpage,NY
+NiSource,418,6471,Energy,Merrillville,IN
+Seaboard,417,6473,"Food, Beverages & Tobacco",Shawnee Mission,KS
+Fifth Third Bancorp,416,6503,Financials,Cincinnati,OH
+AK Steel Holding,415,6506,Materials,West Chester,OH
+Omnicare,414,6551,Health Care,Cincinnati,OH
+Expeditors International of Washington,413,6565,Transportation,Seattle,WA
+NCR,412,6591,Technology,Duluth,GA
+Lansing Trade Group,411,6614,Wholesalers,Overland Park,KS
+Dana Holding,410,6617,Motor Vehicles & Parts,Maumee,OH
+Rockwell Automation,409,6624,Industrials,Milwaukee,WI
+SanDisk,408,6628,Technology,Milpitas,CA
+Ryder System,407,6639,Transportation,Miami,FL
+Buckeye Partners,406,6646,Energy,Houston,TX
+Symantec,405,6676,Technology,Mountain View,CA
+Integrys Energy Group,404,6731,Energy,Chicago,IL
+LKQ,403,6740,Wholesalers,Chicago,IL
+Pantry,402,6765,Retailing,Cary,NC
+Level 3 Communications,401,6777,Telecommunications,Broomfield,CO
+Dillard's,400,6780,Retailing,Little Rock,AR
+Owens-Illinois,399,6784,Materials,Perrysburg,OH
+Peabody Energy,398,6792,Energy,St. Louis,MO
+United Natural Foods,397,6794,Wholesalers,Providence,RI
+Spirit AeroSystems Holdings,396,6799,Aerospace & Defense,Wichita,KS
+Celanese,395,6802,Chemicals,Irving,TX
+Oshkosh,394,6808,Motor Vehicles & Parts,Oshkosh,WI
+Dick's Sporting Goods,393,6815,Retailing,Coraopolis,PA
+Live Nation Entertainment,392,6867,Media,Beverly Hills,CA
+Mutual of Omaha Insurance,391,6878,Financials,Omaha,NE
+Huntington Ingalls Industries,390,6957,Aerospace & Defense,Newport News,VA
+Agilent Technologies,389,6981,Technology,Santa Clara,CA
+Commercial Metals,388,7057,Materials,Irving,TX
+Pacific Life,387,7073,Financials,Newport Beach,CA
+PetSmart,386,7112,Retailing,Phoenix,AZ
+W.R. Berkley,385,7129,Financials,Greenwich,CT
+Foot Locker,384,7151,Retailing,New York,NY
+CMS Energy,383,7179,Energy,Jackson,MI
+Casey's General Stores,382,7194,Retailing,Ankeny,IA
+O'Reilly Automotive,381,7216,Retailing,Springfield,MO
+Allergan,380,7238,Health Care,Irvine,CA
+Newmont Mining,379,7292,Energy,Greenwood Village,CO
+Boston Scientific,378,7380,Health Care,Marlborough,MA
+Terex,377,7404,Industrials,Westport,CT
+Hershey,376,7422,"Food, Beverages & Tobacco",Hershey,PA
+Quest Diagnostics,375,7435,Health Care,Madison,NJ
+Ralph Lauren,374,7450,Apparel,New York,NY
+Blackstone Group,373,7485,Financials,New York,NY
+Interpublic Group,372,7537,Business Services,New York,NY
+Ashland,371,7621,Chemicals,Covington,KY
+Williams,370,7637,Energy,Tulsa,OK
+Celgene,369,7670,Health Care,Summit,NJ
+Coca-Cola Enterprises,368,7680,"Food, Beverages & Tobacco",Atlanta,GA
+Eversource Energy,367,7742,Energy,Springfield,MA
+Sealed Air,366,7751,Materials,Charlotte,NC
+TravelCenters of America,365,7779,Retailing,Westlake,OH
+Lennar,364,7780,Engineering & Construction,Miami,FL
+Motorola Solutions,363,7785,Technology,Schaumburg,IL
+Mohawk Industries,362,7803,Household Products,Calhoun,GA
+Quanta Services,361,7851,Engineering & Construction,Houston,TX
+WESCO International,360,7890,Wholesalers,Pittsburgh,PA
+SpartanNash,359,7916,Wholesalers,Grand Rapids,MI
+American Family Insurance Group,358,7933,Financials,Madison,WI
+FMC Technologies,357,7943,Energy,Houston,TX
+KKR,356,7972,Financials,New York,NY
+Weyerhaeuser,355,7976,Materials,Federal Way,WA
+D.R. Horton,354,8025,Engineering & Construction,Fort Worth,TX
+Calpine,353,8030,Energy,Houston,TX
+Core-Mark Holding,352,8170,Wholesalers,South San Francisco,CA
+PVH,351,8241,Apparel,New York,NY
+Murphy Oil,350,8263,Energy,El Dorado,AR
+UGI,349,8277,Energy,King of Prussia,PA
+Jarden,348,8287,Household Products,Boca Raton,FL
+BorgWarner,347,8305,Motor Vehicles & Parts,Auburn Hills,MI
+Dover,346,8322,Industrials,Downers Grove,IL
+Delek US Holdings,345,8324,Energy,Brentwood,TN
+Visteon,344,8343,Motor Vehicles & Parts,Van Buren Township,MI
+AECOM,343,8357,Engineering & Construction,Los Angeles,CA
+Campbell Soup,342,8405,"Food, Beverages & Tobacco",Camden,NJ
+Tenneco,341,8420,Motor Vehicles & Parts,Lake Forest,IL
+Broadcom,340,8428,Technology,Irvine,CA
+Priceline Group,339,8442,Technology,Norwalk,CT
+Becton Dickinson,338,8446,Health Care,Franklin Lakes,NJ
+Reynolds American,337,8471,"Food, Beverages & Tobacco",Winston-Salem,NC
+Avis Budget Group,336,8485,Retailing,Parsippany,NJ
+Franklin Resources,335,8491,Financials,San Mateo,CA
+Masco,334,8521,Household Products,Taylor,MI
+Thrivent Financial for Lutherans,333,8521,Financials,Minneapolis,MN
+Ball,332,8570,Materials,Broomfield,CO
+News Corp.,331,8574,Media,New York,NY
+Dollar Tree,330,8602,Retailing,Chesapeake,VA
+Targa Resources,329,8617,Energy,Houston,TX
+Caesars Entertainment,328,8679,"Hotels, Resturants & Leisure",Las Vegas,NV
+SunTrust Banks,327,8707,Financials,Atlanta,GA
+Steel Dynamics,326,8756,Materials,Fort Wayne,IN
+Darden Restaurants,325,8758,"Hotels, Resturants & Leisure",Orlando,FL
+Universal Health Services,324,8764,Health Care,King of Prussia,PA
+Republic Services,323,8788,Business Services,Phoenix,AZ
+Avon Products,322,8851,Household Products,New York,NY
+CBRE Group,321,9050,Financials,Los Angeles,CA
+Mosaic,320,9056,Chemicals,Plymouth,MN
+Applied Materials,319,9072,Technology,Santa Clara,CA
+Crown Holdings,318,9097,Materials,Philadelphia,PA
+Charter Communications,317,9108,Telecommunications,Stamford,CT
+HD Supply Holdings,316,9167,Wholesalers,Atlanta,GA
+Sonic Automotive,315,9197,Retailing,Charlotte,NC
+Fidelity National Financial,314,9199,Financials,Jacksonville,FL
+CenterPoint Energy,313,9226,Energy,Houston,TX
+Autoliv,312,9241,Motor Vehicles & Parts,Auburn Hills,MI
+GameStop,311,9296,Retailing,Grapevine,TX
+Hormel Foods,310,9316,"Food, Beverages & Tobacco",Austin,MN
+Owens &amp; Minor,309,9440,Wholesalers,Mechanicsville,VA
+MasterCard,308,9473,Business Services,Purchase,NY
+AutoZone,307,9475,Retailing,Memphis,TN
+Dean Foods,306,9503,"Food, Beverages & Tobacco",Dallas,TX
+Eastman Chemical,305,9527,Chemicals,Kingsport,TN
+Genworth Financial,304,9565,Financials,Richmond,VA
+Discover Financial Services,303,9611,Financials,Riverwoods,IL
+Precision Castparts,302,9640,Aerospace & Defense,Portland,OR
+Molina Healthcare,301,9667,Health Care,Long Beach,CA
+Stryker,300,9675,Health Care,Kalamazoo,MI
+NGL Energy Partners,299,9699,Wholesalers,Tulsa,OK
+Biogen,298,9703,Health Care,Cambridge,MA
+Corning,297,9715,Technology,Corning,NY
+AGCO,296,9724,Industrials,Duluth,GA
+Ally Financial,295,9790,Financials,Detroit,MI
+Advance Auto Parts,294,9844,Retailing,Roanoke,VA
+WestRock,293,9895,Materials,Norcross,GA
+BB&amp;T Corp.,292,9926,Financials,Winston-Salem,NC
+Group 1 Automotive,291,9938,Retailing,Houston,TX
+W.W. Grainger,290,9965,Wholesalers,Lake Forest,IL
+MGM Resorts International,289,10082,"Hotels, Resturants & Leisure",Las Vegas,NV
+Cognizant Technology Solutions,288,10263,Technology,Teaneck,NJ
+Henry Schein,287,10371,Wholesalers,Melville,NY
+Peter Kiewit Sons',286,10380,Engineering & Construction,Omaha,NE
+Assurant,285,10382,Financials,New York,NY
+Air Products &amp; Chemicals,284,10448,Chemicals,Allentown,PA
+Reliance Steel &amp; Aluminum,283,10452,Materials,Los Angeles,CA
+Principal Financial,282,10478,Financials,Des Moines,IA
+Family Dollar Stores,281,10489,Retailing,Matthews,NC
+Hilton Worldwide Holdings,280,10502,"Hotels, Resturants & Leisure",McLean,VA
+Unum Group,279,10510,Financials,Chattanooga,TN
+State Street Corp.,278,10687,Financials,Boston,MA
+CST Brands,277,10777,Retailing,San Antonio,TX
+Navistar International,276,10806,Motor Vehicles & Parts,Lisle,IL
+Cameron International,275,10809,Energy,Houston,TX
+Public Service Enterprise Group,274,10886,Energy,Newark,NJ
+Reinsurance Group of America,273,10904,Financials,Chesterfield,MO
+H.J. Heinz,272,10922,"Food, Beverages & Tobacco",Pittsburgh,PA
+Estee Lauder,271,10969,Household Products,New York,NY
+Sempra Energy,270,11035,Energy,San Diego,CA
+Ross Stores,269,11042,Retailing,Dublin,CA
+Voya Financial,268,11071,Financials,New York,NY
+BlackRock,267,11081,Financials,New York,NY
+Sherwin-Williams,266,11130,Chemicals,Cleveland,OH
+First Data,265,11152,Business Services,Atlanta,GA
+Farmers Insurance Exchange,264,11318,Financials,Woodland Hills,CA
+Liberty Interactive,263,11382,Technology,Englewood,CO
+L Brands,262,11454,Retailing,Columbus,OH
+Stanley Black &amp; Decker,261,11457,Household Products,New Britain,CT
+Bed Bath &amp; Beyond,260,11504,Retailing,Union,NJ
+Huntsman,259,11578,Chemicals,Salt Lake City,UT
+R.R. Donnelley &amp; Sons,258,11603,Media,Chicago,IL
+PPL,257,11616,Energy,Allentown,PA
+Norfolk Southern,256,11624,Transportation,Norfolk,VA
+Xcel Energy,255,11686,Energy,Minneapolis,MN
+Guardian Life Ins. Co. of America,254,11909,Financials,New York,NY
+CDW,253,12075,Technology,Vernon Hills,IL
+L-3 Communications,252,12124,Aerospace & Defense,New York,NY
+Automatic Data Processing,251,12220,Business Services,Roseland,NJ
+J.C. Penney,250,12257,Retailing,Plano,TX
+Praxair,249,12273,Chemicals,Danbury,CT
+VF,248,12282,Apparel,Greensboro,NC
+Ameriprise Financial,247,12296,Financials,Minneapolis,MN
+DTE Energy,246,12301,Energy,Detroit,MI
+"Toys ""R"" Us",245,12361,Retailing,Wayne,NJ
+Leucadia National,244,12407,"Food, Beverages & Tobacco",New York,NY
+Dominion Resources,243,12436,Energy,Richmond,VA
+Facebook,242,12466,Technology,Menlo Park,CA
+Entergy,241,12495,Energy,New Orleans,LA
+CSX,240,12669,Transportation,Jacksonville,FL
+Jacobs Engineering Group,239,12695,Engineering & Construction,Pasadena,CA
+Visa,238,12702,Business Services,Foster City,CA
+Oneok,237,12836,Energy,Tulsa,OK
+Consolidated Edison,236,12919,Energy,New York,NY
+Marsh &amp; McLennan,235,12951,Financials,New York,NY
+WellCare Health Plans,234,12960,Health Care,Tampa,FL
+Texas Instruments,233,13045,Technology,Dallas,TX
+CarMax,232,13122,Retailing,Richmond,VA
+DaVita HealthCare Partners,231,13162,Health Care,Denver,CO
+Parker-Hannifin,230,13216,Industrials,Cleveland,OH
+Computer Sciences,229,13233,Technology,Falls Church,VA
+Yum Brands,228,13279,"Hotels, Resturants & Leisure",Louisville,KY
+Marathon Oil,227,13297,Energy,Houston,TX
+Edison International,226,13413,Energy,Rosemead,CA
+C.H. Robinson Worldwide,225,13470,Transportation,Eden Prairie,MN
+Nordstrom,224,13506,Retailing,Seattle,WA
+Lincoln National,223,13554,Financials,Radnor,PA
+Viacom,222,13783,Media,New York,NY
+Marriott International,221,13796,"Hotels, Resturants & Leisure",Bethesda,MD
+Synnex,220,13840,Wholesalers,Fremont,CA
+Textron,219,13878,Aerospace & Defense,Providence,RI
+Apache,218,13938,Energy,Houston,TX
+Waste Management,217,13996,Business Services,Houston,TX
+Health Net,216,14009,Health Care,Woodland Hills,CA
+Chubb,215,14098,Financials,Warren,NJ
+Whole Foods Market,214,14194,Food & Drug Stores,Austin,TX
+Ecolab,213,14281,Chemicals,St. Paul,MN
+CBS,212,14483,Media,New York,NY
+Loews,211,14572,Financials,New York,NY
+Kellogg,210,14580,"Food, Beverages & Tobacco",Battle Creek,MI
+Las Vegas Sands,209,14584,"Hotels, Resturants & Leisure",Las Vegas,NV
+DISH Network,208,14643,Telecommunications,Englewood,CO
+Aramark,207,14833,Business Services,Philadelphia,PA
+FirstEnergy,206,15054,Energy,Akron,OH
+Western Digital,205,15130,Technology,Irvine,CA
+Western Refining,204,15154,Energy,El Paso,TX
+Land O'Lakes,203,15199,"Food, Beverages & Tobacco",Arden Hills,MN
+Murphy USA,202,15279,Retailing,El Dorado,AR
+Illinois Tool Works,201,15282,Industrials,Glenview,IL
+Omnicom Group,200,15318,Business Services,New York,NY
+Genuine Parts,199,15342,Wholesalers,Atlanta,GA
+PPG Industries,198,15607,Chemicals,Pittsburgh,PA
+Monsanto,197,15855,Chemicals,St. Louis,MO
+NRG Energy,196,15868,Energy,Princeton,NJ
+Bristol-Myers Squibb,195,15879,Health Care,New York,NY
+Office Depot,194,16096,Retailing,Boca Raton,FL
+Kinder Morgan,193,16226,Energy,Houston,TX
+PNC Financial Services Group,192,16281,Financials,Pittsburgh,PA
+Jabil Circuit,191,16349,Technology,St. Petersburg,FL
+Micron Technology,190,16358,Technology,Boise,ID
+Bank of New York Mellon Corp.,189,16386,Financials,New York,NY
+Gap,188,16435,Retailing,San Francisco,CA
+Starbucks,187,16448,"Hotels, Resturants & Leisure",Seattle,WA
+Centene,186,16588,Health Care,St. Louis,MO
+Baxter International,185,16972,Health Care,Deerfield,IL
+American Electric Power,184,17020,Energy,Columbus,OH
+NextEra Energy,183,17021,Energy,Juno Beach,FL
+PG&amp;E Corp.,182,17090,Energy,San Francisco,CA
+Thermo Fisher Scientific,181,17100,Technology,Waltham,MA
+Global Partners,180,17270,Wholesalers,Waltham,MA
+Colgate-Palmolive,179,17277,Household Products,New York,NY
+AES,178,17378,Energy,Arlington,VA
+Penske Automotive Group,177,17439,Retailing,Bloomfield Hills,MI
+United States Steel,176,17507,Materials,Pittsburgh,PA
+TRW Automotive Holdings,175,17539,Motor Vehicles & Parts,Livonia,MI
+Lear,174,17727,Motor Vehicles & Parts,Southfield,MI
+ConAgra Foods,173,17773,"Food, Beverages & Tobacco",Omaha,NE
+eBay,172,17902,Technology,San Jose,CA
+General Mills,171,17910,"Food, Beverages & Tobacco",Minneapolis,MN
+Tenet Healthcare,170,17924,Health Care,Dallas,TX
+Altria Group,169,17945,"Food, Beverages & Tobacco",Richmond,VA
+CenturyLink,168,18031,Telecommunications,Monroe,LA
+EOG Resources,167,18035,Energy,Houston,TX
+Goodyear Tire &amp; Rubber,166,18138,Motor Vehicles & Parts,Akron,OH
+Kraft Foods Group,165,18205,"Food, Beverages & Tobacco",Northfield,IL
+Supervalu,164,18390,Food & Drug Stores,Eden Prairie,MN
+Southern,163,18467,Energy,Atlanta,GA
+Anadarko Petroleum,162,18470,Energy,The Woodlands,TX
+Southwest Airlines,161,18605,Transportation,Dallas,TX
+Hartford Financial Services Group,160,18847,Financials,Hartford,CT
+Dollar General,159,18910,Retailing,Goodlettsville,TN
+Paccar,158,18997,Motor Vehicles & Parts,Bellevue,WA
+Kohl's,157,19023,Retailing,Menomonee Falls,WI
+AutoNation,156,19109,Retailing,Fort Lauderdale,FL
+Icahn Enterprises,155,19157,Energy,New York,NY
+Cummins,154,19221,Industrials,Columbus,IN
+Progressive,153,19391,Financials,Mayfield Village,OH
+Devon Energy,152,19566,Energy,Oklahoma City,OK
+Eli Lilly,151,19616,Health Care,Indianapolis,IN
+HollyFrontier,150,19764,Energy,Dallas,TX
+PBF Energy,149,19828,Energy,Parsippany,NJ
+Whirlpool,148,19872,Industrials,Benton Harbor,MI
+Danaher,147,19914,Technology,Washington,DC
+AbbVie,146,19960,Health Care,North Chicago,IL
+Amgen,145,20063,Health Care,Thousand Oaks,CA
+ManpowerGroup,144,20763,Business Services,Milwaukee,WI
+Xerox,143,20905,Technology,Norwalk,CT
+Chesapeake Energy,142,20951,Energy,Oklahoma City,OK
+Hess,141,21015,Energy,New York,NY
+Kimberly-Clark,140,21044,Household Products,Irving,TX
+Nucor,139,21105,Materials,Charlotte,NC
+U.S. Bancorp,138,21392,Financials,Minneapolis,MN
+Freeport-McMoRan,137,21438,Energy,Phoenix,AZ
+Fluor,136,21532,Engineering & Construction,Irving,TX
+Community Health Systems,135,21987,Health Care,Franklin,TN
+Abbott Laboratories,134,22323,Health Care,Abbott Park,IL
+Staples,133,22492,Retailing,Framingham,MA
+Aflac,132,22728,Financials,Columbus,GA
+Arrow Electronics,131,22769,Wholesalers,Centennial,CO
+Time Warner Cable,130,22812,Telecommunications,New York,NY
+Raytheon,129,22826,Aerospace & Defense,Waltham,MA
+US Foods,128,23020,Wholesalers,Rosemont,IL
+National Oilwell Varco,127,23141,Energy,Houston,TX
+Capital One Financial,126,23877,Financials,McLean,VA
+Alcoa,125,23906,Materials,New York,NY
+Northrop Grumman,124,23979,Aerospace & Defense,Falls Church,VA
+Union Pacific,123,23988,Transportation,Omaha,NE
+USAA,122,24033,Financials,San Antonio,TX
+EMC,121,24440,Technology,Hopkinton,MA
+Emerson Electric,120,24537,Industrials,St. Louis,MO
+Baker Hughes,119,24551,Energy,Houston,TX
+Gilead Sciences,118,24890,Health Care,Foster City,CA
+Rite Aid,117,25526,Food & Drug Stores,Camp Hill,PA
+Duke Energy,116,25673,Energy,Charlotte,NC
+Occidental Petroleum,115,25898,Energy,Houston,TX
+International Paper,114,26221,Materials,Memphis,TN
+Qualcomm,113,26487,Technology,San Diego,CA
+Travelers Cos.,112,27162,Financials,New York,NY
+Exelon,111,27429,Energy,Chicago,IL
+McDonald's,110,27441,"Hotels, Resturants & Leisure",Oak Brook,IL
+Northwestern Mutual,109,27465,Financials,Milwaukee,WI
+Avnet,108,27500,Wholesalers,Phoenix,AZ
+Tech Data,107,27671,Wholesalers,Clearwater,FL
+Nike,106,27799,Apparel,Beaverton,OR
+Macy's,105,28105,Retailing,Cincinnati,OH
+Time Warner,104,28774,Media,New York,NY
+TJX,103,29078,Retailing,Framingham,MA
+Philip Morris International,102,29767,"Food, Beverages & Tobacco",New York,NY
+Publix Super Markets,101,30803,Food & Drug Stores,Lakeland,FL
+General Dynamics,100,30852,Aerospace & Defense,Falls Church,VA
+Sears Holdings,99,31198,Retailing,Hoffman Estates,IL
+3M,98,31821,Household Products,St. Paul,MN
+Twenty-First Century Fox,97,31867,Media,New York,NY
+Halliburton,96,32870,Energy,Houston,TX
+DirecTV,95,33260,Telecommunications,El Segundo,CA
+Massachusetts Mutual Life Insurance,94,33572,Financials,Springfield,MA
+INTL FCStone,93,34063,Financials,New York,NY
+TIAA-CREF,92,34230,Financials,New York,NY
+Mondelez International,91,34244,"Food, Beverages & Tobacco",Deerfield,IL
+Cigna,90,34914,Health Care,Bloomfield,CT
+Allstate,89,35239,Financials,Northbrook,IL
+American Express,88,35999,Financials,New York,NY
+DuPont,87,36046,Chemicals,Wilmington,DE
+Deere,86,36067,Industrials,Moline,IL
+Nationwide,85,36257,Financials,Columbus,OH
+Safeway,84,36643,Food & Drug Stores,Pleasanton,CA
+Tyson Foods,83,37580,"Food, Beverages & Tobacco",Springdale,AR
+Morgan Stanley,82,37953,Financials,New York,NY
+Oracle,81,38275,Technology,Redwood City,CA
+New York Life Insurance,80,38680,Financials,New York,NY
+United Continental Holdings,79,38901,Transportation,Chicago,IL
+Liberty Mutual Insurance Group,78,39796,Financials,Boston,MA
+Tesoro,77,40052,Energy,San Antonio,TX
+Goldman Sachs Group,76,40085,Financials,New York,NY
+HCA Holdings,75,40087,Health Care,Nashville,TN
+Honeywell International,74,40306,Industrials,Morris Township,NJ
+Delta Air Lines,73,40362,Transportation,Atlanta,GA
+Best Buy,72,41903,Retailing,Richfield,MN
+Merck,71,42237,Health Care,Kenilworth,NJ
+American Airlines Group,70,42650,Transportation,Fort Worth,TX
+CHS,69,42664,"Food, Beverages & Tobacco",Inver Grove Heights,MN
+World Fuel Services,68,43386,Wholesalers,Miami,FL
+Plains GP Holdings,67,43464,Energy,Houston,TX
+Johnson Controls,66,43855,Motor Vehicles & Parts,Milwaukee,WI
+FedEx,65,45567,Transportation,Memphis,TN
+Lockheed Martin,64,45600,Aerospace & Defense,Bethesda,MD
+Coca-Cola,63,45998,"Food, Beverages & Tobacco",Atlanta,GA
+Ingram Micro,62,46487,Wholesalers,Santa Ana,CA
+Sysco,61,46517,Wholesalers,Houston,TX
+Cisco Systems,60,47142,Technology,San Jose,CA
+Enterprise Products Partners,59,47951,Energy,Houston,TX
+Humana,58,48500,Health Care,Louisville,KY
+Walt Disney,57,48813,Media,Burbank,CA
+Pfizer,56,49605,Health Care,New York,NY
+Prudential Financial,55,54123,Financials,Newark,NJ
+Caterpillar,54,55184,Industrials,Peoria,IL
+Energy Transfer Equity,53,55691,Energy,Dallas,TX
+Intel,52,55870,Technology,Santa Clara,CA
+ConocoPhillips,51,55997,Energy,Houston,TX
+Lowe's,50,56223,Retailing,Mooresville,NC
+Aetna,49,58003,Health Care,Hartford,CT
+Dow Chemical,48,58167,Chemicals,Midland,MI
+UPS,47,58232,Transportation,Atlanta,GA
+AIG,46,64406,Financials,New York,NY
+United Technologies,45,65100,Aerospace & Defense,Hartford,CT
+PepsiCo,44,66683,"Food, Beverages & Tobacco",Purchase,NY
+Comcast,43,68775,Telecommunications,Philadelphia,PA
+Freddie Mac,42,69367,Financials,McLean,VA
+State Farm Insurance Cos.,41,71160,Financials,Bloomington,IL
+Alphabet,40,71487,Technology,Mountain View,CA
+MetLife,39,73316,Financials,New York,NY
+Anthem,38,73874,Health Care,Indianapolis,IN
+Johnson &amp; Johnson,37,74331,Health Care,New Brunswick,NJ
+Target,36,74520,Retailing,Minneapolis,MN
+Walgreens,35,76392,Food & Drug Stores,Deerfield,IL
+Archer Daniels Midland,34,81201,"Food, Beverages & Tobacco",Chicago,IL
+Home Depot,33,83176,Retailing,Atlanta,GA
+Procter &amp; Gamble,32,84537,Household Products,Cincinnati,OH
+Microsoft,31,86833,Technology,Redmond,WA
+Wells Fargo,30,88372,Financials,San Francisco,CA
+Amazon.com,29,88988,Technology,Seattle,WA
+Citigroup,28,90646,Financials,New York,NY
+Boeing,27,90762,Aerospace & Defense,Chicago,IL
+Cardinal Health,26,91084,Wholesalers,Dublin,OH
+Marathon Petroleum,25,91417,Energy,Findlay,OH
+IBM,24,94128,Technology,Armonk,NY
+Bank of America Corp.,23,95181,Financials,Charlotte,NC
+Express Scripts Holding,22,100887,Health Care,St. Louis,MO
+JP Morgan Chase,21,102102,Financials,New York,NY
+Kroger,20,108465,Food & Drug Stores,Cincinnati,OH
+HP,19,111454,Technology,Palo Alto,CA
+Costco,18,112640,Retailing,Issaquah,WA
+Fannie Mae,17,116461,Financials,Washington,DC
+AmerisourceBergen,16,119569,Wholesalers,Chesterbrook,PA
+Verizon,15,127079,Telecommunications,New York,NY
+UnitedHealth Group,14,130474,Health Care,Minnetonka,MN
+Valero Energy,13,130844,Energy,San Antonio,TX
+AT&amp;T,12,132447,Telecommunications,Dallas,TX
+McKesson,11,138030,Wholesalers,San Francisco,CA
+CVS Health,10,139367,Food & Drug Stores,Woonsocket,RI
+Ford Motor,9,144077,Motor Vehicles & Parts,Dearborn,MI
+General Electric,8,148321,Financials,Fairfield,CT
+Phillips 66,7,149434,Energy,Houston,TX
+General Motors,6,155929,Motor Vehicles & Parts,Detroit,MI
+Apple,5,182795,Technology,Cupertino,CA
+Berkshire Hathaway,4,194673,Financials,Omaha,NE
+Chevron,3,203784,Energy,San Ramon,CA
+Exxon Mobil,2,382597,Energy,Irving,TX
+Walmart,1,485651,Retailing,Bentonville,AR

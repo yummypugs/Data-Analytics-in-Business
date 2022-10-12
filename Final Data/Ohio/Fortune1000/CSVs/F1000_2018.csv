@@ -1,0 +1,1001 @@
+company,rank,revenue,sector,city,state
+,803,2625.90,Business Services,Calabasas,CA
+,1000,1848.40,Financials,Irvine,CA
+,999,1849.30,Health Care,Mission Viejo,CA
+,998,1851.10,Business Services,Irvine,CA
+,997,1857.60,Health Care,Wilmington,MA
+,996,1861.70,Wholesalers,Roswell,GA
+,995,1866.10,Health Care,Bensalem,PA
+,994,1867.10,Media,Chicago,IL
+,993,1870.30,Retailing,Secaucus,NJ
+,992,1871.00,Technology,San Jose,CA
+,991,1874.10,Energy,Houston,TX
+,990,1874.40,Retailing,Basking Ridge,NJ
+,989,1877.20,Aerospace & Defense,El Segundo,CA
+,988,1881.30,Financials,Daytona Beach,FL
+,987,1906.30,Engineering & Construction,Daytona Beach,FL
+,986,1907.00,Financials,Cincinnati,OH
+,985,1907.20,"Hotels, Restaurants & Leisure",Broomfield,CO
+,984,1916.00,Technology,Andover,MA
+,983,1916.30,Engineering & Construction,Atlanta,GA
+,982,1918.20,Industrials,Milwaukee,WI
+,981,1918.20,Energy,Denver,CO
+,980,1921.50,Energy,Houston,TX
+,979,1925.00,Chemicals,Northfield,IL
+,978,1927.00,Financials,Greenwich,CT
+,977,1930.30,Energy,Overland Park,KS
+,976,1931.90,Aerospace & Defense,Chantilly,VA
+,975,1932.60,Materials,Denver,CO
+,974,1933.00,Technology,Santa Clara,CA
+,973,1933.80,Business Services,Chicago,IL
+,972,1934.10,Retailing,Indianapolis,IN
+,971,1939.40,Technology,Burlington,MA
+,970,1943.00,Technology,San Jose,CA
+,969,1943.10,Transportation,Chicago,IL
+,968,1948.80,Household Products,Lake Zurich,IL
+,967,1951.50,Industrials,Charlotte,NC
+,966,1951.90,"Hotels, Restaurants & Leisure",Orlando,FL
+,965,1955.70,Financials,Houston,TX
+,964,1960.40,Chemicals,Houston,TX
+,963,1962.00,Engineering & Construction,Columbus,OH
+,962,1965.60,Media,Shoreview,MN
+,961,1969.10,Health Care,Westbrook,ME
+,960,1973.30,Aerospace & Defense,Stamford,CT
+,959,1980.00,Chemicals,Dallas,TX
+,958,1985.90,Materials,New York,NY
+,957,1988.50,Health Care,San Diego,CA
+,956,2004.40,Aerospace & Defense,McLean,VA
+,955,2005.30,Aerospace & Defense,Bellevue,WA
+,954,2006.00,Energy,Los Angeles,CA
+,953,2009.00,Energy,Portland,OR
+,952,2018.20,Industrials,Liberty Lake,WA
+,951,2022.40,Financials,Santa Clara,CA
+,950,2028.40,Energy,Houston,TX
+,949,2039.00,Technology,Englewood,CO
+,948,2046.90,Transportation,Honolulu,HI
+,947,2054.50,Household Products,Walnut Creek,CA
+,946,2056.30,Materials,Cary,NC
+,945,2056.60,Technology,San Rafael,CA
+,944,2058.40,Industrials,Pittsburgh,PA
+,943,2060.90,Wholesalers,Tustin,CA
+,942,2063.50,Food & Drug Stores,Memphis,TN
+,941,2066.00,Motor Vehicles & Parts,Livonia,MI
+,940,2066.70,Health Care,San Diego,CA
+,939,2067.00,Industrials,Westlake,OH
+,938,2071.20,"Food, Beverages & Tobacco",Richmond,VA
+,937,2072.20,Health Care,Brentwood,TN
+,936,2075.40,Health Care,Somerset,NJ
+,935,2081.90,Energy,Tulsa,OK
+,934,2082.20,Transportation,Downers Grove,IL
+,933,2084.00,Chemicals,Lexington,KY
+,932,2090.00,Technology,Seattle,WA
+,931,2098.70,Aerospace & Defense,Fort Collins,CO
+,930,2100.20,Financials,Los Angeles,CA
+,929,2116.70,Transportation,Omaha,NE
+,928,2136.60,Technology,North Reading,MA
+,927,2138.00,Retailing,Columbus,OH
+,926,2139.00,Health Care,Pleasanton,CA
+,925,2143.10,Technology,Pleasanton,CA
+,924,2145.10,Financials,Hato Rey,PR
+,923,2145.20,Business Services,Jersey City,NJ
+,922,2146.30,Health Care,Wayne,PA
+,921,2147.80,Motor Vehicles & Parts,Elkhart,IN
+,920,2156.00,Technology,Dayton,OH
+,919,2156.50,Transportation,Purchase,NY
+,918,2158.20,Energy,Ames,IA
+,917,2158.60,Financials,Arlington,VA
+,916,2160.20,Health Care,Hercules,CA
+,915,2169.20,Transportation,Lake Oswego,OR
+,914,2171.90,Financials,Newton,MA
+,913,2175.90,Household Products,Muscatine,IA
+,912,2180.90,Financials,Owatonna,MN
+,911,2193.40,Wholesalers,El Segundo,CA
+,910,2194.10,Retailing,Commerce,CA
+,909,2198.40,Chemicals,Richmond,VA
+,908,2199.80,Telecommunications,Boulder,CO
+,907,2208.00,Transportation,Darien,CT
+,906,2214.30,Business Services,San Francisco,CA
+,905,2214.40,Transportation,Houston,TX
+,904,2219.50,"Hotels, Restaurants & Leisure",Louisville,KY
+,903,2220.20,Technology,Hoffman Estates,IL
+,902,2226.00,Energy,El Dorado,AR
+,901,2226.80,"Food, Beverages & Tobacco",Charlotte,NC
+,900,2229.10,Financials,Chicago,IL
+,899,2231.60,Business Services,Pleasanton,CA
+,898,2231.90,Technology,Scottsdale,AZ
+,897,2247.00,Financials,Coppell,TX
+,896,2249.50,Business Services,Peachtree Corners,GA
+,895,2252.40,Business Services,Leawood,KS
+,894,2255.80,Household Products,Orlando,FL
+,893,2259.40,Technology,Raleigh,NC
+,892,2260.50,"Hotels, Restaurants & Leisure",Calabasas Hills,CA
+,891,2261.10,Energy,Oklahoma City,OK
+,890,2262.00,Motor Vehicles & Parts,Indianapolis,IN
+,889,2263.40,Business Services,Boca Raton,FL
+,888,2266.10,Industrials,Memphis,TN
+,887,2267.80,Motor Vehicles & Parts,Milwaukee,WI
+,886,2268.60,Energy,Wall,NJ
+,885,2271.00,Aerospace & Defense,Charlotte,NC
+,884,2274.90,Financials,Montpelier,VT
+,883,2278.20,Household Products,Zeeland,MI
+,882,2279.10,Household Products,Provo,UT
+,881,2282.40,Retailing,Fort Myers,FL
+,880,2284.40,Business Services,Kansas City,MO
+,879,2287.30,Industrials,Lake Forest,IL
+,878,2290.40,Financials,New Haven,CT
+,877,2295.60,Technology,San Jose,CA
+,876,2298.40,Household Products,Chesterfield,MO
+,875,2301.30,Technology,Waltham,MA
+,874,2305.00,Financials,West Palm Beach,FL
+,873,2306.00,Chemicals,St. Paul,MN
+,872,2309.10,Technology,Milford,MA
+,871,2319.10,Wholesalers,Tucker,GA
+,870,2324.60,Energy,St. Louis,MO
+,869,2327.80,Technology,San Jose,CA
+,868,2327.90,Financials,Chicago,IL
+,867,2330.20,Energy,Cleveland,OH
+,866,2331.00,Chemicals,Waterford,NY
+,865,2335.50,Industrials,Elgin,IL
+,864,2345.40,Financials,New York,NY
+,863,2349.30,Technology,San Jose,CA
+,862,2350.00,Apparel,Rockford,MI
+,861,2354.70,Energy,Washington,DC
+,860,2356.70,Energy,Houston,TX
+,859,2363.80,Retailing,Los Angeles,CA
+,858,2367.10,Industrials,Reading,PA
+,857,2370.10,Retailing,New York,NY
+,856,2371.60,Retailing,Elmsford,NY
+,855,2371.90,Industrials,Minneapolis,MN
+,854,2375.40,Industrials,Milwaukee,WI
+,853,2380.00,Engineering & Construction,Dallas,TX
+,852,2383.70,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,851,2388.60,Industrials,St. Louis,MO
+,850,2411.80,Technology,Raleigh,NC
+,849,2425.50,Transportation,Phoenix,AZ
+,848,2432.00,Media,Irving,TX
+,847,2440.20,Retailing,Corte Madera,CA
+,846,2441.50,Health Care,Waltham,MA
+,845,2443.10,Energy,Houston,TX
+,844,2443.30,Technology,San Francisco,CA
+,843,2451.00,Technology,Reston,VA
+,842,2451.70,Engineering & Construction,Red Bank,NJ
+,841,2452.00,Financials,New York,NY
+,840,2453.00,Food & Drug Stores,Pittsburgh,PA
+,839,2457.90,Financials,San Francisco,CA
+,838,2461.00,Materials,Miamisburg,OH
+,837,2461.10,Chemicals,Fairlawn,OH
+,836,2466.10,Apparel,Portland,OR
+,835,2466.80,Technology,Scottsdale,AZ
+,834,2469.30,Materials,Crystal Lake,IL
+,833,2470.00,Financials,Branchville,NJ
+,832,2471.40,Financials,Chicago,IL
+,831,2488.70,Health Care,Boston,MA
+,830,2497.50,Aerospace & Defense,Elma,NY
+,829,2503.00,Technology,Cambridge,MA
+,828,2505.20,Industrials,Bloomington,MN
+,827,2507.70,Energy,Tulsa,OK
+,826,2508.80,Business Services,Tacoma,WA
+,825,2528.10,Technology,Neenah,WI
+,824,2529.90,Technology,San Jose,CA
+,823,2541.00,Retailing,York,PA
+,822,2546.90,Household Products,Farmington,UT
+,821,2548.80,Energy,Las Vegas,NV
+,820,2550.00,Media,McLean,VA
+,819,2555.60,Energy,Honolulu,HI
+,818,2561.80,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,817,2571.00,Energy,Topeka,KS
+,816,2577.60,Engineering & Construction,Denver,CO
+,815,2582.90,Transportation,Kansas City,MO
+,814,2585.30,Industrials,White Plains,NY
+,813,2586.00,Energy,Midland,TX
+,812,2589.60,Financials,Lincoln,RI
+,811,2591.80,Business Services,Arlington,VA
+,810,2593.70,Wholesalers,Cleveland,OH
+,809,2602.10,Financials,Boston,MA
+,808,2603.50,Technology,Malvern,PA
+,807,2603.80,Aerospace & Defense,Thousand Oaks,CA
+,806,2611.00,Energy,Fort Worth,TX
+,805,2618.10,Financials,San Francisco,CA
+,804,2624.40,Industrials,Cleveland,OH
+,802,2647.70,Transportation,Miramar,FL
+,801,2648.00,Wholesalers,Houston,TX
+,800,2654.20,Technology,Sunnyvale,CA
+,799,2657.30,Energy,Evansville,IN
+,798,2658.60,Technology,Costa Mesa,CA
+,797,2668.50,Financials,Glendale,CA
+,796,2672.10,Health Care,Raleigh,NC
+,795,2693.70,Household Products,New York,NY
+,794,2695.60,Transportation,Honolulu,HI
+,793,2702.50,Retailing,Plano,TX
+,792,2708.20,Energy,Kansas City,MO
+,791,2717.00,Chemicals,Boston,MA
+,790,2723.40,Financials,Chicago,IL
+,789,2724.90,Technology,Mountain View,CA
+,788,2725.10,Technology,Columbus,OH
+,787,2733.90,Materials,Nashville,TN
+,786,2734.10,Media,Hunt Valley,MD
+,785,2736.00,Financials,Salt Lake City,UT
+,784,2741.80,Technology,Blue Bell,PA
+,783,2743.70,Health Care,Chicago,IL
+,782,2746.00,Materials,Omaha,NE
+,781,2752.00,Technology,San Diego,CA
+,780,2753.40,Engineering & Construction,Pasadena,CA
+,779,2754.40,Household Products,Lexington,KY
+,778,2785.60,Retailing,St. Louis,MO
+,777,2786.00,Industrials,Stamford,CT
+,776,2788.00,"Hotels, Restaurants & Leisure",Ann Arbor,MI
+,775,2788.20,Apparel,Richardson,TX
+,774,2788.20,Wholesalers,Covington,LA
+,773,2791.00,Financials,McLean,VA
+,772,2792.10,Business Services,Cincinnati,OH
+,771,2799.80,Retailing,Columbus,OH
+,770,2801.70,Technology,Hanover,MD
+,769,2803.00,Energy,Oklahoma City,OK
+,768,2805.70,Media,New York,NY
+,767,2806.90,Apparel,New York,NY
+,766,2808.50,Financials,New York,NY
+,765,2810.30,Engineering & Construction,Irvine,CA
+,764,2817.60,Technology,New York,NY
+,763,2826.50,Transportation,Fort Smith,AR
+,762,2842.40,Financials,Los Angeles,CA
+,761,2851.00,Financials,Horsham,PA
+,760,2853.10,"Food, Beverages & Tobacco",Lake Success,NY
+,759,2854.70,Motor Vehicles & Parts,Findlay,OH
+,758,2855.00,Wholesalers,Portsmouth,NH
+,757,2857.30,Materials,Cleveland,OH
+,756,2859.40,Technology,Chicago,IL
+,755,2862.20,Health Care,Palo Alto,CA
+,754,2877.20,Health Care,Franklin,TN
+,753,2882.90,Technology,Fort Lauderdale,FL
+,752,2884.00,Financials,New York,NY
+,751,2885.20,Industrials,Cleveland,OH
+,750,2886.90,Financials,Baltimore,MD
+,749,2887.70,Wholesalers,Melville,NY
+,748,2894.90,Financials,Cleveland,OH
+,747,2907.00,Retailing,Nashville,TN
+,746,2911.90,Retailing,Merrimack,NH
+,745,2912.00,Business Services,Memphis,TN
+,744,2912.10,Financials,San Francisco,CA
+,743,2916.10,Health Care,San Juan,PR
+,742,2926.30,"Hotels, Restaurants & Leisure",Lebanon,TN
+,741,2936.20,Chemicals,Marysville,OH
+,740,2941.30,Energy,Tempe,AZ
+,739,2945.00,Business Services,Norwell,MA
+,738,2977.90,Engineering & Construction,Palm Beach Gardens,FL
+,737,2989.70,Engineering & Construction,Watsonville,CA
+,736,2991.50,Media,Plano,TX
+,735,2994.00,"Food, Beverages & Tobacco",Louisville,KY
+,734,2996.50,Financials,St. Louis,MO
+,733,2996.60,Retailing,San Diego,CA
+,732,2996.70,Industrials,Milwaukee,WI
+,731,3003.80,Industrials,North Canton,OH
+,730,3014.10,Materials,Columbus,OH
+,729,3016.40,Media,New York,NY
+,728,3032.40,Household Products,Grand Rapids,MI
+,727,3032.60,Technology,Greensboro,NC
+,726,3036.30,Financials,Kansas City,MO
+,725,3058.80,Health Care,Marlborough,MA
+,724,3063.20,Energy,Dallas,TX
+,723,3072.00,Chemicals,Charlotte,NC
+,722,3083.60,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,721,3095.00,Business Services,Houston,TX
+,720,3120.80,Energy,Oklahoma City,OK
+,719,3128.90,Health Care,Sunnyvale,CA
+,718,3144.00,"Food, Beverages & Tobacco",Parsippany,NJ
+,717,3146.00,Motor Vehicles & Parts,Van Buren Township,MI
+,716,3146.50,Media,McLean,VA
+,715,3148.00,"Hotels, Restaurants & Leisure",Wyomissing,PA
+,714,3150.80,"Hotels, Restaurants & Leisure",Dallas,TX
+,713,3151.30,Business Services,Rochester,NY
+,712,3163.00,Financials,New York,NY
+,711,3163.00,Media,Knoxville,TN
+,710,3189.00,Technology,Santa Rosa,CA
+,709,3203.00,Energy,Spring,TX
+,708,3204.00,Materials,Chicago,IL
+,707,3204.30,Transportation,St. George,UT
+,706,3241.00,Engineering & Construction,Scottsdale,AZ
+,705,3260.00,Chemicals,Covington,KY
+,704,3272.00,Technology,Santa Clara,CA
+,703,3275.00,Business Services,San Leandro,CA
+,702,3289.00,Financials,Dallas,TX
+,701,3300.20,Business Services,Kingwood,TX
+,700,3304.20,Motor Vehicles & Parts,Rochester Hills,MI
+,699,3304.30,Retailing,Houston,TX
+,698,3307.20,Technology,New York,NY
+,697,3311.50,Technology,Stamford,CT
+,696,3315.70,Materials,Northbrook,IL
+,695,3342.20,"Food, Beverages & Tobacco",Laurel,MS
+,694,3346.40,Financials,Stevens Point,WI
+,692,3347.00,Motor Vehicles & Parts,Troy,MI
+,692,3347.00,Business Services,Richmond,VA
+,691,3353.40,Financials,New York,NY
+,690,3357.00,Energy,Voorhees,NJ
+,689,3358.10,Transportation,Thomasville,NC
+,688,3360.30,Industrials,Beloit,WI
+,687,3362.20,Business Services,Atlanta,GA
+,686,3364.70,Materials,Chicago,IL
+,685,3366.00,Wholesalers,Atlanta,GA
+,684,3369.00,"Food, Beverages & Tobacco",Corona,CA
+,683,3378.00,Energy,Pittsburgh,PA
+,682,3382.20,Energy,Madison,WI
+,681,3383.70,Retailing,Atlanta,GA
+,680,3398.70,Chemicals,New York,NY
+,679,3400.40,Apparel,Atlanta,GA
+,678,3411.00,Financials,Galveston,TX
+,677,3416.00,Financials,Los Angeles,CA
+,676,3421.80,Transportation,Reno,NV
+,675,3426.10,Technology,Chandler,AZ
+,674,3435.30,Health Care,Irvine,CA
+,673,3441.50,Chemicals,Philadelphia,PA
+,672,3452.00,Chemicals,Avon Lake,OH
+,671,3458.00,Wholesalers,Carmel,IN
+,670,3458.30,Health Care,Sunrise,FL
+,669,3460.30,Energy,Bellevue,WA
+,668,3466.80,Food & Drug Stores,Sunbury,PA
+,667,3480.00,Technology,Milpitas,CA
+,666,3492.70,Retailing,New Albany,OH
+,665,3505.10,Industrials,Atlanta,GA
+,664,3513.00,Materials,Catawba,SC
+,663,3525.10,Materials,Pittsburgh,PA
+,662,3528.90,Aerospace & Defense,Cleveland,OH
+,661,3532.80,Aerospace & Defense,Berwyn,PA
+,660,3541.00,Financials,Madison,WI
+,659,3542.40,Financials,Bloomington,IL
+,658,3545.30,Financials,New York,NY
+,657,3549.90,Technology,Stamford,CT
+,656,3551.10,Health Care,New Haven,CT
+,655,3561.80,Media,Knoxville,TN
+,654,3565.30,Energy,Phoenix,AZ
+,653,3568.20,Wholesalers,Greenville,SC
+,652,3574.10,Financials,Chicago,IL
+,651,3576.00,Media,New York,NY
+,650,3580.70,Business Services,Lake Forest,IL
+,649,3591.00,Chemicals,Columbus,OH
+,648,3596.20,Energy,Omaha,NE
+,647,3598.50,Technology,Southlake,TX
+,646,3603.00,Media,Chicago,IL
+,645,3616.00,Retailing,Philadelphia,PA
+,644,3618.10,Motor Vehicles & Parts,Novi,MI
+,643,3636.90,Wholesalers,The Woodlands,TX
+,642,3638.20,Materials,Delaware,OH
+,641,3644.70,Financials,Chicago,IL
+,640,3646.00,Energy,Houston,TX
+,639,3648.10,Energy,Houston,TX
+,638,3648.90,Transportation,Jacksonville,FL
+,637,3651.40,Technology,Woburn,MA
+,636,3655.60,Energy,Denver,CO
+,635,3660.80,Industrials,Irving,TX
+,634,3662.30,"Food, Beverages & Tobacco",Irving,TX
+,633,3662.80,Transportation,Dallas,TX
+,632,3668.80,Industrials,Shelton,CT
+,631,3676.20,Financials,Washington,DC
+,630,3685.00,Financials,Omaha,NE
+,629,3686.30,"Food, Beverages & Tobacco",Maumee,OH
+,628,3722.00,Industrials,Lincolnshire,IL
+,627,3736.90,Industrials,Annapolis Junction,MD
+,626,3756.00,Financials,Evansville,IN
+,625,3763.90,Materials,Charlotte,NC
+,624,3775.90,Chemicals,West Palm Beach,FL
+,623,3776.20,Household Products,Ewing,NJ
+,622,3795.50,Retailing,Pittsburgh,PA
+,621,3837.20,Industrials,Highland Heights,KY
+,620,3839.60,Industrials,Richardson,TX
+,619,3845.60,Business Services,Boston,MA
+,618,3880.90,Energy,Houston,TX
+,617,3881.80,Industrials,Wilmerding,PA
+,616,3885.30,Engineering & Construction,Scottsdale,AZ
+,615,3890.30,Materials,Birmingham,AL
+,614,3891.70,Financials,West Des Moines,IA
+,613,3894.60,Retailing,New York,NY
+,612,3920.70,"Food, Beverages & Tobacco",Thomasville,GA
+,611,3938.30,Retailing,Denton,TX
+,610,3941.20,Materials,Grand Rapids,MI
+,609,3943.80,Household Products,Carthage,MO
+,608,3965.00,Financials,New York,NY
+,607,3965.60,Materials,Raleigh,NC
+,606,3971.40,Health Care,Birmingham,AL
+,605,3975.20,Business Services,Atlanta,GA
+,604,3992.40,Energy,Indianapolis,IN
+,603,3993.40,Health Care,York,PA
+,602,4000.30,Industrials,Kenosha,WI
+,601,4002.70,Food & Drug Stores,Black Mountain,NC
+,600,4026.50,Business Services,Symmes Township,OH
+,599,4034.90,Transportation,Oak Brook,IL
+,598,4036.00,Technology,New York,NY
+,597,4046.20,Materials,Neenah,WI
+,596,4089.90,Materials,Stamford,CT
+,595,4089.90,Materials,Scottsdale,AZ
+,594,4130.20,Chemicals,Deerfield,IL
+,593,4131.40,Media,Sussex,WI
+,592,4142.60,Business Services,Lake Success,NY
+,591,4155.60,Financials,McKinney,TX
+,590,4169.80,Retailing,New York,NY
+,589,4171.00,Engineering & Construction,Houston,TX
+,588,4180.80,Apparel,Manhattan Beach,CA
+,587,4186.50,Technology,Tempe,AZ
+,586,4191.00,Technology,Mountain View,CA
+,585,4204.10,Business Services,New York,NY
+,584,4213.30,"Hotels, Restaurants & Leisure",Tampa,FL
+,583,4256.00,Energy,Houston,TX
+,582,4281.50,Financials,Boston,MA
+,581,4285.30,Retailing,Lincolnshire,IL
+,580,4297.20,Financials,Carmel,IN
+,579,4300.20,Technology,Berwyn,PA
+,578,4315.50,Business Services,Boca Raton,FL
+,577,4316.60,Financials,Toledo,OH
+,576,4323.70,"Food, Beverages & Tobacco",Charlotte,NC
+,575,4342.00,Wholesalers,Miami,FL
+,574,4354.60,Technology,Arlington,VA
+,573,4355.60,Financials,Houston,TX
+,572,4363.40,Industrials,Westport,CT
+,571,4368.40,Financials,Redwood City,CA
+,570,4368.50,Engineering & Construction,Los Angeles,CA
+,569,4376.70,Wholesalers,Herndon,VA
+,568,4378.00,Business Services,Baltimore,MD
+,567,4383.60,Transportation,Green Bay,WI
+,566,4390.50,Wholesalers,Winona,MN
+,565,4403.70,Materials,Atlanta,GA
+,564,4407.00,Energy,Cayce,SC
+,563,4430.90,Financials,New York,NY
+,562,4432.00,Wholesalers,Boise,ID
+,561,4443.60,Health Care,Mechanicsburg,PA
+,560,4443.80,Energy,Bismarck,ND
+,559,4454.00,Technology,Reston,VA
+,558,4472.00,Technology,Santa Clara,CA
+,557,4476.40,"Hotels, Restaurants & Leisure",Denver,CO
+,556,4485.20,Health Care,Flint,MI
+,555,4488.30,Apparel,New York,NY
+,554,4560.60,Technology,Hickory,NC
+,553,4570.60,Food & Drug Stores,Commerce,CA
+,552,4607.50,Technology,Sarasota,FL
+,551,4609.30,Technology,North Canton,OH
+,550,4664.60,Food & Drug Stores,Phoenix,AZ
+,549,4685.00,"Hotels, Restaurants & Leisure",Chicago,IL
+,548,4706.00,Retailing,Dallas,TX
+,547,4707.00,Industrials,Rye Brook,NY
+,546,4713.90,Retailing,New Braunfels,TX
+,545,4720.90,Technology,Boston,MA
+,544,4740.00,Financials,Columbus,OH
+,543,4747.10,Health Care,Brentwood,TN
+,542,4757.20,Engineering & Construction,Sylmar,CA
+,541,4764.00,Aerospace & Defense,Dulles,VA
+,540,4793.00,Financials,Baltimore,MD
+,539,4834.10,"Food, Beverages & Tobacco",Sparks,MD
+,538,4842.00,Energy,Houston,TX
+,537,4845.00,Technology,Redwood City,CA
+,536,4852.00,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,535,4874.60,Energy,Merrillville,IN
+,534,4874.80,Financials,Johnston,RI
+,533,4882.00,Household Products,El Segundo,CA
+,532,4891.00,Transportation,Overland Park,KS
+,531,4897.60,Transportation,Mettawa,IL
+,530,4904.00,Apparel,San Francisco,CA
+,529,4928.00,Business Services,Columbus,GA
+,528,4958.20,Chemicals,Medina,OH
+,527,4976.60,Apparel,Baltimore,MD
+,526,4993.00,Technology,Falls Church,VA
+,525,4999.10,Materials,Irving,TX
+,524,5027.20,Technology,Sunnyvale,CA
+,523,5036.70,Materials,Hartsville,SC
+,522,5037.30,Wholesalers,Deerfield,IL
+,521,5044.00,Telecommunications,Chicago,IL
+,520,5107.50,Technology,Norwood,MA
+,519,5142.30,Health Care,North Kansas City,MO
+,518,5153.00,Energy,Houston,TX
+,517,5157.00,Materials,Fort Mill,SC
+,516,5177.00,Technology,Mountain View,CA
+,515,5179.00,Financials,Wilmington,DE
+,514,5184.40,Financials,Worcester,MA
+,513,5209.80,Household Products,Pawtucket,RI
+,512,5225.80,"Food, Beverages & Tobacco",St. Louis,MO
+,511,5266.80,Business Services,Menlo Park,CA
+,510,5271.00,Retailing,Columbus,OH
+,509,5283.30,Household Products,Deerfield,IL
+,508,5292.40,Retailing,San Francisco,CA
+,507,5307.00,Health Care,Parsippany,NJ
+,506,5329.00,Technology,Santa Clara,CA
+,505,5362.00,Retailing,Irving,TX
+,504,5373.70,Health Care,Kennett Square,PA
+,503,5374.40,Business Services,Troy,MI
+,502,5387.00,Financials,Bethesda,MD
+,501,5405.00,Energy,New York,NY
+,500,5428.90,Business Services,Cincinnati,OH
+,499,5430.00,Energy,Irving,TX
+,498,5453.60,Business Services,New York,NY
+,497,5455.00,Energy,Irving,TX
+,496,5504.80,Transportation,Medina,MN
+,495,5519.00,Technology,Sunnyvale,CA
+,494,5524.30,Business Services,Englewood,CO
+,493,5538.60,Financials,Indianapolis,IN
+,492,5543.10,Technology,Phoenix,AZ
+,491,5578.80,Energy,St. Louis,MO
+,490,5593.10,Wholesalers,St. Paul,MN
+,489,5601.00,Energy,Houston,TX
+,488,5647.20,Transportation,Milwaukee,WI
+,487,5696.00,Business Services,Brookfield,WI
+,486,5715.50,Financials,Chicago,IL
+,485,5715.60,Household Products,Rye,NY
+,484,5732.40,Financials,Fairfield,OH
+,483,5772.40,Financials,Santa Ana,CA
+,482,5804.30,Technology,McLean,VA
+,481,5809.00,"Food, Beverages & Tobacco",Merriam,KS
+,480,5815.10,Engineering & Construction,Horsham,PA
+,479,5821.00,"Hotels, Restaurants & Leisure",Parsippany,NJ
+,478,5832.00,"Food, Beverages & Tobacco",Westchester,IL
+,477,5834.00,Financials,Atlanta,GA
+,476,5836.30,Financials,Cincinnati,OH
+,475,5838.60,Health Care,Scottsdale,AZ
+,474,5852.90,Telecommunications,Little Rock,AR
+,473,5872.20,Health Care,Tarrytown,NY
+,472,5878.00,"Hotels, Restaurants & Leisure",Louisville,KY
+,471,5884.50,Retailing,Bolingbrook,IL
+,470,5930.00,Financials,New York,NY
+,469,5958.90,Financials,New York,NY
+,468,5973.00,Household Products,Oakland,CA
+,467,6018.90,Financials,Buffalo,NY
+,466,6022.00,Business Services,Florham Park,NJ
+,465,6051.60,Retailing,Westlake,OH
+,464,6061.70,Financials,Glen Allen,VA
+,463,6063.00,Business Services,New York,NY
+,462,6066.50,Financials,St. Paul,MN
+,461,6080.50,Materials,West Chester,OH
+,460,6093.00,Financials,Birmingham,AL
+,459,6110.00,Retailing,Burlington,NJ
+,458,6114.00,Financials,Madison,NJ
+,457,6120.70,Energy,King of Prussia,PA
+,456,6130.60,Materials,Charlotte,NC
+,455,6140.00,Chemicals,Irving,TX
+,454,6159.60,Financials,Rolling Meadows,IL
+,453,6177.00,Energy,St. Louis,MO
+,452,6178.20,Media,San Antonio,TX
+,451,6183.00,Chemicals,Wilmington,DE
+,450,6263.10,Financials,Chicago,IL
+,449,6266.00,Motor Vehicles & Parts,Detroit,MI
+,448,6268.40,Chemicals,Clayton,MO
+,447,6306.40,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,446,6307.10,"Food, Beverages & Tobacco",Oak Brook,IL
+,445,6311.30,Industrials,Milwaukee,WI
+,444,6322.30,Engineering & Construction,Reston,VA
+,443,6380.00,Technology,Chicago,IL
+,442,6384.00,Materials,Toledo,OH
+,441,6392.20,Financials,San Mateo,CA
+,440,6415.00,Financials,New York,NY
+,439,6422.70,Retailing,Little Rock,AR
+,438,6423.00,Energy,Houston,TX
+,437,6424.70,Financials,New York,NY
+,436,6444.90,Materials,Lake Forest,IL
+,435,6454.00,Financials,Providence,RI
+,434,6456.50,Retailing,Duluth,GA
+,433,6478.30,Apparel,Winston-Salem,NC
+,432,6516.00,Technology,Atlanta,GA
+,431,6524.90,Financials,St. Petersburg,FL
+,430,6534.00,Wholesalers,Atlanta,GA
+,429,6583.00,Energy,Jackson,MI
+,428,6607.00,Engineering & Construction,Coral Gables,FL
+,427,6613.80,Materials,Glendale,CA
+,426,6631.20,Wholesalers,St. Louis,MO
+,425,6640.60,Retailing,Ankeny,IA
+,424,6641.00,Business Services,Stamford,CT
+,423,6649.80,Retailing,Mahwah,NJ
+,422,6650.00,Household Products,New York,NY
+,421,6652.80,Apparel,New York,NY
+,420,6656.00,Industrials,Everett,WA
+,419,6663.90,Financials,Boston,MA
+,418,6690.00,"Food, Beverages & Tobacco",Plano,TX
+,417,6703.60,Technology,Tempe,AZ
+,416,6767.60,Health Care,Louisville,KY
+,415,6822.00,Aerospace & Defense,Cedar Rapids,IA
+,414,6829.60,Industrials,Oshkosh,WI
+,413,6865.00,Financials,Cincinnati,OH
+,412,6868.00,Financials,Cleveland,OH
+,411,6868.60,Technology,San Jose,CA
+,410,6869.00,Materials,Perrysburg,OH
+,409,6873.00,Media,Silver Spring,MD
+,408,6920.90,Transportation,Seattle,WA
+,407,6939.00,Aerospace & Defense,Melbourne,FL
+,406,6939.60,Media,Chicago,IL
+,405,6983.00,Aerospace & Defense,Wichita,KS
+,404,6989.60,Materials,El Segundo,CA
+,403,7011.30,Technology,Wallingford,CT
+,402,7015.00,Transportation,Long Island City,NY
+,401,7017.00,Technology,Santa Monica,CA
+,400,7034.20,Materials,Dallas,TX
+,399,7095.00,Materials,Evansville,IN
+,398,7119.10,Financials,New York,NY
+,397,7144.00,"Hotels, Restaurants & Leisure",Plano,TX
+,396,7170.20,"Hotels, Restaurants & Leisure",Orlando,FL
+,395,7189.60,Transportation,Lowell,AR
+,394,7196.00,Materials,Seattle,WA
+,393,7209.00,Motor Vehicles & Parts,Maumee,OH
+,392,7247.00,Motor Vehicles & Parts,Elkhart,IN
+,391,7256.40,Retailing,Brentwood,TN
+,390,7263.10,Health Care,Brentwood,TN
+,389,7301.50,Technology,San Jose,CA
+,388,7304.00,Energy,Houston,TX
+,387,7329.60,Transportation,Miami,FL
+,386,7331.50,"Food, Beverages & Tobacco",Victor,NY
+,385,7348.00,Energy,Greenwood Village,CO
+,384,7349.50,Energy,Brentwood,TN
+,383,7392.30,"Food, Beverages & Tobacco",Orrville,OH
+,382,7409.40,Chemicals,Plymouth,MN
+,381,7441.00,Aerospace & Defense,Newport News,VA
+,380,7447.00,Energy,Allentown,PA
+,379,7515.40,"Food, Beverages & Tobacco",Hershey,PA
+,378,7535.10,Financials,Erie,PA
+,377,7594.00,Media,Englewood,CO
+,376,7597.00,Financials,Des Peres,MO
+,375,7603.70,Financials,Lansing,MI
+,374,7607.00,Technology,Tysons,VA
+,373,7644.00,Household Products,Livonia,MI
+,372,7648.50,Energy,Milwaukee,WI
+,371,7650.30,Household Products,New York,NY
+,370,7679.00,Wholesalers,Pittsburgh,PA
+,369,7684.80,Financials,Greenwich,CT
+,368,7687.90,Engineering & Construction,Norwalk,CT
+,367,7709.00,Health Care,Secaucus,NJ
+,366,7713.00,Financials,Cincinnati,OH
+,365,7719.40,Business Services,Plano,TX
+,364,7752.00,Energy,Springfield,MA
+,363,7782.00,Retailing,New York,NY
+,362,7795.00,"Food, Beverages & Tobacco",Dallas,TX
+,361,7824.10,Health Care,Warsaw,IN
+,360,7830.40,Industrials,Downers Grove,IL
+,359,7882.40,Business Services,New York,NY
+,358,7890.00,"Food, Beverages & Tobacco",Camden,NJ
+,357,7927.40,Wholesalers,Glenview,IL
+,356,7932.40,Financials,Chicago,IL
+,355,7933.00,Transportation,Seattle,WA
+,354,8013.60,Technology,Fremont,CA
+,353,8031.00,Energy,Tulsa,OK
+,352,8041.00,Chemicals,Houston,TX
+,351,8128.10,Wholesalers,Byron Center,MI
+,350,8139.00,Media,New York,NY
+,349,8253.70,Wholesalers,Downers Grove,IL
+,348,8295.00,Financials,Richmond,VA
+,347,8306.50,Industrials,Duluth,GA
+,346,8364.70,Wholesalers,Atlanta,GA
+,345,8442.40,Chemicals,Allentown,PA
+,344,8462.00,Energy,Denver,CO
+,343,8527.90,Financials,Minneapolis,MN
+,342,8570.00,Industrials,Lisle,IL
+,341,8573.30,Engineering & Construction,Atlanta,GA
+,340,8590.50,Retailing,Coraopolis,PA
+,339,8678.00,Engineering & Construction,Omaha,NE
+,338,8698.00,Materials,Philadelphia,PA
+,337,8731.90,Financials,Omaha,NE
+,336,8752.00,Energy,Houston,TX
+,335,8803.00,Retailing,Estero,FL
+,334,8814.90,Energy,Houston,TX
+,333,8848.00,Retailing,Parsippany,NJ
+,332,8914.80,Apparel,New York,NY
+,331,8920.60,Wholesalers,Waltham,MA
+,330,8960.00,Financials,San Francisco,CA
+,329,8977.70,Retailing,Springfield,MO
+,328,9048.00,Health Care,Marlborough,MA
+,327,9084.00,Energy,Newark,NJ
+,326,9123.00,Business Services,Jacksonville,FL
+,325,9128.00,Telecommunications,Norwalk,CT
+,324,9140.00,"Hotels, Restaurants & Leisure",McLean,VA
+,323,9167.50,"Food, Beverages & Tobacco",Austin,MN
+,322,9224.60,Retailing,Grapevine,TX
+,321,9234.80,"Food, Beverages & Tobacco",Chicago,IL
+,320,9274.00,Motor Vehicles & Parts,Lake Forest,IL
+,319,9274.50,Wholesalers,Providence,RI
+,318,9318.30,Wholesalers,Mechanicsville,VA
+,317,9373.80,Retailing,Roanoke,VA
+,316,9466.50,Engineering & Construction,Houston,TX
+,315,9491.30,Household Products,Calhoun,GA
+,314,9496.00,Energy,Oklahoma City,OK
+,313,9510.00,Financials,Newport Beach,CA
+,312,9538.80,Materials,Fort Wayne,IN
+,311,9545.40,Financials,Madison,WI
+,310,9549.00,Chemicals,Kingsport,TN
+,309,9567.00,Technology,San Jose,CA
+,308,9614.00,Energy,Houston,TX
+,307,9660.00,Financials,New York,NY
+,306,9714.00,Technology,Santa Clara,CA
+,305,9721.00,Materials,Los Angeles,CA
+,304,9739.00,Health Care,Durham,NC
+,303,9741.00,Financials,Atlanta,GA
+,302,9769.00,Financials,Jacksonville,FL
+,301,9799.30,Motor Vehicles & Parts,Auburn Hills,MI
+,300,9848.00,Wholesalers,Chicago,IL
+,299,9866.00,Financials,Detroit,MI
+,298,9867.20,Retailing,Charlotte,NC
+,297,10022.80,Engineering & Construction,Dallas,TX
+,296,10041.50,Business Services,Phoenix,AZ
+,295,10059.80,Retailing,Bellevue,WA
+,294,10086.50,Retailing,Medford,OR
+,293,10116.00,Industrials,Corning,NY
+,292,10170.00,Technology,Reston,VA
+,291,10265.00,Technology,Norwalk,CT
+,290,10337.40,Media,Beverly Hills,CA
+,289,10382.60,Motor Vehicles & Parts,Auburn Hills,MI
+,288,10404.00,Retailing,Englewood,CO
+,287,10424.90,Wholesalers,Lake Forest,IL
+,286,10441.40,Health Care,Burlington,NC
+,285,10480.00,Technology,San Francisco,CA
+,284,10551.00,Transportation,Norfolk,VA
+,283,10561.00,Health Care,Deerfield,IL
+,282,10592.00,Chemicals,The Woodlands,TX
+,281,10752.00,Retailing,Boca Raton,FL
+,280,10773.90,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,279,10853.40,Retailing,El Dorado,AR
+,278,10888.70,Retailing,Memphis,TN
+,277,10983.00,Materials,Broomfield,CO
+,276,11002.00,Aerospace & Defense,New York,NY
+,275,11002.80,"Food, Beverages & Tobacco",Denver,CO
+,274,11074.50,Energy,New Orleans,LA
+,273,11123.70,Retailing,Houston,TX
+,272,11146.00,Retailing,Wayne,NJ
+,271,11207.00,Energy,San Diego,CA
+,270,11208.30,Energy,Houston,TX
+,269,11275.00,Energy,Princeton,NJ
+,268,11278.90,Health Care,King of Prussia,PA
+,267,11286.80,Financials,Chattanooga,TN
+,266,11404.00,Energy,Minneapolis,MN
+,265,11408.00,Transportation,Jacksonville,FL
+,264,11437.00,Chemicals,Danbury,CT
+,263,11545.00,Financials,Riverwoods,IL
+,262,11652.00,Materials,Pittsburgh,PA
+,261,11692.70,Technology,Los Gatos,CA
+,260,11758.80,Motor Vehicles & Parts,Palo Alto,CA
+,259,11774.00,Financials,Boston,MA
+,258,11824.00,Household Products,New York,NY
+,257,11908.00,Energy,The Woodlands,TX
+,256,12029.30,Industrials,Cleveland,OH
+,255,12033.00,Energy,New York,NY
+,254,12052.00,Business Services,New York,NY
+,253,12071.80,Financials,Woodland Hills,CA
+,252,12075.00,Financials,Minneapolis,MN
+,251,12093.00,Health Care,Franklin Lakes,NJ
+,250,12156.00,Financials,Winston-Salem,NC
+,249,12173.90,Energy,Tulsa,OK
+,248,12215.80,Retailing,Union,NJ
+,247,12225.00,Wholesalers,South San Francisco,CA
+,246,12250.00,Materials,Pittsburgh,PA
+,245,12273.90,Health Care,Cambridge,MA
+,244,12320.00,Energy,Rosemead,CA
+,243,12379.80,Business Services,Roseland,NJ
+,242,12399.60,Apparel,Greensboro,NC
+,241,12407.90,Financials,New York,NY
+,240,12444.00,Health Care,Kalamazoo,MI
+,239,12454.50,Financials,New York,NY
+,238,12461.50,Wholesalers,Melville,NY
+,237,12491.00,Financials,New York,NY
+,236,12497.00,Business Services,Purchase,NY
+,235,12506.00,Retailing,Plano,TX
+,234,12515.80,Financials,Chesterfield,MO
+,233,12586.00,Energy,Richmond,VA
+,232,12607.00,Energy,Detroit,MI
+,231,12632.40,Retailing,Columbus,OH
+,230,12646.40,Engineering & Construction,Miami,FL
+,229,12681.10,Technology,Norwalk,CT
+,228,12747.20,Household Products,New Britain,CT
+,227,12882.00,"Hotels, Restaurants & Leisure",Las Vegas,NV
+,226,12923.00,"Food, Beverages & Tobacco",Battle Creek,MI
+,225,12960.00,Aerospace & Defense,New York,NY
+,224,13003.00,Health Care,Summit,NJ
+,223,13022.20,Energy,Tulsa,OK
+,222,13094.00,Business Services,San Jose,CA
+,221,13263.00,Media,New York,NY
+,220,13274.00,Energy,Houston,TX
+,219,13627.00,Energy,Akron,OH
+,218,13705.00,Energy,Houston,TX
+,217,13735.00,Financials,New York,NY
+,216,13740.40,"Food, Beverages & Tobacco",Arden Hills,MN
+,215,13838.30,Chemicals,St. Paul,MN
+,214,13850.00,Energy,Arlington,VA
+,213,13949.00,Energy,Oklahoma City,OK
+,212,14024.00,Financials,New York,NY
+,211,14091.00,Engineering & Construction,Arlington,TX
+,210,14093.20,Financials,Des Moines,IA
+,209,14134.70,Retailing,Dublin,CA
+,208,14198.00,Aerospace & Defense,Providence,RI
+,207,14209.60,Financials,Los Angeles,CA
+,206,14251.30,Energy,Dallas,TX
+,205,14257.00,Financials,Radnor,PA
+,204,14314.00,Industrials,Glenview,IL
+,203,14391.40,Telecommunications,Englewood,CO
+,202,14485.00,Business Services,Houston,TX
+,201,14537.00,Technology,Santa Clara,CA
+,200,14604.40,Business Services,Philadelphia,PA
+,199,14640.00,Chemicals,St. Louis,MO
+,198,14700.50,Health Care,Nashville,TN
+,197,14710.00,Media,New York,NY
+,196,14742.20,Household Products,Hoboken,NJ
+,195,14810.00,Technology,Teaneck,NJ
+,194,14859.70,Materials,Atlanta,GA
+,193,14869.40,Transportation,Eden Prairie,MN
+,192,14961.00,Technology,Dallas,TX
+,191,14967.00,Chemicals,Pittsburgh,PA
+,190,14983.80,Chemicals,Cleveland,OH
+,189,15191.50,Technology,Lincolnshire,IL
+,188,15273.60,Business Services,New York,NY
+,187,15377.00,Motor Vehicles & Parts,Akron,OH
+,186,15380.80,Transportation,Greenwich,CT
+,185,15424.90,Energy,Columbus,OH
+,184,15454.00,Household Products,New York,NY
+,183,15478.00,Retailing,Seattle,WA
+,182,15619.80,"Food, Beverages & Tobacco",Minneapolis,MN
+,181,15855.00,Retailing,San Francisco,CA
+,180,16009.00,Food & Drug Stores,Eden Prairie,MN
+,179,16038.20,Health Care,Denver,CO
+,178,16301.00,Industrials,St. Louis,MO
+,177,16308.80,Wholesalers,Atlanta,GA
+,176,16416.00,Energy,Phoenix,AZ
+,175,16621.00,Financials,New York,NY
+,174,16637.10,Retailing,Richmond,VA
+,173,16695.00,Financials,Stamford,CT
+,172,16702.00,Retailing,Hoffman Estates,IL
+,171,16761.80,Wholesalers,Richmond,VA
+,170,17007.20,Health Care,Tampa,FL
+,169,17045.70,Wholesalers,Fremont,CA
+,168,17135.00,Energy,San Francisco,CA
+,167,17195.00,Energy,Juno Beach,FL
+,166,17656.00,Telecommunications,Monroe,LA
+,165,18035.00,Financials,Pittsburgh,PA
+,164,18203.40,Engineering & Construction,Los Angeles,CA
+,163,18259.00,Household Products,Irving,TX
+,162,18329.70,Health Care,Washington,DC
+,161,18358.00,Business Services,San Francisco,CA
+,160,18477.00,Health Care,Franklin,TN
+,159,19063.10,Technology,St. Petersburg,FL
+,158,19093.00,Technology,San Jose,CA
+,157,19095.00,Retailing,Menomonee Falls,WI
+,156,19228.00,Financials,Hartford,CT
+,155,19456.40,Industrials,Bellevue,WA
+,154,19494.00,"Food, Beverages & Tobacco",Richmond,VA
+,153,19521.00,Engineering & Construction,Irving,TX
+,152,19883.00,Health Care,Long Beach,CA
+,151,20252.40,Materials,Charlotte,NC
+,150,20322.00,Technology,Boise,ID
+,149,20428.00,Industrials,Columbus,IN
+,148,20467.00,Motor Vehicles & Parts,Southfield,MI
+,147,20613.00,Health Care,Dallas,TX
+,146,20620.00,Energy,Houston,TX
+,145,20776.00,Health Care,New York,NY
+,144,20918.00,Technology,Waltham,MA
+,143,21034.30,Business Services,Milwaukee,WI
+,142,21171.00,Transportation,Dallas,TX
+,141,21240.00,Transportation,Omaha,NE
+,140,21253.00,Industrials,Benton Harbor,MI
+,139,21389.00,Retailing,Bloomfield Hills,MI
+,138,21534.60,Retailing,Fort Lauderdale,FL
+,137,21667.00,Financials,Columbus,GA
+,136,21744.00,Financials,New York,NY
+,135,21786.60,Energy,Parsippany,NJ
+,134,22245.50,Retailing,Chesapeake,VA
+,133,22291.00,Technology,San Diego,CA
+,132,22386.80,"Hotels, Restaurants & Leisure",Seattle,WA
+,131,22820.40,"Hotels, Restaurants & Leisure",Oak Brook,IL
+,130,22849.00,Health Care,Thousand Oaks,CA
+,129,22871.30,Health Care,Indianapolis,IN
+,128,22872.10,Wholesalers,Phoenix,AZ
+,127,22894.00,"Hotels, Restaurants & Leisure",Bethesda,MD
+,126,23031.00,Energy,Atlanta,GA
+,125,23189.00,Energy,Charlotte,NC
+,124,23302.00,Materials,Memphis,TN
+,123,23471.00,Retailing,Goodlettsville,TN
+,122,23996.00,Financials,Minneapolis,MN
+,121,24147.20,Wholesalers,Rosemont,IL
+,120,24837.00,Retailing,Cincinnati,OH
+,119,25348.00,Aerospace & Defense,Waltham,MA
+,118,25803.00,Aerospace & Defense,Falls Church,VA
+,117,25896.00,"Food, Beverages & Tobacco",Deerfield,IL
+,116,26107.00,Health Care,Foster City,CA
+,115,26223.00,Energy,Houston,TX
+,114,26232.00,"Food, Beverages & Tobacco",Pittsburgh,PA
+,113,26812.50,Wholesalers,Centennial,CO
+,112,26839.00,Financials,Mayfield Village,OH
+,111,27390.00,Health Care,Abbott Park,IL
+,110,28216.00,Health Care,North Chicago,IL
+,109,28500.00,Media,New York,NY
+,108,28748.00,"Food, Beverages & Tobacco",New York,NY
+,107,28871.00,Technology,Palo Alto,CA
+,106,28902.00,Financials,New York,NY
+,105,29241.50,Energy,Houston,TX
+,104,29331.00,Financials,Milwaukee,WI
+,103,29423.60,Financials,New York,NY
+,102,29737.70,Industrials,Moline,IL
+,101,29999.00,Financials,McLean,VA
+,100,30015.80,Financials,San Antonio,TX
+,99,30973.00,Aerospace & Defense,Falls Church,VA
+,98,31271.00,Media,New York,NY
+,97,31657.00,Industrials,St. Paul,MN
+,96,31934.80,"Food, Beverages & Tobacco",Inver Grove Heights,MN
+,95,32584.00,Energy,Houston,TX
+,94,32845.10,Food & Drug Stores,Camp Hill,PA
+,93,33495.40,Financials,Springfield,MA
+,92,33531.00,Energy,Chicago,IL
+,91,33695.50,Energy,Miami,FL
+,90,34204.00,Energy,San Antonio,TX
+,89,34350.00,Apparel,Beaverton,OR
+,88,34836.80,Food & Drug Stores,Lakeland,FL
+,87,35410.00,"Food, Beverages & Tobacco",Atlanta,GA
+,86,35583.00,Financials,New York,NY
+,85,35864.70,Retailing,Framingham,MA
+,84,36025.30,Financials,New York,NY
+,83,36775.00,Wholesalers,Clearwater,FL
+,82,37728.00,Technology,Redwood City,CA
+,81,37736.00,Transportation,Chicago,IL
+,80,38260.00,"Food, Beverages & Tobacco",Springdale,AR
+,79,38524.00,Financials,Northbrook,IL
+,78,40122.00,Health Care,Kenilworth,NJ
+,77,40534.00,Industrials,Morris Plains,NJ
+,76,40653.00,Technology,Menlo Park,CA
+,75,41244.00,Transportation,Atlanta,GA
+,74,41581.00,Telecommunications,Stamford,CT
+,73,41616.00,Health Care,Bloomfield,CT
+,72,42151.00,Retailing,Richfield,MN
+,71,42207.00,Transportation,Fort Worth,TX
+,70,42254.00,Financials,New York,NY
+,69,42296.00,Financials,New York,NY
+,68,42687.00,Financials,Boston,MA
+,67,43642.00,Financials,New York,NY
+,66,43939.90,Financials,Columbus,OH
+,65,45462.00,Industrials,Deerfield,IL
+,64,47487.00,Energy,Dallas,TX
+,63,47653.00,Health Care,Nashville,TN
+,62,48005.00,Technology,San Jose,CA
+,61,48572.00,Health Care,St. Louis,MO
+,60,49520.00,Financials,New York,NY
+,59,51048.00,Aerospace & Defense,Bethesda,MD
+,58,52056.00,Technology,Palo Alto,CA
+,57,52546.00,Health Care,New York,NY
+,56,53767.00,Health Care,Louisville,KY
+,55,55137.00,Media,Burbank,CA
+,54,55371.10,Wholesalers,Houston,TX
+,53,59678.20,Food & Drug Stores,Boise,ID
+,52,59689.00,Financials,Newark,NJ
+,51,59837.00,Aerospace & Defense,Farmington,CT
+,50,60319.00,Transportation,Memphis,TN
+,49,60535.00,Health Care,Hartford,CT
+,48,60828.00,"Food, Beverages & Tobacco",Chicago,IL
+,47,62683.00,Chemicals,Midland,MI
+,46,62761.00,Technology,Santa Clara,CA
+,45,63525.00,"Food, Beverages & Tobacco",Purchase,NY
+,44,65872.00,Transportation,Atlanta,GA
+,43,66153.00,Financials,New York,NY
+,42,66217.00,Household Products,Cincinnati,OH
+,41,67610.00,Energy,Findlay,OH
+,40,68619.00,Retailing,Mooresville,NC
+,39,71879.00,Retailing,Minneapolis,MN
+,38,74676.00,Financials,McLean,VA
+,37,76450.00,Health Care,New Brunswick,NJ
+,36,78330.80,Financials,Bloomington,IL
+,35,78660.00,Technology,Round Rock,TX
+,34,79139.00,Technology,Armonk,NY
+,33,84526.00,Telecommunications,Philadelphia,PA
+,32,87966.00,Financials,New York,NY
+,31,88407.00,Energy,San Antonio,TX
+,30,89950.00,Technology,Redmond,WA
+,29,90039.40,Health Care,Indianapolis,IN
+,28,91568.00,Energy,Houston,TX
+,27,93392.00,Aerospace & Defense,Chicago,IL
+,26,97741.00,Financials,San Francisco,CA
+,25,100064.60,Health Care,St. Louis,MO
+,24,100264.00,Financials,Charlotte,NC
+,23,100904.00,Retailing,Atlanta,GA
+,22,110855.00,Technology,Mountain View,CA
+,21,112394.00,Financials,Washington,DC
+,20,113899.00,Financials,New York,NY
+,19,118214.00,Food & Drug Stores,Deerfield,IL
+,18,122274.00,Industrials,Boston,MA
+,17,122662.00,Food & Drug Stores,Cincinnati,OH
+,16,126034.00,Telecommunications,New York,NY
+,15,129025.00,Retailing,Issaquah,WA
+,14,129976.00,Wholesalers,Dublin,OH
+,13,134533.00,Energy,San Ramon,CA
+,12,153143.80,Wholesalers,Chesterbrook,PA
+,11,156776.00,Motor Vehicles & Parts,Dearborn,MI
+,10,157311.00,Motor Vehicles & Parts,Detroit,MI
+,9,160546.00,Telecommunications,Dallas,TX
+,8,177866.00,Retailing,Seattle,WA
+,7,184765.00,Health Care,Woonsocket,RI
+,6,198533.00,Wholesalers,San Francisco,CA
+,5,201159.00,Health Care,Minnetonka,MN
+,4,229234.00,Technology,Cupertino,CA
+,3,242137.00,Financials,Omaha,NE
+,2,244363.00,Energy,Irving,TX
+,1,500343.00,Retailing,Bentonville,AR

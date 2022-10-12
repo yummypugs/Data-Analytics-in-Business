@@ -1,0 +1,999 @@
+company,rank,revenue,sector,city,state
+"Ross Stores, Inc.",303,7866.10,Specialty Retailers: Apparel,Pleasanton,CA
+"Crown Holdings, Inc.",301,7941.00,"Packaging, Containers",Philadelphia,PA
+"Family Dollar Stores, Inc.",302,7867.00,General Merchandisers,Matthews,NC
+The Sherwin-Williams Company,308,7776.40,Chemicals,Cleveland,OH
+"Enbridge Energy Partners, L.P.",309,7736.10,Pipelines,Houston,TX
+Global Partners LP,306,7801.60,Energy,Waltham,MA
+"Henry Schein, Inc.",317,7526.80,Wholesalers: Health Care,Melville,NY
+Boston Scientific Corporation,305,7806.00,Medical Products and Equipment,Natick,MA
+"Bed Bath &amp; Beyond, Inc.",304,7828.80,Specialty Retailers: Other,Union,NJ
+"Becton, Dickinson and Company",316,7540.10,Medical Products and Equipment,Franklin Lakes,NJ
+Masco Corporation,314,7592.00,"Home Equipment, Furnishings",Taylor,MI
+"Hertz Global Holdings, Inc.",315,7562.50,"Automotive Retailing, Services",Park Ridge,NJ
+Ameren Corporation,313,7638.00,Utilities: Gas and Electric,St. Louis,MO
+"CarMax, Inc.",311,7690.30,"Automotive Retailing, Services",Richmond,VA
+Campbell Soup Company,312,7676.00,Food Consumer Products,Camden,NJ
+V.F. Corporation,310,7702.60,Apparel,Greensboro,NC
+OfficeMax Incorporated,330,7150.00,Specialty Retailers: Other,Naperville,IL
+Visteon Corporation,319,7466.00,Motor Vehicles and Parts,Van Buren Township,MI
+"Autoliv, Inc.",329,7170.60,Motor Vehicles and Parts,Auburn Hills,MI
+Thrivent Financial for Lutherans,318,7470.50,"Insurance: Life, Health (Mutual)",Minneapolis,MN
+"W.W. Grainger, Inc.",328,7182.20,Wholesalers: Diversified,Lake Forest,IL
+Eastman Kodak Company,327,7187.00,"Scientific,Photographic and Control Equipment",Rochester,NY
+Hormel Foods Corporation,325,7220.70,Food Consumer Products,Austin,MN
+Fifth Third Bancorp,326,7218.00,Commercial Banks,Cincinnati,OH
+"Winn-Dixie Stores, Inc.",324,7247.80,Food and Drug Stores,Jacksonville,FL
+"AutoZone, Inc.",322,7362.60,Specialty Retailers: Other,Memphis,TN
+Stryker Corporation,323,7320.00,Medical Products and Equipment,Kalamazoo,MI
+Cablevision Systems Corporation,321,7362.90,Telecommunications,Bethpage,NY
+"Darden Restaurants, Inc.",332,7113.10,Food Services,Orlando,FL
+Dover Corporation,331,7142.00,Industrial Machinery,Downers Grove,IL
+Quest Diagnostics Incorporated,320,7368.90,Health Care: Pharmacy and Other Services,Madison,NJ
+SLM Corporation,344,6776.30,Diversified Financials,Newark,DE
+Las Vegas Sands Corp.,342,6853.20,"Hotels, Casinos, Resorts",Las Vegas,NV
+Broadcom Corporation,343,6818.30,Semiconductors and Other Electronic Components,Irvine,CA
+AGCO Corporation,340,6896.60,Construction and Farm Machinery,Duluth,GA
+"Dole Food Company, Inc.",341,6894.00,Food Consumer Products,Westlake Village,CA
+Peabody Energy Corporation,338,6944.20,"Mining, Crude-Oil Production",St. Louis,MO
+"Sonic Automotive, Inc.",339,6935.90,"Automotive Retailing, Services",Charlotte,NC
+Goodrich Corporation,337,6966.90,Aerospace and Defense,Charlotte,NC
+"Charter Communications, Inc.",333,7059.00,Telecommunications,St. Louis,MO
+The Shaw Group Inc.,336,7000.80,"Engineering, Construction",Baton Rouge,LA
+"Pepco Holdings, Inc.",335,7039.00,Utilities: Gas and Electric,Washington,DC
+The Mosaic Company,346,6759.10,Chemicals,Plymouth,MN
+"CenturyLink, Inc.",334,7041.50,Telecommunications,Monroe,LA
+"Owens-Illinois, Inc.",345,6762.00,"Packaging, Containers",Perrysburg,OH
+Weyerhaeuser Company,354,6552.00,Forest and Paper Products,Federal Way,WA
+"Fortune Brands, Inc.",352,6570.50,"Home Equipment, Furnishings",Deerfield,IL
+AECOM Technology Corporation,353,6559.40,"Engineering, Construction",Los Angeles,CA
+Corning Incorporated,350,6632.00,Network and Other Communications Equipment,Corning,NY
+"Energy Transfer Equity, L.P.",351,6598.10,Pipelines,Dallas,TX
+Eastman Chemical Company,348,6691.00,Chemicals,Kingsport,TN
+Calpine Corporation,349,6637.00,Energy,Houston,TX
+"Coca-Cola Enterprises, Inc.",347,6714.00,Beverages,Atlanta,GA
+"The Interpublic Group of Companies, Inc.",355,6531.90,"Advertising, marketing",New York,NY
+Yahoo! Inc.,365,6324.70,Internet Services and Retailing,Sunnyvale,CA
+"The Pantry, Inc.",363,6367.80,Specialty Retailers: Other,Cary,NC
+"CIT Group, Inc.",364,6362.50,Commercial Banks,New York,NY
+NiSource Inc.,362,6422.70,Utilities: Gas and Electric,Merrillville,IN
+CMS Energy Corporation,360,6442.00,Utilities: Gas and Electric,Jackson,MI
+Commercial Metals Company,361,6429.10,Metals,Irving,TX
+DaVita Inc.,359,6447.40,Health Care: Medical Facilities,Denver,CO
+American Family Ins. Group,358,6491.80,Insurance: Property and Casualty (Stock),Madison,WI
+"Steel Dynamics, Inc.",368,6300.90,Metals,Fort Wayne,IN
+"Advanced Micro Devices, Inc.",357,6494.00,Semiconductors and Other Electronic Components,Sunnyvale,CA
+Avery Dennison Corporation,356,6512.70,Chemicals,Pasadena,CA
+Reliance Steel &amp; Aluminum Co.,367,6312.80,Wholesalers: Diversified,Los Angeles,CA
+Sanmina-SCI Corporation,366,6318.70,Semiconductors and Other Electronic Components,San Jose,CA
+"EOG Resources, Inc.",377,6099.90,"Mining, Crude-Oil Production",Houston,TX
+Cameron International Corporation,375,6134.80,"Oil and Gas Equipment, Services",Houston,TX
+Dana Holding Corporation,376,6109.00,Motor Vehicles and Parts,Maumee,OH
+MeadWestvaco Corporation,373,6168.00,"Packaging, Containers",Richmond,VA
+Virgin Media Inc.,374,6138.20,Telecommunications,New York,NY
+"The McGraw-Hill Companies, Inc.",372,6168.30,"Publishing, Printing",New York,NY
+"Omnicare, Inc.",371,6199.50,Health Care: Pharmacy and Other Services,Covington,KY
+AK Steel Holding Corporation,383,5968.30,Metals,West Chester,OH
+Smurfit-Stone Container Corporation,369,6286.00,"Packaging, Containers",Chicago,IL
+Symantec Corporation,382,5985.00,Computer Software,Mountain View,CA
+Jarden Corporation,379,6022.70,"Home Equipment, Furnishings",Rye,NY
+MGM Resorts International,380,6019.20,"Hotels, Casinos, Resorts",Las Vegas,NV
+Ecolab Inc.,378,6089.70,Chemicals,St. Paul,MN
+"Dillard&#8217;s, Inc.",370,6253.50,General Merchandisers,Little Rock,AR
+"Spectrum Group International, Inc.",381,6012.40,zMiscellaneous,Irvine,CA
+"Dollar Tree, Inc.",390,5882.40,Specialty Retailers: Other,Chesapeake,VA
+"CC Media Holdings, Inc.",391,5865.70,Entertainment,San Antonio,TX
+Celanese Corporation,388,5918.00,Chemicals,Dallas,TX
+Frontier Oil Corporation,389,5884.90,Petroleum Refining,Houston,TX
+"Advance Auto Parts, Inc.",387,5925.20,Specialty Retailers: Other,Roanoke,VA
+Newell Rubbermaid Inc.,397,5759.20,"Home Equipment, Furnishings",Atlanta,GA
+Tenneco Inc.,386,5937.00,Motor Vehicles and Parts,Lake Forest,IL
+TravelCenters of America LLC,385,5962.50,Specialty Retailers: Other,Westlake,OH
+AMERIGROUP Corporation,396,5806.30,Health Care: Insurance and Managed Care,Virginia Beach,VA
+"Expeditors International of Washington, Inc.",384,5967.60,Transportation and Logistics,Seattle,WA
+"Barnes &amp; Noble, Inc.",395,5810.60,Specialty Retailers: Other,New York,NY
+Domtar Corporation,394,5850.00,Forest and Paper Products,Fort Mill,SC
+"Mattel, Inc.",392,5856.20,"Toys, Sporting Goods",El Segundo,CA
+"Franklin Resources, Inc.",393,5853.00,Securities,San Mateo,CA
+Mutual of Omaha Insurance Companies,399,5724.20,"Insurance: Life, Health (Mutual)",Omaha,NE
+"PetSmart, Inc.",400,5693.80,Specialty Retailers: Other,Phoenix,AZ
+"Fidelity National Financial, Inc.",398,5740.30,Insurance: Property and Casualty (Stock),Jacksonville,FL
+The Babcock &amp; Wilcox Company,710,2688.80,Industrial Machinery,Charlotte,NC
+"Kindred Healthcare, Inc.",501,4373.20,Health Care: Medical Facilities,Louisville,KY
+"Biomet, Inc.",708,2698.00,Medical Products and Equipment,Warsaw,IN
+"Leap Wireless International, Inc.",709,2697.20,Telecommunications,San Diego,CA
+Nicor Inc.,706,2709.80,Utilities: Gas and Electric,Naperville,IL
+"WGL Holdings, Inc.",707,2708.90,Energy,Washington,DC
+"C.R. Bard, Inc.",704,2720.20,Medical Products and Equipment,Murray Hill,NJ
+"American Water Works Company, Inc.",705,2710.70,zMiscellaneous,Voorhees,NJ
+"Vishay Intertechnology, Inc.",703,2725.10,Semiconductors and Other Electronic Components,Malvern,PA
+"Rent-A-Center, Inc.",702,2731.60,Specialty Retailers: Other,Plano,TX
+Exide Technologies,712,2685.80,Motor Vehicles and Parts,Milton,GA
+"NACCO Industries, Inc.",711,2687.50,Construction and Farm Machinery,Cleveland,OH
+"Legg Mason, Inc.",724,2634.90,Securities,Baltimore,MD
+International Flavors &amp; Fragrances Inc.,725,2622.90,Chemicals,New York,NY
+New Jersey Resources Corporation,722,2639.30,Energy,Wall,NJ
+"Annaly Capital Management, Inc.",723,2634.90,Diversified Financials,New York,NY
+SEACOR Holdings Inc.,720,2649.40,"Oil and Gas Equipment, Services",Fort Lauderdale,FL
+Comerica Incorporated,721,2642.00,Commercial Banks,Dallas,TX
+W.R. Grace &amp; Co.,714,2675.00,Chemicals,Columbia,MD
+"Team Health Holdings, Inc.",715,2671.40,Health Care: Pharmacy and Other Services,Knoxville,TN
+Snap-on Incorporated,713,2681.50,Industrial Machinery,Kenosha,WI
+Cabela&#8217;s Incorporated,718,2663.20,Specialty Retailers: Other,Sidney,NE
+"Republic Airways Holdings, Inc.",719,2653.70,Airlines,Indianapolis,IN
+Pioneer Natural Resources Company,716,2668.00,"Mining, Crude-Oil Production",Irving,TX
+"Hawaiian Electric Industries, Inc.",717,2665.00,Utilities: Gas and Electric,Honolulu,HI
+PolyOne Corporation,726,2621.90,Chemicals,Avon Lake,OH
+LSI Corporation,736,2570.00,Semiconductors and Other Electronic Components,Milpitas,CA
+"Flowers Foods, Inc.",735,2573.80,Food Consumer Products,Thomasville,GA
+"Momentive Performance Materials, Inc.",733,2588.40,Chemicals,Albany,NY
+"Liz Claiborne, Inc.",734,2575.70,Apparel,New York,NY
+Carlisle Companies Incorporated,731,2600.90,"Building Materials, Glass",Charlotte,NC
+"Church &amp; Dwight Co., Inc.",732,2589.20,Household and Personal Products,Princeton,NJ
+"Spartan Stores, Inc.",741,2552.00,Wholesalers: Food and Grocery,Grand Rapids,MI
+ManTech International Corporation,730,2604.00,Information Technology Services,Fairfax,VA
+Vulcan Materials Company,740,2558.90,"Building Materials, Glass",Birmingham,AL
+Southwestern Energy Company,729,2610.70,"Mining, Crude-Oil Production",Houston,TX
+"First Solar, Inc.",739,2563.50,Energy,Tempe,AZ
+"AirTran Holdings, Inc.",728,2619.20,Airlines,Orlando,FL
+TD Ameritrade Holding Corporation,738,2566.80,Securities,Omaha,NE
+"Weis Markets, Inc.",727,2620.40,Food and Drug Stores,Sunbury,PA
+"Spectrum Brands, Inc.",737,2567.00,Household and Personal Products,Madison,WI
+"Brown Shoe Company, Inc.",747,2504.10,Specialty Retailers: Apparel,St. Louis,MO
+Graham Packaging Company Inc.,745,2512.70,"Packaging, Containers",York,PA
+Education Management Corporation,746,2508.50,Education,Pittsburgh,PA
+"Borders Group, Inc.",744,2518.00,Specialty Retailers: Other,Ann Arbor,MI
+Hubbell Incorporated,742,2541.20,"Electronics, Electrical Equip.",Shelton,CT
+Iasis Healthcare LLC,743,2521.50,Health Care: Medical Facilities,Franklin,TN
+Southern Union Company,750,2489.90,Utilities: Gas and Electric,Houston,TX
+Universal Corporation,749,2491.70,Tobacco,Richmond,VA
+"Burger King Holdings, Inc.",748,2502.20,Food Services,Miami,FL
+Pinnacle Foods Finance LLC,761,2436.70,Food Consumer Products,Mountain Lakes,NJ
+Sentry Insurance Group,759,2457.80,Insurance: Property and Casualty (Mutual),Stevens Point,WI
+"Lender Processing Services, Inc.",760,2456.30,Financial Data Services,Jacksonville,FL
+"American Tire Distributors Holdings, Inc.",757,2460.20,Wholesalers: Diversified,Huntersville,NC
+"Penn National Gaming, Inc.",758,2459.10,"Hotels, Casinos, Resorts",Wyomissing,PA
+"AMETEK, Inc.",752,2471.00,"Scientific,Photographic and Control Equipment",Berwyn,PA
+"Guess?, Inc.",751,2487.30,Apparel,Los Angeles,CA
+"Cracker Barrel Old Country Store, Inc.",768,2404.50,Food Services,Lebanon,TN
+United Refining Company,763,2435.60,Petroleum Refining,Warren,PA
+"Oil States International, Inc.",767,2412.00,"Oil and Gas Equipment, Services",Houston,TX
+Packaging Corporation of America,762,2435.60,"Packaging, Containers",Lake Forest,IL
+Newegg Inc.,756,2460.60,Specialty Retailers: Other,City of Industry,CA
+Cooper-Standard Holdings Inc.,766,2414.10,Motor Vehicles and Parts,Novi,MI
+"Exterran Holdings, Inc.",755,2464.50,"Oil and Gas Equipment, Services",Houston,TX
+"AMC Entertainment, Inc.",765,2417.70,Entertainment,Kansas City,MO
+Brown-Forman Corporation,754,2469.00,Beverages,Louisville,KY
+LKQ Corporation,753,2470.60,Motor Vehicles and Parts,Chicago,IL
+AOL Inc.,764,2418.70,Internet Services and Retailing,New York,NY
+E*Trade Financial Corporation,773,2398.30,Securities,New York,NY
+The New York Times Company,774,2393.50,"Publishing, Printing",New York,NY
+"Landstar System, Inc.",772,2400.20,"Trucking, Truck Leasing",Jacksonville,FL
+"T. Rowe Price Group, Inc.",783,2370.70,Securities,Baltimore,MD
+"AGL Resources, Inc.",782,2373.00,Utilities: Gas and Electric,Atlanta,GA
+Pall Corporation,770,2401.90,Industrial Machinery,Port Washington,NY
+"Ascena Retail Group, Inc.",781,2374.60,Specialty Retailers: Apparel,Suffern,NY
+"Benchmark Electronics, Inc.",769,2402.10,Semiconductors and Other Electronic Components,Angleton,TX
+Medical Mutual of Ohio,780,2374.60,Health Care: Insurance and Managed Care,Cleveland,OH
+"Roper Industries, Inc.",778,2386.10,"Scientific,Photographic and Control Equipment",Sarasota,FL
+"QEP Resources, Inc.",779,2377.60,"Mining, Crude-Oil Production",Denver,CO
+West Corporation,776,2388.20,Diversified Outsourcing Services,Omaha,NE
+Towers Watson &amp; Co.,777,2387.80,Diversified Outsourcing Services,New York,NY
+Select Medical Holdings Corporation,775,2390.30,Health Care: Medical Facilities,Mechanicsburg,PA
+Regis Corporation,785,2358.40,Specialty Retailers: Other,Edina,MN
+"MasTec, Inc.",796,2308.00,"Engineering, Construction",Coral Gables,FL
+Albemarle Corporation,784,2362.80,Chemicals,Baton Rouge,LA
+"Alliance One International, Inc.",795,2308.30,Tobacco,Morrisville,NC
+"Schnitzer Steel Industries, Inc.",793,2311.20,Metals,Portland,OR
+Convergys Corporation,794,2310.60,Diversified Outsourcing Services,Cincinnati,OH
+Dynegy Inc.,791,2323.00,Energy,Houston,TX
+ON Semiconductor Corporation,792,2313.40,Semiconductors and Other Electronic Components,Phoenix,AZ
+"DST Systems, Inc.",790,2328.50,Financial Data Services,Kansas City,MO
+Perrigo Company,788,2341.50,Pharmaceuticals,Allegan,MI
+"Valassis Communications, Inc.",789,2333.50,"Publishing, Printing",Livonia,MI
+EchoStar Corporation,787,2350.40,Network and Other Communications Equipment,Englewood,CO
+"HCC Insurance Holdings, Inc.",797,2302.30,Insurance: Property and Casualty (Stock),Houston,TX
+"Varian Medical Systems, Inc.",786,2353.00,Medical Products and Equipment,Palo Alto,CA
+"The Warnaco Group, Inc.",800,2297.10,Apparel,New York,NY
+Tupperware Brands Corporation,798,2300.40,Household and Personal Products,Orlando,FL
+Jack in the Box Inc.,799,2297.50,Food Services,San Diego,CA
+Express Inc.,902,1905.80,Specialty Retailers: Apparel,Columbus,OH
+"Sun Healthcare Group, Inc.",901,1907.70,Health Care: Medical Facilities,Irvine,CA
+"Amedisys, Inc.",999,1634.30,Health Care: Pharmacy and Other Services,Baton Rouge,LA
+"Acuity Brands, Inc.",1000,1626.90,"Electronics, Electrical Equip.",Atlanta,GA
+"BioScrip, Inc.",997,1638.60,Health Care: Pharmacy and Other Services,Elmsford,NY
+American Greetings Corporation,998,1635.90,"Publishing, Printing",Cleveland,OH
+"Tellabs, Inc.",996,1642.30,Network and Other Communications Equipment,Naperville,IL
+Atmel Corporation,994,1644.10,Semiconductors and Other Electronic Components,San Jose,CA
+Waters Corporation,995,1643.40,"Scientific,Photographic and Control Equipment",Milford,MA
+"Valhi, Inc.",992,1651.20,Chemicals,Dallas,TX
+"Public Storage, Inc.",993,1646.70,zMiscellaneous,Glendale,CA
+Compass Diversified Holdings,990,1657.60,Temporary Help,Westport,CT
+"salesforce.com, inc.",991,1657.10,Computer Software,San Francisco,CA
+The Cheesecake Factory Incorporated,988,1659.40,Food Services,Calabasas Hills,CA
+Arkansas Best Corporation,989,1657.90,"Trucking, Truck Leasing",Fort Smith,AR
+Lincare Holdings Inc.,986,1669.20,Health Care: Pharmacy and Other Services,Clearwater,FL
+"SRA International, Inc.",987,1666.60,Information Technology Services,Fairfax,VA
+IAC/InterActiveCorp,984,1672.80,Internet Services and Retailing,New York,NY
+Stewart Information Services Corporation,985,1672.40,Insurance: Property and Casualty (Stock),Houston,TX
+"The Children&#8217;s Place Retail Stores, Inc.",982,1674.00,Specialty Retailers: Apparel,Secaucus,NJ
+PNM Resources Inc.,983,1673.50,Utilities: Gas and Electric,Albuquerque,NM
+Belden Inc.,981,1674.40,"Electronics, Electrical Equip.",St. Louis,MO
+"Hologic, Inc.",979,1679.60,Medical Products and Equipment,Bedford,MA
+The Dun &#038; Bradstreet Corporation,980,1676.60,Financial Data Services,Short Hills,NJ
+TPC Group Inc.,977,1688.50,Chemicals,Houston,TX
+"Superior Energy Services, Inc.",978,1681.60,"Oil and Gas Equipment, Services",New Orleans,LA
+"MSC Industrial Direct Co. , Inc.",975,1692.00,Wholesalers: Diversified,Melville,NY
+The Toro Company,976,1690.40,Construction and Farm Machinery,Bloomington,MN
+"John Wiley &#038; Sons, Inc.",973,1699.10,"Publishing, Printing",Hoboken,NJ
+Corrections Corporation of America,974,1697.90,zMiscellaneous,Nashville,TN
+HNI Corporation,971,1702.90,"Home Equipment, Furnishings",Muscatine,IA
+Synovus Financial Corp.,972,1699.90,Commercial Banks,Columbus,GA
+RDA Holding Co.,969,1714.00,"Publishing, Printing",New York,NY
+"Catalent Pharma Solutions, Inc.",970,1711.00,Pharmaceuticals,Somerset,NJ
+Endo Pharmaceuticals Holdings Inc.,967,1716.20,Pharmaceuticals,Chadds Ford,PA
+Amica Mutual Insurance Co.,968,1715.20,Insurance: Property and Casualty (Mutual),Lincoln,RI
+"Insperity, Inc.",966,1719.80,Diversified Outsourcing Services,Kingwood,TX
+"J. Crew Group, Inc.",964,1722.20,Specialty Retailers: Apparel,New York,NY
+Invacare Corporation,965,1722.10,Medical Products and Equipment,Elyria,OH
+"Bob Evans Farms, Inc.",962,1726.80,Food Services,Columbus,OH
+"Total System Services, Inc.",963,1725.00,Financial Data Services,Columbus,GA
+"The Laclede Group, Inc.",959,1735.00,Utilities: Gas and Electric,St. Louis,MO
+Covanta Holding Corporation,960,1734.80,Energy,Morristown,NJ
+"Clean Harbors, Inc.",961,1731.20,Waste Management,Norwell,MA
+"Carter&#8217;s, Inc.",957,1749.30,Apparel,Atlanta,GA
+"Delphi Financial Group, Inc.",958,1737.20,"Insurance: Life, Health (stock)",Wilmington,DE
+Global Payments Inc.,955,1760.40,Financial Data Services,Atlanta,GA
+"EnergySolutions, Inc.",956,1752.00,Waste Management,Salt Lake City,UT
+"Corinthian Colleges, Inc.",953,1763.80,Education,Santa Ana,CA
+Granite Construction Incorporated,954,1763.00,"Engineering, Construction",Watsonville,CA
+"Alexander &#038; Baldwin, Inc.",952,1768.00,Transportation and Logistics,Honolulu,HI
+Teledyne Technologies Incorporated,950,1777.90,Aerospace and Defense,Thousand Oaks,CA
+National Fuel Gas Company,951,1770.40,Utilities: Gas and Electric,Williamsville,NY
+Portland General Electric Company,948,1783.00,Utilities: Gas and Electric,Portland,OR
+M &#038; F Worldwide Corp.,949,1782.60,"Publishing, Printing",New York,NY
+"Inergy, L.P.",946,1786.00,Energy,Kansas City,MO
+"Martin Marietta Materials, Inc.",947,1783.10,"Building Materials, Glass",Raleigh,NC
+Genesco Inc.,945,1789.80,Specialty Retailers: Apparel,Nashville,TN
+NewMarket Corporation,943,1797.40,Chemicals,Richmond,VA
+"Crosstex Energy, Inc.",944,1792.70,Pipelines,Dallas,TX
+BlueLinx Holdings Inc.,941,1804.40,Wholesalers: Diversified,Atlanta,GA
+True Value Company,942,1804.00,Wholesalers: Diversified,Chicago,IL
+"Cenveo, Inc.",940,1814.70,"Publishing, Printing",Stamford,CT
+Kansas City Southern,939,1814.80,Railroads,Kansas City,MO
+"KAR Auction Services, Inc.",938,1815.00,Wholesalers: Diversified,Carmel,IN
+"Rowan Companies, Inc.",935,1819.20,"Oil and Gas Equipment, Services",Houston,TX
+TreeHouse Foods,936,1817.00,Food Consumer Products,Oak Brook,IL
+"Werner Enterprises, Inc.",937,1815.00,"Trucking, Truck Leasing",Omaha,NE
+KLA-Tencor Corporation,934,1820.80,Semiconductors and Other Electronic Components,Milpitas,CA
+"General Nutrition Centers, Inc.",932,1822.40,Food and Drug Stores,Pittsburgh,PA
+"Retail Ventures, Inc.",933,1822.40,General Merchandisers,Columbus,OH
+"Xilinx, Inc.",930,1833.60,Semiconductors and Other Electronic Components,San Jose,CA
+Southwest Gas Corporation,931,1830.40,Utilities: Gas and Electric,Las Vegas,NV
+"Hub Group, Inc.",929,1833.70,Transportation and Logistics,Downers Grove,IL
+First Horizon National Corporation,927,1836.00,Commercial Banks,Memphis,TN
+"Chipotle Mexican Grill, Inc.",928,1835.90,Food Services,Denver,CO
+"Fred&#8217;s, Inc.",925,1841.80,Food and Drug Stores,Memphis,TN
+"Quiksilver, Inc.",926,1838.30,Apparel,Huntington Beach,CA
+Cerner Corporation,923,1850.20,Health Care: Pharmacy and Other Services,North Kansas City,MO
+PharMerica Corporation,924,1847.30,Health Care: Pharmacy and Other Services,Louisville,KY
+Teleflex Incorporated,922,1863.20,Medical Products and Equipment,Limerick,PA
+"CoreLogic, Inc.",919,1866.20,Financial Data Services,Santa Ana,CA
+"Heartland Payment Systems, Inc.",920,1864.30,Financial Data Services,Princeton,NJ
+Arthur J. Gallagher &#038; Co.,921,1864.20,Diversified Financials,Itasca,IL
+"Aaron&#8217;s, Inc.",917,1876.80,Specialty Retailers: Other,Atlanta,GA
+"Citrix Systems, Inc.",918,1874.70,Network and Other Communications Equipment,Fort Lauderdale,FL
+Symetra Financial Corp.,915,1878.50,"Insurance: Life, Health (stock)",Bellevue,WA
+"Donaldson Company, Inc.",916,1877.10,Industrial Machinery,Minneapolis,MN
+Newfield Exploration Company,913,1883.00,"Mining, Crude-Oil Production",Houston,TX
+Crown Castle International Corp.,914,1878.70,Telecommunications,Houston,TX
+DPL Inc.,912,1883.10,Utilities: Gas and Electric,Dayton,OH
+"Helmerich &#038; Payne, Inc.",910,1888.70,"Oil and Gas Equipment, Services",Tulsa,OK
+Kennametal Inc.,911,1884.10,Industrial Machinery,Latrobe,PA
+Curtiss-Wright Corporation,908,1893.10,Aerospace and Defense,Parsippany,NJ
+"Universal Forest Products, Inc.",909,1890.90,Forest and Paper Products,Grand Rapids,MI
+"Applied Industrial Technologies, Inc.",907,1893.20,Wholesalers: Diversified,Cleveland,OH
+"Nortek, Inc.",905,1899.30,Industrial Machinery,Providence,RI
+"Gardner Denver, Inc.",906,1895.10,Industrial Machinery,Wayne,PA
+Equifax Inc.,904,1901.60,Financial Data Services,Atlanta,GA
+"Chico&#8217;s FAS, Inc.",903,1905.00,Specialty Retailers: Apparel,Fort Myers,FL
+"Unitrin, Inc.",701,2743.40,Insurance: Property and Casualty (Stock),Chicago,IL
+"Greif, Inc.",600,3461.50,"Packaging, Containers",Delaware,OH
+Abercrombie &#038; Fitch Co.,599,3468.80,Specialty Retailers: Apparel,New Albany,OH
+Intuit Inc.,597,3488.00,Computer Software,Mountain View,CA
+"TECO Energy, Inc.",598,3487.90,Utilities: Gas and Electric,Tampa,FL
+Torchmark Corporation,596,3488.00,"Insurance: Life, Health (stock)",McKinney,TX
+ABM Industries Incorporated,595,3495.80,Diversified Outsourcing Services,New York,NY
+"Belk, Inc.",593,3513.30,General Merchandisers,Charlotte,NC
+"Williams-Sonoma, Inc.",594,3504.20,Specialty Retailers: Other,San Francisco,CA
+Hyatt Hotels Corporation,591,3528.00,"Hotels, Casinos, Resorts",Chicago,IL
+Joy Global Inc.,592,3524.30,Construction and Farm Machinery,Milwaukee,WI
+NVIDIA Corporation,590,3543.30,Semiconductors and Other Electronic Components,Santa Clara,CA
+Blockbuster Inc.,588,3548.50,Specialty Retailers: Other,Dallas,TX
+Cintas Corporation,589,3547.30,Diversified Outsourcing Services,Cincinnati,OH
+"Watson Pharmaceuticals, Inc.",586,3566.90,Pharmaceuticals,Parsippany,NJ
+Amphenol Corporation,587,3554.10,"Electronics, Electrical Equip.",Wallingford,CT
+Life Technologies Corporation,584,3588.10,"Scientific,Photographic and Control Equipment",Carlsbad,CA
+DynCorp International Inc.,585,3585.30,Aerospace and Defense,Falls Church,VA
+Systemax Inc.,583,3590.00,Specialty Retailers: Other,Port Washington,NY
+NewPage Holding Corporation,581,3596.00,Forest and Paper Products,Miamisburg,OH
+"Brightpoint, Inc",582,3594.30,Wholesalers: Electronics and Office Equipment,Indianapolis,IN
+Stater Bros. Holdings Inc.,580,3606.80,Food and Drug Stores,San Bernadino,CA
+Celgene Corporation,578,3625.70,Pharmaceuticals,Summit,NJ
+"Coach, Inc.",579,3607.60,Apparel,New York,NY
+Tractor Supply Company,576,3638.30,Specialty Retailers: Other,Brentwood,TN
+Susser Holdings Corporation,577,3631.80,Specialty Retailers: Other,Corpus Christi,TX
+The Jones Group Inc.,574,3642.70,Apparel,New York,NY
+"VWR Funding, Inc.",575,3638.70,Wholesalers: Diversified,Radnor,PA
+"Bucyrus International, Inc.",573,3650.60,Construction and Farm Machinery,South Milwaukee,WI
+Electronic Arts Inc.,571,3654.00,Computer Software,Redwood City,CA
+"Level 3 Communications, Inc.",572,3651.00,Telecommunications,Broomfield,CO
+Factory Mutual Insurance Company,570,3658.40,Insurance: Property and Casualty (Stock),Johnston,RI
+"Burlington Coat Factory Investments Holdings, Inc.",568,3670.00,Specialty Retailers: Apparel,Burlington,NJ
+"Beckman Coulter, Inc.",569,3663.40,Medical Products and Equipment,Brea,CA
+Windstream Corporation,566,3712.00,Telecommunications,Little Rock,AR
+"Neiman Marcus, Inc.",567,3692.80,Specialty Retailers: Apparel,Dallas,TX
+OGE Energy Corp,565,3716.90,Pipelines,Oklahoma City,OK
+"United Natural Foods, Inc.",563,3757.10,Wholesalers: Food and Grocery,Providence,RI
+Del Monte Foods Company,564,3741.80,Food Consumer Products,San Francisco,CA
+"Catalyst Health Solutions, Inc.",562,3764.10,Health Care: Pharmacy and Other Services,Rockville,MD
+JetBlue Airways Corporation,560,3779.00,Airlines,Forest Hills,NY
+Cincinnati Financial Corporation,561,3771.40,Insurance: Property and Casualty (Stock),Fairfield,OH
+"J.B. Hunt Transport Services, Inc.",559,3793.50,"Trucking, Truck Leasing",Lowell,AR
+Temple-Inland Inc.,557,3799.00,"Packaging, Containers",Austin,TX
+Frontier Communications Corporation,558,3797.70,Telecommunications,Stamford,CT
+"Discovery Communications, Inc.",555,3804.00,Entertainment,Silver Spring,MD
+Adobe Systems Incorporated,556,3800.00,Computer Software,San Jose,CA
+"Alaska Air Group, Inc.",554,3832.30,Airlines,Seattle,WA
+Wyndham Worldwide Corporation,552,3851.00,"Hotels, Casinos, Resorts",Parsippany,NJ
+M&#038;T Bank Corporation,553,3837.90,Commercial Banks,Buffalo,NY
+"Airgas, Inc.",551,3864.00,Wholesalers: Diversified,Radnor,PA
+"H&#038;R Block, Inc.",550,3874.70,Diversified Financials,Kansas City,MO
+Allegheny Energy Inc.,548,3902.90,Utilities: Gas and Electric,Greensburg,PA
+Ryerson Holding Corporation,549,3895.50,Wholesalers: Diversified,Chicago,IL
+"MDU Resources Group, Inc.",546,3909.70,"Mining, Crude-Oil Production",Bismarck,ND
+The First American Financial Corporation,547,3906.60,Insurance: Property and Casualty (Stock),Santa Ana,CA
+"Alpha Natural Resources, Inc.",545,3917.20,"Mining, Crude-Oil Production",Abingdon,VA
+"Unified Grocers, Inc.",543,3921.10,Wholesalers: Food and Grocery,Commerce,CA
+"Hospira, Inc.",544,3917.20,Pharmaceuticals,Lake Forest,IL
+"NetApp, Inc.",541,3931.40,Computer Peripherals,Sunnyvale,CA
+"Quanta Services, Inc.",542,3931.20,"Engineering, Construction",Houston,TX
+"Simon Property Group, Inc.",540,3957.60,Real estate,Indianapolis,IN
+"Hasbro, Inc.",538,4002.20,"Toys, Sporting Goods",Pawtucket,RI
+"CF Industries Holdings, Inc.",539,3965.00,Chemicals,Deerfield,IL
+Northern Trust Corporation,537,4025.70,Commercial Banks,Chicago,IL
+Flowserve Corporation,535,4032.00,Industrial Machinery,Irving,TX
+"Michaels Stores, Inc.",536,4031.00,Specialty Retailers: Other,Irving,TX
+Allegheny Technologies Incorporated,534,4047.80,Metals,Pittsburgh,PA
+"Lorillard, Inc.",532,4053.00,Tobacco,Greensboro,NC
+"Ralcorp Holdings, Inc.",533,4048.50,Food Consumer Products,St. Louis,MO
+The Timken Company,531,4055.50,Industrial Machinery,Canton,OH
+"CVR Energy, Inc.",529,4079.80,Petroleum Refining,Sugar Land,TX
+"MetroPCS Communications, Inc.",530,4069.40,Telecommunications,Richardson,TX
+"Molina Healthcare, Inc.",527,4086.00,Health Care: Insurance and Managed Care,Long Beach,CA
+"CNO Financial Group, Inc.",528,4083.90,"Insurance: Life, Health (stock)",Carmel,IN
+"Juniper Networks, Inc.",525,4093.30,Network and Other Communications Equipment,Sunnyvale,CA
+Realogy Corporation,526,4090.00,Real estate,Parsippany,NJ
+Graphic Packaging Holding Company,523,4095.00,"Packaging, Containers",Marietta,GA
+CareFusion Corporation,524,4094.00,Medical Products and Equipment,San Diego,CA
+Old Republic International Corporation,522,4102.70,Insurance: Property and Casualty (Stock),Chicago,IL
+Unisys Corporation,521,4114.20,Information Technology Services,Blue Bell,PA
+Sonoco Products Company,519,4124.10,"Packaging, Containers",Hartsville,SC
+"Aleris International, Inc.",520,4117.10,Metals,Beachwood,OH
+"FMC Technologies, Inc.",518,4125.60,"Oil and Gas Equipment, Services",Houston,TX
+"The Jones Financial Companies,L.L.L.P.",516,4163.10,Securities,Des Peres,MO
+Fiserv Inc.,517,4133.00,Financial Data Services,Brookfield,WI
+"Wynn Resorts, Limited",514,4184.70,"Hotels, Casinos, Resorts",Las Vegas,NV
+"Casey&#8217;s General Stores, Inc.",515,4183.10,Specialty Retailers: Other,Ankeny,IA
+"Forest Laboratories, Inc.",513,4192.90,Pharmaceuticals,New York,NY
+"Lexmark International, Inc.",512,4199.70,Computer Peripherals,Lexington,KY
+"Zimmer Holdings, Inc.",510,4220.20,Medical Products and Equipment,Warsaw,IN
+Wisconsin Energy Corporation,511,4211.80,Utilities: Gas and Electric,Milwaukee,WI
+"Asbury Automotive Group, Inc.",509,4222.10,"Automotive Retailing, Services",Duluth,GA
+Nalco Holding Company,507,4250.50,Chemicals,Naperville,IL
+"Energizer Holdings, Inc.",508,4248.30,Household and Personal Products,St. Louis,MO
+Hanesbrands Inc.,505,4326.70,Apparel,Winston-Salem,NC
+Berry Plastics Corporation,506,4257.00,"Packaging, Containers",Evansville,IN
+"Transatlantic Holdings, Inc.",503,4362.20,Insurance: Property and Casualty (Stock),New York,NY
+"CA, Inc.",504,4353.00,Computer Software,Islandia,NY
+"Corn Products International, Inc.",502,4367.00,Food Production,Westchester,IL
+"ConAgra Foods, Inc.",200,12370.20,Food Consumer Products,Omaha,NE
+Kellogg Company,199,12397.00,Food Consumer Products,Battle Creek,MI
+Edison International,198,12409.00,Utilities: Gas and Electric,Rosemead,CA
+"AutoNation, Inc.",197,12501.50,"Automotive Retailing, Services",Fort Lauderdale,FL
+"Waste Management, Inc.",196,12515.00,Waste Management,Houston,TX
+Omnicom Group Inc.,195,12542.50,"Advertising, marketing",New York,NY
+Aramark Corporation,194,12571.70,Diversified Outsourcing Services,Philadelphia,PA
+DISH Network Corporation,193,12640.70,Telecommunications,Englewood,CO
+Baxter International Inc.,192,12843.00,Medical Products and Equipment,Deerfield,IL
+"Community Health Systems, Inc.",190,12986.50,Health Care: Medical Facilities,Franklin,TN
+Sara Lee Corporation,191,12919.00,Food Consumer Products,Downers Grove,IL
+"Oneok, Inc.",189,13030.10,Pipelines,Tulsa,OK
+Dollar General Corporation,188,13035.00,General Merchandisers,Goodlettsville,TN
+Cummins Inc.,186,13226.00,Construction and Farm Machinery,Columbus,IN
+Danaher Corporation,187,13202.60,"Scientific,Photographic and Control Equipment",Washington,DC
+The Chubb Corporation,185,13319.00,Insurance: Property and Casualty (Stock),Warren,NJ
+FirstEnergy Corp.,183,13339.00,Utilities: Gas and Electric,Akron,OH
+"Consolidated Edison, Inc.",184,13325.00,Utilities: Gas and Electric,New York,NY
+"Jabil Circuit, Inc.",182,13409.40,Semiconductors and Other Electronic Components,St. Petersburg,FL
+"PPG Industries, Inc.",181,13423.00,Chemicals,Pittsburgh,PA
+Viacom Inc.,180,13497.00,Entertainment,New York,NY
+Eaton Corporation,178,13715.00,Industrial Machinery,Cleveland,OH
+"Health Net, Inc.",179,13619.90,Health Care: Insurance and Managed Care,Woodland Hills,CA
+PG&#038;E Corporation,177,13841.00,Utilities: Gas and Electric,San Francisco,CA
+"Toys &#8220;R&#8221; Us, Inc.",176,13864.00,Specialty Retailers: Other,Wayne,NJ
+CBS Corporation,174,14059.80,Entertainment,New York,NY
+Texas Instruments Incorporated,175,13966.00,Semiconductors and Other Electronic Components,Dallas,TX
+Duke Energy Corporation,173,14272.00,Utilities: Gas and Electric,Charlotte,NC
+"Constellation Energy Group, Inc.",172,14340.00,Energy,Baltimore,MD
+Baker Hughes Incorporated,170,14414.00,"Oil and Gas Equipment, Services",Houston,TX
+TRW Automotive Holdings Corp.,171,14383.00,Motor Vehicles and Parts,Livonia,MI
+"American Electric Power Company, Inc.",169,14427.00,Energy,Columbus,OH
+Loews Corporation,168,14621.00,Insurance: Property and Casualty (Stock),New York,NY
+"The Gap, Inc.",167,14664.00,Specialty Retailers: Apparel,San Francisco,CA
+"General Mills, Inc.",166,14796.50,Food Consumer Products,Minneapolis,MN
+The Progressive Corporation,164,14963.30,Insurance: Property and Casualty (Stock),Mayfield Village,OH
+The Bank of New York Mellon Corporation,165,14929.00,Commercial Banks,New York,NY
+Amgen Inc.,163,15053.00,Pharmaceuticals,Thousand Oaks,CA
+"NextEra Energy, Inc.",161,15317.00,Utilities: Gas and Electric,Juno Beach,FL
+"Dominion Resources, Inc.",162,15264.00,Utilities: Gas and Electric,Richmond,VA
+Colgate-Palmolive Company,160,15564.00,Household and Personal Products,New York,NY
+"L-3 Communications Holdings, Inc.",159,15680.00,Aerospace and Defense,New York,NY
+Nucor Corporation,157,15844.60,Metals,Charlotte,NC
+"Medtronic, Inc.",158,15817.00,Medical Products and Equipment,Minneapolis,MN
+Illinois Tool Works Inc.,156,15870.40,Industrial Machinery,Glenview,IL
+Computer Sciences Corporation,155,16128.00,Information Technology Services,Falls Church,VA
+Union Pacific Corporation,153,16965.00,Railroads,Omaha,NE
+"Altria Group, Inc.",154,16892.00,Tobacco,Richmond,VA
+EMC Corporation,152,17015.10,Computer Peripherals,Hopkinton,MA
+The PNC Financial Services Group Inc.,151,17096.00,Commercial Banks,Pittsburgh,PA
+Ally Financial Inc.,149,17373.00,Commercial Banks,Detroit,MI
+The AES Corporation,150,17138.00,Energy,Arlington,VA
+The Southern Company,147,17456.00,Utilities: Gas and Electric,Atlanta,GA
+United States Steel Corporation,148,17374.00,Metals,Pittsburgh,PA
+United Services Automobile Association,145,17946.10,Insurance: Property and Casualty (Stock),San Antonio,TX
+"J.C. Penney Company, Inc.",146,17759.00,General Merchandisers,Plano,TX
+Halliburton Company,144,17973.00,"Oil and Gas Equipment, Services",Houston,TX
+Whirlpool Corporation,143,18366.00,"Electronics, Electrical Equip.",Benton Harbor,MI
+Kohl&#8217;s Corporation,142,18391.00,General Merchandisers,Menomonee Falls,WI
+Exelon Corporation,141,18644.00,Utilities: Gas and Electric,Chicago,IL
+The Goodyear Tire &#038; Rubber Company,139,18832.00,Motor Vehicles and Parts,Akron,OH
+"Arrow Electronics, Inc",140,18744.70,Wholesalers: Electronics and Office Equipment,Melville,NY
+Manpower Inc.,138,18866.50,Temporary Help,Milwaukee,WI
+Time Warner Cable Inc.,137,18868.00,Telecommunications,New York,NY
+Freeport-McMoRan Copper &#038; Gold Inc.,136,18982.00,"Mining, Crude-Oil Production",Phoenix,AZ
+Capital One Financial Corporation,134,19067.00,Commercial Banks,McLean,VA
+"Nike, Inc.",135,19014.00,Apparel,Beaverton,OR
+World Fuel Services Corporation,133,19131.10,Wholesalers: Diversified,Miami,FL
+"Avnet, Inc.",132,19160.20,Wholesalers: Electronics and Office Equipment,Phoenix,AZ
+Bristol-Myers Squibb Company,131,19484.00,Pharmaceuticals,New York,NY
+Kimberly-Clark Corporation,130,19746.00,Household and Personal Products,Irving,TX
+Occidental Petroleum Corporation,129,19857.00,"Mining, Crude-Oil Production",Los Angeles,CA
+Tesoro Corporation,128,20253.00,Petroleum Refining,San Antonio,TX
+Nationwide Mutual Insurance Co.,127,20265.00,Insurance: Property and Casualty (Stock),Columbus,OH
+Aflac Incorporated,125,20732.00,"Insurance: Life, Health (stock)",Columbus,GA
+U.S. Bancorp,126,20518.00,Commercial Banks,Minneapolis,MN
+Fluor Corporation,124,20849.30,"Engineering, Construction",Irving,TX
+"Alcoa, Inc.",123,21013.00,Metals,New York,NY
+CIGNA Corporation,122,21253.00,Health Care: Insurance and Managed Care,Philadelphia,PA
+Xerox Corporation,121,21633.00,"Computers, Office Equipment",Norwalk,CT
+Emerson Electric Co.,120,21866.00,"Electronics, Electrical Equip.",St. Louis,MO
+"The TJX Companies, Inc.",119,21942.20,Specialty Retailers: Apparel,Framingham,MA
+AMR Corporation,118,22170.00,Airlines,Fort Worth,TX
+The Hartford Financial Services Group Inc.,117,22383.00,Insurance: Property and Casualty (Stock),Hartford,CT
+"Motorola Solutions, Inc.",116,22823.00,Network and Other Communications Equipment,Schaumburg,IL
+"United Continental Holdings, Inc.",114,23229.00,Airlines,Chicago,IL
+Eli Lilly and Company,115,23076.00,Pharmaceuticals,Indianapolis,IN
+Murphy Oil Corporation,113,23345.10,Petroleum Refining,El Dorado,AR
+McDonald&#8217;s Corporation,111,24074.60,Food Services,Oak Brook,IL
+Northwestern Mutual Life Insurance Company,112,23384.30,"Insurance: Life, Health (Mutual)",Milwaukee,WI
+DIRECTV,110,24102.00,Telecommunications,El Segundo,CA
+Tech Data Corporation,109,24376.00,Wholesalers: Electronics and Office Equipment,Clearwater,FL
+"Staples, Inc.",108,24545.10,Specialty Retailers: Other,Framingham,MA
+"The Travelers Companies, Inc.",106,25112.00,Insurance: Property and Casualty (Stock),New York,NY
+"Macy&#8217;s, Inc.",107,25003.00,General Merchandisers,Cincinnati,OH
+International Paper Company,105,25179.00,Forest and Paper Products,Memphis,TN
+CHS Inc.,103,25267.90,Wholesalers: Food and Grocery,Inver Grove Heights,MN
+Raytheon Company,104,25183.00,Aerospace and Defense,Waltham,MA
+"Publix Super Markets, Inc.",102,25328.10,Food and Drug Stores,Lakeland,FL
+Massachusetts Financial Group,101,25647.10,"Insurance: Life, Health (Mutual)",Springfield,MA
+"Autodesk, Inc.",890,1951.80,Computer Software,San Rafael,CA
+"Worthington Industries, Inc.",891,1943.00,Metals,Columbus,OH
+Teradata Corporation,892,1936.00,Computer Software,Dayton,OH
+"Bio-Rad Laboratories, Inc.",893,1927.10,Medical Products and Equipment,Hercules,CA
+"Sanderson Farms, Inc.",894,1925.40,Food Production,Laurel,MS
+Denbury Resources Inc.,895,1921.80,"Mining, Crude-Oil Production",Plano,TX
+"Oceaneering International, Inc.",896,1917.00,"Oil and Gas Equipment, Services",Houston,TX
+Scholastic Corporation,897,1915.30,"Publishing, Printing",New York,NY
+DeVry Inc.,898,1915.20,Education,Downers Grove,IL
+"BMC Software, Inc.",899,1911.20,Computer Software,Houston,TX
+Knights of Columbus,900,1909.10,"Insurance: Life, Health (Mutual)",New Haven,CT
+"Maxim Integrated Products, Inc.",876,1997.60,Semiconductors and Other Electronic Components,Sunnyvale,CA
+"Tower International, Inc.",877,1997.10,Motor Vehicles and Parts,Livonia,MI
+International Game Technology,878,1997.00,Industrial Machinery,Reno,NV
+"PerkinElmer, Inc.",879,1993.10,"Scientific,Photographic and Control Equipment",Waltham,MA
+Polaris Industries Inc.,880,1991.10,Transportation Equipment,Medina,MN
+American Tower Corporation,881,1985.30,Telecommunications,Boston,MA
+"BE Aerospace, Inc.",882,1984.20,Aerospace and Defense,Wellington,FL
+ANN Inc.,883,1980.20,Specialty Retailers: Apparel,New York,NY
+"Valmont Industries, Inc.",884,1975.50,Industrial Machinery,Omaha,NE
+"PC Connection, Inc.",885,1974.20,Specialty Retailers: Other,Merrimack,NH
+Mettler-Toledo International Inc.,886,1968.20,"Scientific,Photographic and Control Equipment",Columbus,OH
+"The Pep Boys &#8211; Manny, Moe &#038; Jack",887,1964.10,Specialty Retailers: Other,Philadelphia,PA
+Altera Corporation,888,1954.40,Semiconductors and Other Electronic Components,San Jose,CA
+Dresser-Rand Group Inc.,889,1953.60,Industrial Machinery,Houston,TX
+USEC Inc.,862,2035.40,Energy,Bethesda,MD
+Patriot Coal Corporation,863,2035.10,"Mining, Crude-Oil Production",St. Louis,MO
+Moody&#8217;s Corporation,864,2032.00,Diversified Financials,New York,NY
+"Fossil, Inc.",865,2030.70,Apparel,Richardson,TX
+Briggs &#038; Stratton Corporation,866,2027.90,Industrial Machinery,Wauwatosa,WI
+"Kinetic Concepts, Inc.",867,2017.80,Medical Products and Equipment,San Antonio,TX
+Plexus Corp.,868,2013.40,Semiconductors and Other Electronic Components,Neenah,WI
+Affinia Group Intermediate Holdings Inc.,869,2009.00,Motor Vehicles and Parts,Ann Arbor,MI
+"Skechers U.S.A., Inc.",870,2006.90,Apparel,Manhattan Beach,CA
+Solutia Inc.,871,2003.00,Chemicals,St. Louis,MO
+Amerco,872,2002.00,"Trucking, Truck Leasing",Reno,NV
+HealthSouth Corporation,873,2001.30,Health Care: Medical Facilities,Birmingham,AL
+"Paychex, Inc.",874,2000.80,Diversified Outsourcing Services,Rochester,NY
+Triple-S Management Corporation,875,1998.60,Health Care: Insurance and Managed Care,San Juan,PR
+"Aptargroup, Inc.",850,2076.70,Industrial Machinery,Crystal Lake,IL
+"Lincoln Electric Holdings, Inc.",851,2070.20,Industrial Machinery,Cleveland,OH
+"Scripps Networks Interactive, Inc.",852,2067.20,Entertainment,Cincinnati,OH
+"McAfee, Inc.",853,2064.80,Computer Software,Santa Clara,CA
+Equity Residential,854,2063.20,Real estate,Chicago,IL
+"Charming Shoppes, Inc.",855,2061.80,Specialty Retailers: Apparel,Bensalem,PA
+"Mueller Industries, Inc.",856,2059.80,Industrial Machinery,Memphis,TN
+Thomas &#038; Betts Corporation,857,2057.40,"Electronics, Electrical Equip.",Memphis,TN
+"Westar Energy, Inc.",858,2056.20,Utilities: Gas and Electric,Topeka,KS
+"PSS World Medical, Inc.",859,2055.20,Wholesalers: Health Care,Jacksonville,FL
+"SFN Group, Inc.",860,2053.40,Temporary Help,Fort Lauderdale,FL
+Covance Inc.,861,2038.50,Health Care: Pharmacy and Other Services,Princeton,NJ
+"Green Plains Renewable Energy, Inc.",836,2133.00,Energy,Omaha,NE
+Vectren Corporation,837,2129.50,Utilities: Gas and Electric,Evansville,IN
+Career Education Corporation,838,2124.70,Education,Schaumburg,IL
+"ScanSource, Inc.",839,2115.00,Wholesalers: Electronics and Office Equipment,Greenville,SC
+Moog Inc.,840,2114.30,Aerospace and Defense,East Aurora,NY
+Mutual of America Life Insurance Company of America,841,2111.10,"Insurance: Life, Health (Mutual)",New York,NY
+"The Phoenix Companies, Inc.",842,2110.50,"Insurance: Life, Health (stock)",Hartford,CT
+"The Men&#8217;s Wearhouse, Inc.",843,2102.70,Specialty Retailers: Apparel,Houston,TX
+Ferro Corporation,844,2101.90,Chemicals,Cleveland,OH
+"Genesis Energy, L.P.",845,2101.30,Pipelines,Houston,TX
+"Ferrellgas Partners, L.P.",846,2099.10,Energy,Overland Park,KS
+"Brocade Communications Systems, Inc.",847,2094.40,Network and Other Communications Equipment,San Jose,CA
+Boise Inc.,848,2093.80,Forest and Paper Products,Boise,ID
+"Jo-Ann Stores, Inc.",849,2079.00,Specialty Retailers: Apparel,Hudson,OH
+Crane Co.,820,2217.80,Industrial Machinery,Stamford,CT
+Brookdale Senior Living Inc.,821,2213.30,Health Care: Medical Facilities,Brentwood,TN
+"Adams Resources &#038; Energy, Inc.",822,2212.00,Energy,Houston,TX
+"Tetra Tech, Inc.",823,2201.20,"Engineering, Construction",Pasadena,CA
+A.O. Smith Corporation,824,2191.10,"Electronics, Electrical Equip.",Milwaukee,WI
+"Calumet Specialty Products Partners, L.P.",825,2190.80,Petroleum Refining,Indianapolis,IN
+Service Corporation International,826,2190.60,zMiscellaneous,Houston,TX
+"Trinity Industries, Inc.",827,2189.10,Transportation Equipment,Dallas,TX
+WABCO Holdings Inc.,828,2175.70,Motor Vehicles and Parts,Piscataway,NJ
+"Netflix, Inc.",829,2162.60,Specialty Retailers: Other,Los Gatos,CA
+Alere Inc.,830,2159.70,Medical Products and Equipment,Waltham,MA
+MF Global Holdings Ltd.,831,2145.40,Securities,New York,NY
+"Cinemark Holdings, Inc.",832,2141.10,Entertainment,Plano,TX
+Boyd Gaming Corporation,833,2140.90,"Hotels, Casinos, Resorts",Las Vegas,NV
+"Lithia Motors, Inc.",834,2137.60,"Automotive Retailing, Services",Medford,OR
+Lam Research Corporation,835,2133.80,Semiconductors and Other Electronic Components,Fremont,CA
+Sigma-Aldrich Corporation,806,2271.00,Chemicals,St. Louis,MO
+"GenOn Energy, Inc.",807,2270.00,Energy,Houston,TX
+Fastenal Company,808,2269.50,Specialty Retailers: Other,Winona,MN
+"Itron, Inc.",809,2259.30,"Electronics, Electrical Equip.",Liberty Lake,WA
+Great Plains Energy Incorporated,810,2255.50,Utilities: Gas and Electric,Kansas City,MO
+"New York Community Bancorp, Inc.",811,2251.70,Savings Institutions,Westbury,NY
+Univision Communications Inc.,812,2245.20,Entertainment,New York,NY
+"Boise Cascade Holdings, L.L.C.",813,2240.60,Wholesalers: Diversified,Boise,ID
+"MEMC Electronic Materials, Inc.",814,2239.20,Semiconductors and Other Electronic Components,St. Peters,MO
+Regal Beloit Corporation,815,2238.00,"Electronics, Electrical Equip.",Beloit,WI
+"United Rentals, Inc.",816,2237.00,zMiscellaneous,Greenwich,CT
+SunPower Corporation,817,2230.30,Energy,San Jose,CA
+Markel Corporation,818,2225.40,Insurance: Property and Casualty (Stock),Glen Allen,VA
+DENTSPLY International Inc.,819,2221.00,Medical Products and Equipment,York,PA
+Saks Incorporated,694,2785.70,General Merchandisers,New York,NY
+Mercury General Corporation,695,2775.90,Insurance: Property and Casualty (Stock),Los Angeles,CA
+"Armstrong World Industries, Inc.",696,2766.40,"Building Materials, Glass",Lancaster,PA
+"Skywest, Inc.",697,2765.10,Airlines,St. George,UT
+"StanCorp Financial Group, Inc.",698,2765.10,"Insurance: Life, Health (stock)",Portland,OR
+"Analog Devices, Inc.",699,2761.50,Semiconductors and Other Electronic Components,Norwood,MA
+Zions Bancorporation,700,2760.30,Commercial Banks,Salt Lake City,UT
+Steelcase Inc.,801,2291.70,"Home Equipment, Furnishings",Grand Rapids,MI
+"Broadridge Financial Solutions, Inc.",802,2283.50,Financial Data Services,Lake Success,NY
+"American Axle &#038; Manufacturing Holdings, Inc.",803,2283.00,Motor Vehicles and Parts,Detroit,MI
+"Thor Industries, Inc.",804,2276.60,Motor Vehicles and Parts,Jackson Center,OH
+"Urban Outfitters, Inc.",805,2274.10,Specialty Retailers: Apparel,Philadelphia,PA
+Chemtura Corporation,684,2856.00,Chemicals,Philadelphia,PA
+"Watsco, Inc.",685,2844.60,Wholesalers: Diversified,Coconut Grove,FL
+"Diebold, Incorporated",686,2824.30,"Computers, Office Equipment",North Canton,OH
+Vornado Realty Trust,687,2823.60,Real estate,New York,NY
+Georgia Gulf Corporation,688,2818.00,Chemicals,Atlanta,GA
+Sirius XM Radio Inc.,689,2817.00,Entertainment,New York,NY
+"Cephalon, Inc.",690,2811.10,Pharmaceuticals,Frazer,PA
+Regal Entertainment Group,691,2807.90,Entertainment,Knoxville,TN
+"Jefferies Group, Inc.",692,2797.30,Securities,New York,NY
+Alliance Data Systems Corporation,693,2791.40,Financial Data Services,Plano,TX
+USG Corporation,678,2939.00,"Building Materials, Glass",Chicago,IL
+Swift Transportaion Company,679,2929.70,"Trucking, Truck Leasing",Phoenix,AZ
+Jones Lang LaSalle Incorporated,680,2925.60,Real estate,Chicago,IL
+"Sally Beauty Holdings, Inc.",681,2916.10,Specialty Retailers: Other,Denton,TX
+Cabot Corporation,682,2893.00,Chemicals,Boston,MA
+CUNA Mutual Insurance Society,683,2876.00,"Insurance: Life, Health (stock)",Madison,WI
+Harsco Corporation,663,3038.70,Metals,Camp Hill,PA
+"Pentair, Inc.",664,3030.80,Industrial Machinery,Golden Valley,MN
+"Noble Energy, Inc.",665,3022.00,"Mining, Crude-Oil Production",Houston,TX
+National Life Group,666,3009.30,"Insurance: Life, Health (Mutual)",Montpelier,VT
+Molex Incorporated,667,3007.20,"Electronics, Electrical Equip.",Lisle,IL
+"CME Group, Inc.",668,3003.70,Securities,Chicago,IL
+Rock-Tenn Company,669,3001.40,"Packaging, Containers",Norcross,GA
+"HSN, Inc.",670,2996.80,Specialty Retailers: Other,St. Petersburg,FL
+"American Eagle Outfitters, Inc.",671,2989.40,Specialty Retailers: Apparel,Pittsburgh,PA
+Warner Music Group Corp.,672,2984.00,Entertainment,New York,NY
+"Raymond James Financial, Inc.",673,2979.50,Securities,St. Petersburg,FL
+"Magellan Health Services, Inc.",674,2969.20,Health Care: Insurance and Managed Care,Avon,CT
+NSTAR,675,2969.20,Utilities: Gas and Electric,Boston,MA
+"Hudson City Bancorp, Inc.",676,2947.50,Savings Institutions,Paramus,NJ
+"Amkor Technology, Inc.",677,2939.50,Semiconductors and Other Electronic Components,Chandler,AZ
+"General Growth Properties, Inc.",649,3109.10,Real estate,Chicago,IL
+Protective Life Corporation,650,3097.80,"Insurance: Life, Health (stock)",Birmingham,AL
+Lennox International Inc.,651,3096.60,Industrial Machinery,Richardson,TX
+Tiffany &#038; Co.,652,3085.30,Specialty Retailers: Other,New York,NY
+priceline.com Incorporated,653,3084.90,Internet Services and Retailing,Norwalk,CT
+American National Insurance Company,654,3078.00,"Insurance: Life, Health (stock)",Galveston,TX
+Lennar Corporation,655,3074.00,Homebuilders,Miami,FL
+Silgan Holdings Inc.,656,3071.50,"Packaging, Containers",Stamford,CT
+"NVR, Inc.",657,3057.40,Homebuilders,Reston,VA
+"Securian Financial Group, Inc.",658,3056.90,"Insurance: Life, Health (stock)",St. Paul,MN
+PHH Corporation,659,3048.00,"Automotive Retailing, Services",Mount Laurel,NJ
+"The Bon-Ton Stores, Inc.",660,3046.50,General Merchandisers,York,PA
+Marshall &#038; Ilsley Corporation,661,3043.20,Commercial Banks,Milwaukee,WI
+Massey Energy Company,662,3039.00,"Mining, Crude-Oil Production",Richmond,VA
+Westlake Chemical Corporation,635,3171.80,Chemicals,Houston,TX
+The Scotts Miracle-Gro Company,636,3154.60,Chemicals,Marysville,OH
+"The Hanover Insurance Group, Inc.",637,3152.20,Insurance: Property and Casualty (Stock),Worcester,MA
+"Buckeye Partners, L.P.",638,3151.30,Pipelines,Houston,TX
+"CACI International, Inc.",639,3149.10,Information Technology Services,Arlington,VA
+Mead Johnson Nutrition Company,640,3141.60,Food Consumer Products,Glenview,IL
+"HealthSpring, Inc.",641,3135.70,Health Care: Insurance and Managed Care,Franklin,TN
+"Diversey Holdings, Inc.",642,3127.70,zMiscellaneous,Sturtevant,WI
+Iron Mountain Incorporated,643,3127.50,Diversified Outsourcing Services,Boston,MA
+"Puget Energy, Inc.",644,3122.20,Utilities: Gas and Electric,Bellevue,WA
+The Brink&#8217;s Company,645,3121.50,Diversified Outsourcing Services,Richmond,VA
+The Blackstone Group L.P.,646,3119.30,Diversified Financials,New York,NY
+FMC Corporation,647,3116.30,Chemicals,Philadelphia,PA
+LPL Investment Holdings Inc.,648,3113.50,Securities,Boston,MA
+"LifePoint Hospitals, Inc.",622,3261.60,Health Care: Medical Facilities,Brentwood,TN
+Molson Coors Brewing Company,623,3254.40,Beverages,Denver,CO
+Country Insurance &#038; Financial Services,624,3246.70,Insurance: Property and Casualty (Mutual),Bloomington,IL
+"Patterson Companies, Inc.",625,3237.40,Wholesalers: Health Care,St. Paul,MN
+"Popular, Inc.",626,3236.40,Commercial Banks,Hato Rey,PR
+"Chiquita Brands International, Inc.",627,3227.40,Food Production,Cincinnati,OH
+The Valspar Corporation,628,3226.70,Chemicals,Minneapolis,MN
+Tutor Perini Corp.,629,3199.20,"Engineering, Construction",Sylmar,CA
+"The Nasdaq OMX Group, Inc.",630,3197.00,Securities,New York,NY
+"Brinker International, Inc.",631,3189.70,Food Services,Dallas,TX
+Huntington Bancshares Incorporated,632,3187.30,Commercial Banks,Columbus,OH
+"Arch Coal, Inc.",633,3186.30,"Mining, Crude-Oil Production",St. Louis,MO
+Robert Half International Inc.,634,3175.10,Temporary Help,Menlo Park,CA
+"Ingles Markets, Incorporated",610,3390.10,Food and Drug Stores,Black Mountain,NC
+"Vanguard Health Systems, Inc.",611,3376.90,Health Care: Medical Facilities,Nashville,TN
+"Collective Brands, Inc.",612,3375.70,Specialty Retailers: Apparel,Topeka,KS
+The ServiceMaster Company,613,3365.90,Diversified Outsourcing Services,Memphis,TN
+"Constellation Brands, Inc.",614,3364.80,Beverages,Victor,NY
+Cooper Tire &#038; Rubber Company,615,3361.00,Motor Vehicles and Parts,Findlay,OH
+"The Manitowoc Company, Inc.",616,3358.10,Construction and Farm Machinery,Manitowoc,WI
+"Expedia, Inc.",617,3348.10,Internet Services and Retailing,Bellevue,WA
+Cytec Industries Inc.,618,3348.00,Chemicals,Woodland Park,NJ
+Pinnacle West Capital Corporation,619,3345.60,Utilities: Gas and Electric,Phoenix,AZ
+"McCormick &#038; Company, Incorporated",620,3336.80,Food Consumer Products,Sparks,MD
+"NV Energy, Inc.",621,3280.20,Utilities: Gas and Electric,Las Vegas,NV
+"Rockwood Holdings, Inc.",601,3422.90,Chemicals,Princeton,NJ
+Alliant Energy Corporation,602,3422.40,Utilities: Gas and Electric,Madison,WI
+"Wendy&#8217;s/Arby&#8217;s Group, Inc.",603,3416.40,Food Services,Atlanta,GA
+RPM International Inc.,604,3412.70,Chemicals,Medina,OH
+Brunswick Corporation,605,3403.30,Transportation Equipment,Lake Forest,IL
+"Harman International Industries, Incorporated",606,3399.70,"Electronics, Electrical Equip.",Stamford,CT
+"Leggett &#038; Platt, Incorporated",607,3396.20,"Home Equipment, Furnishings",Carthage,MO
+"The Andersons, Inc.",608,3393.80,Wholesalers: Food and Grocery,Maumee,OH
+"Quad/Graphics, Inc.",609,3391.70,"Publishing, Printing",Sussex,WI
+YRC Worldwide Inc.,488,4528.80,"Trucking, Truck Leasing",Overland Park,KS
+"American Financial Group, Inc.",489,4497.00,Insurance: Property and Casualty (Stock),Cincinnati,OH
+Sealed Air Corporation,490,4490.10,"Packaging, Containers",Elmwood Park,NJ
+The Charles Schwab Corporation,491,4474.00,Securities,San Francisco,CA
+RadioShack Corporation,492,4472.70,Specialty Retailers: Other,Fort Worth,TX
+Centene Corporation,493,4470.10,Health Care: Insurance and Managed Care,St. Louis,MO
+"Host Hotels &#038; Resorts, Inc.",494,4442.00,"Hotels, Casinos, Resorts",Bethesda,MD
+NYSE Euronext,495,4425.00,Securities,New York,NY
+Levi Strauss &#038; Co.,496,4410.60,Apparel,San Francisco,CA
+NuStar Energy L.P.,497,4403.10,Pipelines,San Antonio,TX
+Ruddick Corporation,498,4400.50,Food and Drug Stores,Charlotte,NC
+"D.R. Horton, Inc.",499,4400.20,Homebuilders,Fort Worth,TX
+Seaboard Corporation,500,4385.70,Food Production,Shawnee Mission,KS
+Biogen Idec Inc.,476,4716.40,Pharmaceuticals,Weston,MA
+Cliffs Natural Resources Inc.,477,4682.20,"Mining, Crude-Oil Production",Cleveland,OH
+"Rockwell Collins, Inc.",478,4665.00,Aerospace and Defense,Cedar Rapids,IA
+Phillips-Van Heusen Corporation,479,4636.80,Apparel,New York,NY
+"Graybar Electric Company, Inc.",480,4616.40,Wholesalers: Diversified,St. Louis,MO
+El Paso Corporation,481,4616.00,Pipelines,Houston,TX
+The J.M. Smucker Company,482,4605.30,Food Consumer Products,Orrville,OH
+SCANA Corporation,483,4601.00,Utilities: Gas and Electric,Cayce,SC
+Cognizant Technology Solutions Corporation,484,4592.40,Information Technology Services,Teaneck,NJ
+Terex Corporation,485,4575.90,Construction and Farm Machinery,Westport,CT
+"PulteGroup, Inc.",486,4569.30,Homebuilders,Bloomfield Hills,MI
+Genzyme Corporation,487,4535.90,Pharmaceuticals,Cambridge,MA
+SPX Corporation,460,4892.70,Industrial Machinery,Charlotte,NC
+Erie Insurance Group,461,4890.00,Insurance: Property and Casualty (Stock),Erie,PA
+"Bemis Company, Inc.",462,4890.00,"Packaging, Containers",Neenah,WI
+Meritor Inc.,463,4882.00,Motor Vehicles and Parts,Troy,MI
+"Dick&#8217;s Sporting Goods, Inc.",464,4871.50,Specialty Retailers: Other,Coraopolis,PA
+General Cable Corporation,465,4864.90,"Electronics, Electrical Equip.",Highland Heights,KY
+"Rockwell Automation, Inc.",466,4857.00,"Electronics, Electrical Equip.",Milwaukee,WI
+United Stationers Inc.,467,4832.20,Wholesalers: Electronics and Office Equipment,Deerfield,IL
+SanDisk Corporation,468,4826.80,Semiconductors and Other Electronic Components,Milpitas,CA
+NCR Corporation,469,4819.00,"Computers, Office Equipment",Duluth,GA
+The Washington Post Company,470,4817.10,Education,Washington,DC
+"Insight Enterprises, Inc.",471,4809.90,Wholesalers: Electronics and Office Equipment,Tempe,AZ
+Alliant Techsystems Inc.,472,4807.70,Aerospace and Defense,Minneapolis,MN
+Atmos Energy Corporation,473,4789.70,Utilities: Gas and Electric,Dallas,TX
+AbitibiBowater Inc.,474,4746.00,Forest and Paper Products,Greenville,SC
+W.R. Berkley Corporation,475,4724.10,Insurance: Property and Casualty (Stock),Greenwich,CT
+"Live Nation Entertainment, Inc.",444,5063.70,Entertainment,Beverly Hills,CA
+Avaya Inc.,445,5060.00,Network and Other Communications Equipment,Basking Ridge,NJ
+"Foot Locker, Inc.",446,5049.00,Specialty Retailers: Apparel,New York,NY
+Laboratory Corporation of America Holdings,447,5003.90,Health Care: Pharmacy and Other Services,Burlington,NC
+Owens Corning,448,4997.00,"Building Materials, Glass",Toledo,OH
+Nash-Finch Company,449,4992.00,Wholesalers: Food and Grocery,Minneapolis,MN
+"Telephone and Data Systems, Inc.",450,4986.80,Telecommunications,Chicago,IL
+Polo Ralph Lauren Corporation,451,4978.90,Apparel,New York,NY
+"Apollo Group, Inc.",452,4958.10,Education,Phoenix,AZ
+"Big Lots, Inc.",453,4952.20,Specialty Retailers: Other,Columbus,OH
+Con-way Inc.,454,4952.00,Transportation and Logistics,Ann Arbor,MI
+"Kelly Services, Inc.",455,4950.30,Temporary Help,Troy,MI
+Western &#038; Southern Mutual Holding Company,456,4921.10,"Insurance: Life, Health (Mutual)",Cincinnati,OH
+"Allergan, Inc.",457,4919.40,Pharmaceuticals,Irvine,CA
+"Harley-Davidson, Inc.",458,4907.90,Transportation Equipment,Milwaukee,WI
+Northeast Utilities,459,4898.20,Utilities: Gas and Electric,Berlin,CT
+"Avis Budget Group, Inc.",432,5185.00,"Automotive Retailing, Services",Parsippany,NJ
+Momentive Specialty Chemicals Inc.,433,5174.00,Chemicals,Columbus,OH
+SunGard Data Systems Inc.,434,5172.00,Financial Data Services,Wayne,PA
+"Health Management Associates, Inc.",435,5169.00,Health Care: Medical Facilities,Naples,FL
+"St. Jude Medical, Inc.",436,5164.80,Medical Products and Equipment,St. Paul,MN
+"Ryder System, Inc.",437,5136.40,"Trucking, Truck Leasing",Miami,FL
+Booz Allen Hamilton Holding Corp.,438,5122.60,Information Technology Services,McLean,VA
+"EMCOR Group, Inc.",439,5121.30,"Engineering, Construction",Norwalk,CT
+"CB Richard Ellis Group, Inc.",440,5119.20,Real estate,Los Angeles,CA
+Spectra Energy Corp,441,5071.00,Pipelines,Houston,TX
+"Starwood Hotels &#038; Resorts Worldwide, Inc.",441,5071.00,"Hotels, Casinos, Resorts",White Plains,NY
+"WESCO International, Inc.",443,5063.90,Wholesalers: Diversified,Pittsburgh,PA
+CONSOL Energy Inc.,428,5236.00,"Mining, Crude-Oil Production",Canonsburg,PA
+Harris Corporation,429,5206.10,Network and Other Communications Equipment,Melbourne,FL
+"Integrys Energy Group, Inc.",430,5203.20,Utilities: Gas and Electric,Chicago,IL
+The Western Union Company,431,5192.70,Financial Data Services,Englewood,CO
+"WellCare Health Plans, Inc.",420,5440.20,Health Care: Insurance and Managed Care,Tampa,FL
+Pitney Bowes Inc.,421,5425.30,"Computers, Office Equipment",Stamford,CT
+"CH2M HILL Companies, Ltd.",422,5422.80,"Engineering, Construction",Englewood,CO
+The Lubrizol Corporation,423,5417.80,Chemicals,Wickliffe,OH
+"O&#8217;Reilly Automotive, Inc.",424,5397.50,Specialty Retailers: Other,Springfield,MO
+Auto-Owners Insurance Group,425,5395.80,Insurance: Property and Casualty (Mutual),Lansing,MI
+"Fidelity National Information Services, Inc.",426,5331.00,Financial Data Services,Jacksonville,FL
+"Mohawk Industries, Inc.",427,5319.10,zMiscellaneous,Calhoun,GA
+UGI Corporation,407,5591.40,Energy,King of Prussia,PA
+"Universal Health Services, Inc.",408,5572.30,Health Care: Medical Facilities,King of Prussia,PA
+Precision Castparts Corp.,409,5539.60,Aerospace and Defense,Portland,OR
+MasterCard Incorporated,410,5539.00,Financial Data Services,Purchase,NY
+The Clorox Company,411,5534.00,Household and Personal Products,Oakland,CA
+"Core-Mark Holding Company, Inc.",412,5510.30,Wholesalers: Food and Grocery,South San Francisco,CA
+"Group 1 Automotive, Inc.",413,5509.20,"Automotive Retailing, Services",Houston,TX
+Anixter International Inc.,414,5472.10,Wholesalers: Diversified,Glenview,IL
+"Gannett Co., Inc.",415,5471.40,"Publishing, Printing",McLean,VA
+Targa Resources Corporation,416,5469.20,Pipelines,Houston,TX
+KeyCorp,417,5458.00,Commercial Banks,Cleveland,OH
+Mylan Inc.,418,5450.50,Pharmaceuticals,Canonsburg,PA
+"Agilent Technologies, Inc.",419,5444.00,"Scientific,Photographic and Control Equipment",Santa Clara,CA
+"Gilead Sciences, Inc.",299,7949.40,Pharmaceuticals,Foster City,CA
+Ball Corporation,300,7948.50,"Packaging, Containers",Broomfield,CO
+Universal American Corp.,401,5687.20,Health Care: Insurance and Managed Care,Rye Brook,NY
+The Hershey Company,402,5671.00,Food Consumer Products,Hershey,PA
+BorgWarner Inc.,403,5652.80,Motor Vehicles and Parts,Auburn Hills,MI
+"Dr Pepper Snapple Group, Inc.",404,5636.00,Beverages,Plano,TX
+Pacific Life,405,5603.00,"Insurance: Life, Health (stock)",Newport Beach,CA
+"NII Holdings, Inc.",406,5601.30,Telecommunications,Reston,VA
+Aon Corporation,286,8512.00,Diversified Financials,Chicago,IL
+"Micron Technology, Inc.",287,8482.00,Semiconductors and Other Electronic Components,Boise,ID
+Stanley Black &#038; Decker,288,8409.60,"Home Equipment, Furnishings",New Britain,CT
+Holly Corporation,289,8322.90,Petroleum Refining,Dallas,TX
+"Reinsurance Group of America, Inc.",290,8261.70,"Insurance: Life, Health (stock)",Chesterfield,MO
+Discover Financial Services,291,8241.20,Commercial Banks,Riverwoods,IL
+Energy Future Holdings Corp.,292,8235.00,Energy,Dallas,TX
+Regions Financial Corporation,293,8220.00,Commercial Banks,Birmingham,AL
+"Kinder Morgan, Inc.",294,8190.60,Pipelines,Houston,TX
+"Owens &#038; Minor, Inc.",295,8123.60,Wholesalers: Health Care,Mechanicsville,VA
+"Republic Services, Inc.",296,8106.60,Waste Management,Phoenix,AZ
+Visa Inc.,297,8065.00,Financial Data Services,San Francisco,CA
+"Western Refining, Inc.",298,7965.10,Petroleum Refining,El Paso,TX
+"NRG Energy, Inc.",276,8849.00,Energy,Princeton,NJ
+Caesars Entertainment Corporation,277,8818.60,"Hotels, Casinos, Resorts",Las Vegas,NV
+"The Great Atlantic &#038; Pacific Tea Company, Inc.",278,8813.60,Food and Drug Stores,Montvale,NJ
+"CenterPoint Energy, Inc.",279,8785.00,Utilities: Gas and Electric,Houston,TX
+PPL Corporation,280,8638.00,Utilities: Gas and Electric,Allentown,PA
+Synnex Corporation,281,8617.10,Wholesalers: Electronics and Office Equipment,Fremont,CA
+"BlackRock, Inc.",282,8612.00,Securities,New York,NY
+DTE Energy Company,283,8557.00,Utilities: Gas and Electric,Detroit,MI
+Reynolds American Inc.,284,8551.00,Tobacco,Winston-Salem,NC
+"Assurant, Inc.",285,8527.70,Insurance: Property and Casualty (Stock),New York,NY
+Huntsman Corporation,264,9302.00,Chemicals,Salt Lake City,UT
+"C. H. Robinson Worldwide, Inc.",265,9274.30,Transportation and Logistics,Eden Prairie,MN
+Tenet Healthcare Corporation,266,9233.00,Health Care: Medical Facilities,Dallas,TX
+URS Corporation,267,9177.10,"Engineering, Construction",San Francisco,CA
+"Principal Financial Group, Inc.",268,9158.60,"Insurance: Life, Health (stock)",Des Moines,IA
+eBay Inc.,269,9156.30,Internet Services and Retailing,San Jose,CA
+Icahn Enterprises L.P.,270,9119.00,Motor Vehicles and Parts,New York,NY
+"Air Products &#038; Chemicals, Inc.",271,9026.00,Chemicals,Allentown,PA
+Ashland Inc.,272,9012.00,Chemicals,Covington,KY
+"Whole Foods Market, Inc.",273,9005.80,Food and Drug Stores,Austin,TX
+Sempra Energy,274,9003.00,Utilities: Gas and Electric,San Diego,CA
+"Automatic Data Processing, Inc.",275,8944.90,Diversified Outsourcing Services,Roseland,NJ
+Western Digital Corporation,251,9850.00,Computer Peripherals,Lake Forest,CA
+Oshkosh Corporation,252,9842.40,Motor Vehicles and Parts,Oshkosh,WI
+State Street Corporation,253,9716.00,Commercial Banks,Boston,MA
+"Nordstrom, Inc.",254,9700.00,General Merchandisers,Seattle,WA
+"Liberty Global, Inc.",255,9667.70,Telecommunications,Englewood,CO
+KKR &#038; Co. L.P.,256,9667.60,Securities,New York,NY
+"The Williams Companies, Inc.",257,9616.00,Energy,Tulsa,OK
+"Limited Brands, Inc.",258,9613.30,Specialty Retailers: Apparel,Columbus,OH
+"Applied Materials, Inc.",259,9548.70,Semiconductors and Other Electronic Components,Santa Clara,CA
+Newmont Mining Corporation,260,9540.00,"Mining, Crude-Oil Production",Greenwood Village,CO
+Norfolk Southern Corporation,261,9516.00,Railroads,Norfolk,VA
+GameStop Corp.,262,9473.70,Specialty Retailers: Other,Grapevine,TX
+Chesapeake Energy Corporation,263,9366.00,"Mining, Crude-Oil Production",Oklahoma City,OK
+Xcel Energy Inc.,237,10310.90,Utilities: Gas and Electric,Minneapolis,MN
+PACCAR Inc,238,10292.90,Motor Vehicles and Parts,Bellevue,WA
+Unum Group,239,10193.20,"Insurance: Life, Health (stock)",Chattanooga,TN
+"Progress Energy, Inc.",240,10190.00,Utilities: Gas and Electric,Raleigh,NC
+"Praxair, Inc.",241,10116.00,Chemicals,Danbury,CT
+"KBR, Inc.",242,10099.00,"Engineering, Construction",Houston,TX
+"Genworth Financial , Inc.",243,10089.00,"Insurance: Life, Health (stock)",Richmond,VA
+"SunTrust Banks, Inc.",244,10071.70,Commercial Banks,Atlanta,GA
+Guardian Life Ins. Co. of America,245,10050.50,"Insurance: Life, Health (Mutual)",New York,NY
+"Ameriprise Financial, Inc.",246,10046.00,Diversified Financials,Minneapolis,MN
+R.R. Donnelley &#038; Sons Company,247,10018.90,"Publishing, Printing",Chicago,IL
+Parker-Hannifin Corporation,248,9993.20,Industrial Machinery,Cleveland,OH
+"Peter Kiewit Sons&#8217;, Inc.",249,9938.00,"Engineering, Construction",Omaha,NE
+Jacobs Engineering Group Inc.,250,9915.50,"Engineering, Construction",Pasadena,CA
+Liberty Media Corporation,224,10982.00,Internet Services and Retailing,Englewood,CO
+"Marsh &#038; McLennan Companies, Inc.",225,10931.00,Diversified Financials,New York,NY
+"Avon Products, Inc.",226,10862.80,Household and Personal Products,New York,NY
+Thermo Fisher Scientific Inc.,227,10788.70,"Scientific,Photographic and Control Equipment",Waltham,MA
+"Penske Automotive Group, Inc.",228,10734.40,"Automotive Retailing, Services",Bloomfield Hills,MI
+Starbucks Corporation,229,10707.40,Food Services,Seattle,WA
+CSX Corporation,230,10636.00,Railroads,Jacksonville,FL
+Devon Energy Corporation,231,10633.00,"Mining, Crude-Oil Production",Oklahoma City,OK
+H.J. Heinz Company,232,10558.00,Food Consumer Products,Pittsburgh,PA
+Textron Inc.,233,10525.00,Aerospace and Defense,Providence,RI
+Monsanto Company,234,10502.00,Chemicals,St. Louis,MO
+Lincoln National Corporation,235,10410.50,"Insurance: Life, Health (stock)",Radnor,PA
+First Data Corporation,236,10380.40,Financial Data Services,Atlanta,GA
+"Office Depot, Inc.",211,11633.10,Specialty Retailers: Other,Boca Raton,FL
+"Coventry Health Care, Inc.",212,11587.90,Health Care: Insurance and Managed Care,Bethesda,MD
+Entergy Corporation,213,11487.60,Utilities: Gas and Electric,New Orleans,LA
+"Yum! Brands, Inc.",214,11343.00,Food Services,Louisville,KY
+Genuine Parts Company,215,11207.60,Wholesalers: Diversified,Atlanta,GA
+"Smithfield Foods, Inc.",216,11202.60,Food Production,Smithfield,VA
+ITT Corporation,217,11155.00,Aerospace and Defense,White Plains,NY
+"Land O&#8217;Lakes, Inc.",218,11146.40,Food Consumer Products,Arden Hills,MN
+"SAIC, Inc.",219,11117.00,Information Technology Services,McLean,VA
+BB&#038;T Corporation,220,11072.00,Commercial Banks,Winston-Salem,NC
+"BJ&#8217;s Wholesale Club, Inc.",221,11024.80,Specialty Retailers: Other,Westborough,MA
+Qualcomm Incorporated,222,10991.00,Network and Other Communications Equipment,San Diego,CA
+Anadarko Petroleum Corporation,223,10984.00,"Mining, Crude-Oil Production",The Woodlands,TX
+"Public Service Enterprise Group, Inc.",201,12195.00,Utilities: Gas and Electric,Newark,NJ
+"National Oilwell Varco, Inc.",202,12156.00,"Oil and Gas Equipment, Services",Houston,TX
+Dean Foods Company,203,12149.20,Food Consumer Products,Dallas,TX
+Navistar International Corporation,204,12145.00,Motor Vehicles and Parts,Warrenville,IL
+Southwest Airlines Co.,205,12104.00,Airlines,Dallas,TX
+Apache Corporation,206,12092.00,"Mining, Crude-Oil Production",Houston,TX
+Lear Corporation,207,11954.60,Motor Vehicles and Parts,Southfield,MI
+"US Airways Group, Inc.",208,11908.00,Airlines,Tempe,AZ
+Qwest Communications International Inc.,209,11730.00,Telecommunications,Denver,CO
+"Marriott International, Inc.",210,11691.00,"Hotels, Casinos, Resorts",Bethesda,MD
+"Delta Air Lines, Inc.",88,31755.00,Airlines,Atlanta,GA
+The Allstate Corporation,89,31400.00,Insurance: Property and Casualty (Stock),Northbrook,IL
+"HCA Holdings, Inc.",90,30683.00,Health Care: Medical Facilities,Nashville,TN
+American Express Company,91,30242.00,Commercial Banks,New York,NY
+Google Inc.,92,29321.00,Internet Services and Retailing,Mountain View,CA
+"Tyson Foods, Inc.",93,28430.00,Food Production,Springdale,AR
+Philip Morris International Inc.,94,27208.00,Tobacco,New York,NY
+Time Warner Inc.,95,26888.00,Entertainment,New York,NY
+Oracle Corporation,96,26820.00,Computer Software,Redwood City,CA
+3M Company,97,26662.00,zMiscellaneous,St. Paul,MN
+Deere &#038; Company,98,26004.60,Construction and Farm Machinery,Moline,IL
+"Plains All American Pipeline, L.P.",99,25893.00,Pipelines,Houston,TX
+Rite Aid Corporation,100,25669.10,Food and Drug Stores,Camp Hill,PA
+"Johnson Controls, Inc.",76,34305.00,Motor Vehicles and Parts,Milwaukee,WI
+Aetna Inc.,77,34246.00,Health Care: Insurance and Managed Care,Hartford,CT
+Amazon.com Inc.,78,34204.00,Internet Services and Retailing,Seattle,WA
+Humana Inc.,79,33868.20,Health Care: Insurance and Managed Care,Louisville,KY
+"Enterprise Products Partners, L.P.",80,33739.30,Pipelines,Houston,TX
+Honeywell International Inc.,81,33370.00,Aerospace and Defense,Morris Township,NJ
+Liberty Mutual Holding Company Inc.,82,33193.00,Insurance: Property and Casualty (Stock),Boston,MA
+News Corporation,83,32778.00,Entertainment,New York,NY
+E.I. du Pont de Nemours and Company,84,32733.00,Chemicals,Wilmington,DE
+Sprint Nextel Corporation,85,32563.00,Telecommunications,Overland Park,KS
+General Dynamics Corporation,86,32466.00,Aerospace and Defense,Falls Church,VA
+Teachers Insurance and Annuity Association College Retiremen,87,32224.90,"Insurance: Life, Health (Mutual)",New York,NY
+The Walt Disney Company,65,38063.00,Entertainment,Burbank,CA
+Comcast Corporation,66,37937.00,Telecommunications,Philadelphia,PA
+Sysco Corporation,67,37243.50,Wholesalers: Food and Grocery,Houston,TX
+"Sunoco, Inc.",68,35453.00,Petroleum Refining,Philadelphia,PA
+Abbott Laboratories,69,35166.70,Pharmaceuticals,Abbott Park,IL
+The Coca-Cola Company,70,35119.00,Beverages,Atlanta,GA
+New York Life Insurance Company,71,34947.20,"Insurance: Life, Health (Mutual)",New York,NY
+Northrop Grumman Corporation,72,34757.00,Aerospace and Defense,Los Angeles,CA
+FedEx Corporation,73,34734.00,"Mail, Package, and Freight Delivery",Memphis,TN
+Hess Corporation,74,34613.00,Petroleum Refining,New York,NY
+Ingram Micro Inc.,75,34589.00,Wholesalers: Electronics and Office Equipment,Santa Ana,CA
+Sears Holdings Corporation,57,43326.00,General Merchandisers,Hoffman Estates,IL
+Caterpillar Inc.,58,42588.00,Construction and Farm Machinery,Peoria,IL
+Chrysler Group LLC,59,41946.00,Motor Vehicles and Parts,Auburn Hills,MI
+Safeway Inc.,60,41050.00,Food and Drug Stores,Pleasanton,CA
+Supervalu Inc.,61,40597.00,Food and Drug Stores,Eden Prairie,MN
+"Cisco Systems, Inc.",62,40040.00,Network and Other Communications Equipment,San Jose,CA
+Morgan Stanley,63,39320.00,Commercial Banks,New York,NY
+"Prudential Financial, Inc.",64,38414.00,"Insurance: Life, Health (stock)",Newark,NJ
+Kraft Foods Inc.,49,49542.00,Food Consumer Products,Northfield,IL
+"Lowe&#8217;s Companies, Inc.",50,48815.00,Specialty Retailers: Other,Mooresville,NC
+INTL FCStone Inc.,51,46940.30,Diversified Financials,New York,NY
+Lockheed Martin Corporation,52,46890.00,Aerospace and Defense,Bethesda,MD
+"Merck &#038; Co., Inc.",53,45987.00,Pharmaceuticals,Whitehouse Station,NJ
+"The Goldman Sachs Group, Inc.",54,45967.00,Commercial Banks,New York,NY
+"Express Scripts, Inc.",55,44989.70,Health Care: Pharmacy and Other Services,St. Louis,MO
+Intel Corporation,56,43623.00,Semiconductors and Other Electronic Components,Santa Clara,CA
+"PepsiCo, Inc.",43,57838.00,Food Consumer Products,Purchase,NY
+United Technologies Corporation,44,54326.00,Aerospace and Defense,Hartford,CT
+The Dow Chemical Company,45,53674.00,Chemicals,Midland,MI
+"MetLife, Inc.",46,52717.00,"Insurance: Life, Health (stock)",New York,NY
+Best Buy Co. Inc.,47,49694.00,Specialty Retailers: Other,Richfield,MN
+"United Parcel Service, Inc.",48,49545.00,"Mail, Package, and Freight Delivery",Atlanta,GA
+Pfizer Inc.,31,67809.00,Pharmaceuticals,New York,NY
+Walgreen Co.,32,67420.00,Food and Drug Stores,Deerfield,IL
+Target Corporation,33,67390.00,General Merchandisers,Minneapolis,MN
+"Medco Health Solutions, Inc.",34,65968.30,Health Care: Pharmacy and Other Services,Franklin Lakes,NJ
+"Apple, Inc.",35,65225.00,"Computers, Office Equipment",Cupertino,CA
+The Boeing Company,36,64306.00,Aerospace and Defense,Chicago,IL
+State Farm Insurance Cos.,37,63176.70,Insurance: Property and Casualty (Mutual),Bloomington,IL
+Microsoft Corporation,38,62484.00,Computer Software,Redmond,WA
+Archer-Daniels-Midland Company,39,61682.00,Food Production,Decatur,IL
+Johnson &#038; Johnson,40,61587.00,Pharmaceuticals,New Brunswick,NJ
+Dell Inc.,41,61494.00,"Computers, Office Equipment",Round Rock,TX
+"WellPoint, Inc.",42,58801.80,Health Care: Insurance and Managed Care,Indianapolis,IN
+"American International Group,Inc.",17,104417.00,Insurance: Property and Casualty (Stock),New York,NY
+International Business Machines Corporation,18,99870.00,Information Technology Services,Armonk,NY
+"Cardinal Health, Inc.",19,98601.90,Wholesalers: Health Care,Dublin,OH
+Freddie Mac,20,98368.00,Diversified Financials,McLean,VA
+CVS Caremark Corporation,21,96413.00,Food and Drug Stores,Woonsocket,RI
+UnitedHealth Group Incorporated,22,94155.00,Health Care: Insurance and Managed Care,Minnetonka,MN
+Wells Fargo &#038; Company,23,93249.00,Commercial Banks,San Francisco,CA
+Valero Energy Corporation,24,86034.00,Petroleum Refining,San Antonio,TX
+The Kroger Company,25,82189.40,Food and Drug Stores,Cincinnati,OH
+The Procter &#038; Gamble Company,26,79689.00,Household and Personal Products,Cincinnati,OH
+AmerisourceBergen Corp.,27,77954.00,Wholesalers: Health Care,Chesterbrook,PA
+Costco Wholesale Corporation,28,77946.00,Specialty Retailers: Other,Issaquah,WA
+Marathon Oil Corporation,29,68413.00,Petroleum Refining,Houston,TX
+"The Home Depot, Inc.",30,67997.00,Specialty Retailers: Other,Atlanta,GA
+General Electric Company,6,151628.00,Diversified Financials,Fairfield,CT
+Berkshire Hathaway Inc.,7,136185.00,Insurance: Property and Casualty (Stock),Omaha,NE
+General Motors Corporation,8,135592.00,Motor Vehicles and Parts,Detroit,MI
+Bank of America Corporation,9,134194.00,Commercial Banks,Charlotte,NC
+Ford Motor Company,10,128954.00,Motor Vehicles and Parts,Dearborn,MI
+Hewlett-Packard Company,11,126033.00,"Computers, Office Equipment",Palo Alto,CA
+AT&#038;T Inc.,12,124629.00,Telecommunications,Dallas,TX
+J.P. Morgan Chase &#038; Co.,13,115475.00,Commercial Banks,New York,NY
+"Citigroup, Inc.",14,111055.00,Commercial Banks,New York,NY
+McKesson Corporation,15,108702.00,Wholesalers: Health Care,San Francisco,CA
+Verizon Communications Inc.,16,106565.00,Telecommunications,New York,NY
+"Wal-Mart Stores, Inc.",1,421849.00,General Merchandisers,Bentonville,AR
+Exxon Mobil Corporation,2,354674.00,Petroleum Refining,Irving,TX
+Chevron Corporation,3,196337.00,Petroleum Refining,San Ramon,CA
+ConocoPhillips,4,184966.00,Petroleum Refining,Houston,TX
+Fannie Mae,5,153825.00,Diversified Financials,Washington,DC
