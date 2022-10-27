@@ -7,7 +7,7 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-  - jupyterlab
+  - jupyterlab=3
   - altair
   - scikit-learn
   - openpyxl
