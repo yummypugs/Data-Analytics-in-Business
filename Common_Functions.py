@@ -13,7 +13,7 @@ training_data_path = "house-prices-advanced-regression-techniques/train.csv"
 testing_data_path = "house-prices-advanced-regression-techniques/test.csv"
 stringless_training_data_path = "house-prices-advanced-regression-techniques/stringless_train.csv"
 stringless_testing_data_path = "house-prices-advanced-regression-techniques/stringless_test.csv"
-
+export_data_path = "Exported_Data/"
 
 def get_training_data():
     training_data = pd.read_csv(training_data_path, index_col="Id")
@@ -61,7 +61,7 @@ def plot_matrix(data, threshold, is_saved=False, filename=""):
     plt.figure(figsize=(20, 10))
     sns.heatmap(new_matrix, annot=True)
     if is_saved:
-        plt.savefig(f"{filename}.png", dpi=600)
+        plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
 
     return new_matrix
 
@@ -79,7 +79,7 @@ def plot_feature_importance(x_val, forest, x_lim=20, y_lim=0.6, is_saved=False, 
     plt.xlim(0, x_lim)
     plt.tight_layout()
     if is_saved:
-        plt.savefig(f"{filename}.png", dpi=600)
+        plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
     plt.show()
 
 
@@ -96,7 +96,7 @@ def plot_multi_scatter(columns, y_feature_name, data, is_saved=False, filename="
         sns.regplot(y=y, x=x[k], ax=axs[i])
     plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=5.0)
     if is_saved:
-        plt.savefig(f"{filename}.png", dpi=600)
+        plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
 
 
 def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=500000, is_saved=False, filename=""):
@@ -114,7 +114,7 @@ def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=5
     plt.ylim(0, y_lim)
     plt.tight_layout()
     if is_saved:
-        plt.savefig(f"{filename}.png", dpi=600)
+        plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
     plt.show()
 
 
@@ -127,6 +127,6 @@ def plot_single_scatter(observed, predicted, x_lim=500000, y_lim=500000, is_save
     plt.ylim(0, y_lim)
     plt.tight_layout()
     if is_saved:
-        plt.savefig(f"{filename}.png", dpi=600)
+        plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
     plt.show()
 
