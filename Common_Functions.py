@@ -118,8 +118,8 @@ def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=5
     plt.show()
 
 
-def plot_single_scatter(observed, predicted, x_lim=500000, y_lim=500000, is_saved=False, filename=""):
-    fig, ax = plt.subplots()
+def plot_single_scatter(observed, predicted, x_lim=500000, y_lim=500000, is_saved=False, filename="", size_of_fig=None):
+    fig, ax = plt.subplots(figsize=size_of_fig)
     plt.plot(predicted, observed, ".", alpha=0.6)
     plt.xlabel(r"Predicted Price")
     plt.ylabel(r"Observed Price")
