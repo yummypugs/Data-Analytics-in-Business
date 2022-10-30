@@ -83,13 +83,13 @@ def plot_feature_importance(x_val, forest, x_lim=20, y_lim=0.6, is_saved=False, 
     plt.show()
 
 
-def plot_multi_scatter(columns, y_feature_name, data, is_saved=False, filename=""):
+def plot_multi_scatter(columns, y_feature_name, data, is_saved=False, filename="", column_len=3, row_len=2, fig_size=(20,10)):
     min_max_scaler = preprocessing.MinMaxScaler()
-    column_len = math.ceil(len(columns) / 2)
+    #column_len = math.ceil(len(columns) / 2)
     x = data.loc[:, columns]
     y = data[y_feature_name]
     x = pd.DataFrame(data=min_max_scaler.fit_transform(x), columns=columns)
-    fig, axs = plt.subplots(ncols=column_len, nrows=2, figsize=(20, 10))
+    fig, axs = plt.subplots(ncols=column_len, nrows=row_len, figsize=fig_size)
     index = 0
     axs = axs.flatten()
     for i, k in enumerate(columns):
@@ -99,8 +99,8 @@ def plot_multi_scatter(columns, y_feature_name, data, is_saved=False, filename="
         plt.savefig(f"{export_data_path}{filename}.png", dpi=600)
 
 
-def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=500000, is_saved=False, filename=""):
-    fig, ax = plt.subplots()
+def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=500000, is_saved=False, filename="", size_of_fig=None):
+    fig, ax = plt.subplots(figsize=size_of_fig)
     if observed is not None:
         plt.plot(observed, alpha=0.8, label=r"Observed Price")
     if predicted is not None:
