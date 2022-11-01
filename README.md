@@ -7,8 +7,3 @@ Kaggle Competition:
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-
-Boston housing Dataset: 
-
-https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset/notebook
-
