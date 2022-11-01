@@ -66,12 +66,12 @@ def plot_matrix(data, threshold, is_saved=False, filename=""):
     return new_matrix
 
 
-def plot_feature_importance(x_val, forest, x_lim=20, y_lim=0.6, is_saved=False, filename=""):
+def plot_feature_importance(x_val, forest, x_lim=20, y_lim=0.6, is_saved=False, filename="", fig_size=(20,10)):
     feature_names = [x for x in x_val.columns]
     importance = forest.feature_importances_
     sorted_lists = sorted(zip(importance, feature_names), reverse=True)
     importance, feature_names = [[x[0] for x in sorted_lists], [x[1] for x in sorted_lists]]
-    plt.figure()
+    plt.figure(figsize=fig_size)
     plt.bar(feature_names, importance)
     plt.xticks(rotation=45)
     plt.ylabel(r"feature importance")
