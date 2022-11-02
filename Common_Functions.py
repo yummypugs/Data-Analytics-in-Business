@@ -1,13 +1,8 @@
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
-from statsmodels.api import OLS
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
 import numpy as np
 import seaborn as sns
 from sklearn import preprocessing
-import math
 
 training_data_path = "house-prices-advanced-regression-techniques/train.csv"
 testing_data_path = "house-prices-advanced-regression-techniques/test.csv"
@@ -68,7 +63,7 @@ def merge_predicted_price(data, prediction):
     Merges the predicted price onto the X_test dataframe so that it can be repassed through the training models.
     :param data: a dataframe.
     :param prediction: a dataframe with the predicted price.
-    :return: reuturns the dataframe data with an additional column.
+    :return: returns the dataframe data with an additional column.
     """
     predicted_list = pd.DataFrame(prediction, columns=['SalePrice'])
     merged_data = data.reset_index()
@@ -102,15 +97,15 @@ def plot_matrix(data, threshold, is_saved=False, filename=""):
 
 def plot_feature_importance(x_val, regressor, x_lim=20, y_lim=0.6, is_saved=False, filename="", fig_size=(20, 10)):
     """
-    Bar chart that plots the feature importance as dictated by the regression function
-    :param x_val:
-    :param regressor:
-    :param x_lim:
-    :param y_lim:
-    :param is_saved:
-    :param filename:
-    :param fig_size:
-    :return:
+    Bar chart that plots the feature importance as dictated by the regression function.
+    :param x_val: Dataframe, X_train or X_test
+    :param regressor: regression model ["forest", "gbr", "ols", "xgb"]
+    :param x_lim: int, max number of columns to be graphed
+    :param y_lim: float, between 0 and 1, changes height of graph
+    :param is_saved: True or False, saves the graph as a png
+    :param filename: string, changes the name of exported png
+    :param fig_size: (int, int), changes the size of the figure
+    :return: prints a bar chart with feature importance
     """
     feature_names = [x for x in x_val.columns]
     importance = regressor.feature_importances_
@@ -157,7 +152,17 @@ def plot_multi_scatter(columns, y_feature_name, data, is_saved=False, filename="
 
 
 def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=500000, is_saved=False, filename="", size_of_fig=None):
-
+    """
+    Line chart showing the original vs predicted pricing.
+    :param observed: dataframe, y_train
+    :param predicted: dataframe, y_predicted, y_train_predicted
+    :param x_lim: int, changes sample size
+    :param y_lim: int, changes height of graph
+    :param is_saved: True or False,  checks if graph should be saved
+    :param filename: changes filename on export
+    :param size_of_fig: (int, int) changes figure size
+    :return: prints a line chart
+    """
     fig, ax = plt.subplots(figsize=size_of_fig)
     if observed is not None:
         plt.plot(observed, alpha=0.8, label=r"Observed Price")
@@ -177,6 +182,17 @@ def plot_observed_vs_predicted(observed=None, predicted=None, x_lim=100, y_lim=5
 
 
 def plot_single_scatter(observed, predicted, x_lim=500000, y_lim=500000, is_saved=False, filename="", size_of_fig=None):
+    """
+    Scatter plot for a single prediction vs observed pricing.
+    :param observed: dataframe, y_train
+    :param predicted: dataframe, y_predicted, y_train_predicted
+    :param x_lim: int, changes x value of graph
+    :param y_lim: int, changes y value of graph
+    :param is_saved: True or False,  checks if graph should be saved
+    :param filename: changes filename on export
+    :param size_of_fig: (int, int) changes figure size
+    :return: prints a scatter plot
+    """
     fig, ax = plt.subplots(figsize=size_of_fig)
     plt.plot(predicted, observed, ".", alpha=0.6)
     plt.xlabel(r"Predicted Price")
