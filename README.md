@@ -1,5 +1,5 @@
 # Data-Analytics-in-Business
-Group for Alexander, Ian, Pedro
+Group for Alexander 8480787, Ian-Peter 8486685, Pedro 8471583
 
 This kaggle competition tests our ability to apply regression models to a given dataset, to best estimate the final pricing of the dataset. We use Random Forest, Gradient Boosting Regressor, Linear Regression, and XGBoost Regression and a weighted average to approximate the final price. 
 
